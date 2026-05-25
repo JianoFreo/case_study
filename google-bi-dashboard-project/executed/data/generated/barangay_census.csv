@@ -1,0 +1,1021 @@
+record_id,barangay,city,households,population,median_income,collection_date
+384,Rizal,Davao City,177.0,885.0,28656.0,2024-11-05
+776,Maligaya,Cebu City,202.0,1010.0,16365.0,2025-04-04
+792,Sta. Cruz,Bacolod City,211.0,1055.0,12689.0,2025-02-11
+132,Poblacion,Davao City,234.0,1170.0,18271.0,2024-08-19
+465,Sta. Cruz,Pasig,222.0,1110.0,19486.0,2025-06-26
+589,Bayanihan,Pasig,197.0,788.0,26009.0,2025-05-03
+954,Del Pilar,Pasig,193.0,772.0,18280.0,2025-11-21
+838,Magsaysay,Quezon City,,,,2025-08-28
+457,Mabini,Pasig,205.0,820.0,32462.0,2026-05-05
+25,Del Pilar,Cebu City,183.0,732.0,27134.0,2026-04-30
+4,Rizal,Iloilo City,185.0,740.0,23736.0,2025-10-02
+422,Poblacion,Iloilo City,194.0,582.0,24161.0,2025-08-23
+992,Poblacion,Pasig,203.0,609.0,16590.0,2025-03-03
+260,San Isidro,Quezon City,191.0,764.0,29666.0,2024-06-18
+428,Rizal,Iloilo City,209.0,627.0,13165.0,2025-01-11
+817,Maligaya,Cebu City,211.0,844.0,28852.0,2024-09-28
+259,Del Pilar,Davao City,209.0,836.0,22723.0,2024-07-29
+434,Mabini,Iloilo City,182.0,910.0,11778.0,2025-01-17
+272,Magsaysay,Pasig,176.0,528.0,28838.0,2025-10-06
+237,Bayanihan,Cebu City,204.0,612.0,14844.0,2025-09-26
+947,Maligaya,Quezon City,187.0,561.0,20773.0,2024-08-22
+75,San Jose,Bacolod City,206.0,824.0,8000.0,2026-04-26
+87,San Isidro,Pasig,201.0,603.0,15845.0,2024-09-12
+836,San Isidro,Iloilo City,215.0,645.0,14192.0,2026-04-06
+23,Mabini,Cebu City,211.0,633.0,8000.0,2024-07-16
+719,Bagong Silang,Iloilo City,188.0,564.0,29433.0,2025-06-26
+296,Del Pilar,Bacolod City,210.0,1050.0,15934.0,2024-09-19
+813,San Jose,Bacolod City,180.0,900.0,21778.0,2025-10-01
+153,San Isidro,Cebu City,220.0,1100.0,20286.0,2025-07-07
+537,Mabini,Davao City,189.0,756.0,15089.0,2025-04-14
+438,Bayanihan,Bacolod City,216.0,1080.0,15840.0,2025-04-15
+998,Maligaya,Cebu City,193.0,579.0,8000.0,2024-11-01
+777,Bayanihan,Pasig,181.0,543.0,18683.0,2026-03-31
+309,Poblacion,Cebu City,203.0,1015.0,30448.0,2026-03-15
+369,Poblacion,Davao City,208.0,1040.0,15623.0,2024-09-17
+604,San Miguel,Iloilo City,228.0,912.0,22418.0,2026-04-05
+155,San Jose,Davao City,196.0,784.0,16972.0,2024-08-21
+943,San Isidro,Davao City,205.0,615.0,8000.0,2025-09-04
+790,Del Pilar,Cebu City,221.0,663.0,9199.0,2024-11-03
+254,Maligaya,Cebu City,200.0,1000.0,27701.0,2025-06-14
+573,Poblacion,Quezon City,192.0,768.0,28514.0,2026-04-15
+997,Maligaya,Quezon City,188.0,752.0,13512.0,2026-04-03
+495,San Jose,Iloilo City,192.0,576.0,24006.0,2025-06-19
+652,San Jose,Iloilo City,219.0,657.0,12493.0,2024-12-20
+467,Bagong Silang,Cebu City,181.0,905.0,20145.0,2025-06-28
+51,Sta. Cruz,Iloilo City,175.0,875.0,8000.0,2025-07-27
+519,San Jose,Cebu City,191.0,955.0,20814.0,2024-09-09
+367,Del Pilar,Iloilo City,189.0,756.0,11408.0,2026-01-26
+333,Bayanihan,Bacolod City,194.0,582.0,8000.0,2024-08-06
+308,Bayanihan,Pasig,191.0,764.0,13066.0,2024-09-24
+832,Del Pilar,Pasig,183.0,915.0,23803.0,2025-02-12
+708,Sta. Cruz,Iloilo City,175.0,700.0,18841.0,2024-10-12
+800,Bagong Silang,Quezon City,188.0,940.0,25303.0,2026-02-07
+979,Sta. Cruz,Cebu City,208.0,1040.0,11960.0,2025-07-03
+387,Bagong Silang,Quezon City,192.0,768.0,21033.0,2025-10-24
+139,Bagong Silang,Davao City,195.0,975.0,18764.0,2025-03-23
+127,Poblacion,Davao City,216.0,1080.0,10363.0,2025-06-11
+378,Bayanihan,Pasig,209.0,1045.0,27158.0,2025-12-10
+911,Mabini,Cebu City,191.0,764.0,22888.0,2025-11-03
+826,Mabini,Pasig,210.0,1050.0,23449.0,2025-02-10
+47,Sta. Cruz,Bacolod City,217.0,868.0,21117.0,2025-01-17
+442,Magsaysay,Cebu City,185.0,740.0,8000.0,2025-05-13
+390,Bayanihan,Cebu City,192.0,768.0,8000.0,2025-11-30
+373,Poblacion,Pasig,208.0,624.0,26121.0,2024-08-08
+391,Bagong Silang,Bacolod City,197.0,591.0,9304.0,2026-05-02
+110,Magsaysay,Quezon City,182.0,728.0,11804.0,2025-07-13
+540,Bayanihan,Bacolod City,194.0,582.0,8000.0,2024-11-11
+727,Poblacion,Bacolod City,198.0,990.0,28415.0,2024-10-18
+137,Maligaya,Pasig,,,,2026-01-31
+941,Bayanihan,Pasig,204.0,816.0,11248.0,2026-01-21
+631,Poblacion,Pasig,211.0,1055.0,21751.0,2026-05-03
+130,San Miguel,Cebu City,214.0,642.0,18262.0,2024-07-16
+426,San Miguel,Bacolod City,195.0,585.0,15221.0,2025-09-08
+417,San Miguel,Iloilo City,210.0,840.0,8039.0,2026-01-10
+370,San Isidro,Bacolod City,192.0,576.0,24324.0,2026-02-01
+108,Poblacion,Quezon City,1608.0,6336.0,146132.0,2025-03-24
+400,Maligaya,Quezon City,210.0,1050.0,29907.0,2024-12-13
+905,Magsaysay,Pasig,216.0,648.0,23000.0,2025-07-27
+545,Sta. Cruz,Cebu City,215.0,1075.0,8000.0,2025-02-19
+101,San Isidro,Cebu City,214.0,1070.0,20099.0,2025-06-11
+849,San Jose,Cebu City,193.0,772.0,17172.0,2026-04-14
+942,Maligaya,Davao City,204.0,1020.0,13387.0,2025-04-15
+978,Bagong Silang,Cebu City,196.0,784.0,11912.0,2024-06-15
+220,Mabini,Davao City,233.0,932.0,12098.0,2024-08-13
+114,Poblacion,Quezon City,212.0,1060.0,21076.0,2024-06-03
+624,Bayanihan,Cebu City,204.0,816.0,8000.0,2025-07-18
+178,San Miguel,Bacolod City,192.0,960.0,15791.0,2024-11-14
+295,Poblacion,Davao City,200.0,800.0,18643.0,2025-11-14
+49,San Jose,Iloilo City,193.0,772.0,21655.0,2025-01-03
+276,Rizal,Pasig,189.0,567.0,13843.0,2024-11-17
+996,Del Pilar,Iloilo City,194.0,582.0,24719.0,2024-12-03
+406,Sta. Cruz,Iloilo City,191.0,764.0,28273.0,2025-09-29
+713,Magsaysay,Iloilo City,215.0,860.0,16569.0,2024-10-29
+845,Poblacion,Pasig,222.0,888.0,18336.0,2026-01-15
+58,Bayanihan,Davao City,175.0,700.0,8000.0,2026-04-24
+812,Magsaysay,Iloilo City,,,,2024-12-03
+675,Rizal,Cebu City,1608.0,6336.0,146132.0,2025-11-18
+499,Bagong Silang,Iloilo City,196.0,980.0,27156.0,2024-07-18
+921,Bagong Silang,Iloilo City,188.0,940.0,19949.0,2025-01-11
+344,Mabini,Cebu City,196.0,784.0,20082.0,2024-10-12
+886,Mabini,Bacolod City,195.0,780.0,18973.0,2025-10-19
+606,Rizal,Davao City,199.0,995.0,13574.0,2026-02-05
+928,Sta. Cruz,Pasig,212.0,636.0,24352.0,2024-09-29
+125,San Isidro,Bacolod City,202.0,1010.0,10540.0,2025-01-20
+859,San Miguel,Cebu City,197.0,985.0,19299.0,2025-04-05
+671,Rizal,Quezon City,208.0,832.0,24313.0,2025-06-09
+585,Del Pilar,Pasig,,,,2025-11-09
+226,Poblacion,Davao City,191.0,764.0,20332.0,2026-05-19
+173,Maligaya,Bacolod City,218.0,654.0,18819.0,2025-01-25
+268,Del Pilar,Iloilo City,196.0,784.0,12161.0,2025-08-27
+246,San Isidro,Pasig,227.0,1135.0,12487.0,2026-02-25
+436,San Isidro,Davao City,206.0,824.0,23806.0,2026-02-16
+984,Bayanihan,Quezon City,210.0,1050.0,8000.0,2026-05-24
+374,Sta. Cruz,Pasig,180.0,720.0,18131.0,2026-02-14
+85,Rizal,Pasig,186.0,744.0,18830.0,2024-09-06
+918,Magsaysay,Pasig,176.0,528.0,21600.0,2025-10-13
+693,Rizal,Cebu City,205.0,1025.0,17534.0,2025-08-08
+700,San Isidro,Quezon City,187.0,561.0,20964.0,2024-06-20
+349,Magsaysay,Bacolod City,208.0,832.0,21007.0,2024-12-14
+931,San Jose,Bacolod City,184.0,920.0,21263.0,2025-05-02
+571,San Isidro,Pasig,204.0,816.0,15923.0,2024-09-14
+64,San Isidro,Quezon City,175.0,525.0,20208.0,2025-12-25
+172,Sta. Cruz,Bacolod City,201.0,804.0,17874.0,2024-11-17
+456,Del Pilar,Pasig,215.0,860.0,11484.0,2024-06-01
+770,Bagong Silang,Cebu City,203.0,1015.0,21133.0,2026-04-18
+608,Poblacion,Bacolod City,234.0,1170.0,15408.0,2024-06-02
+977,Sta. Cruz,Iloilo City,188.0,564.0,10161.0,2026-01-24
+144,Del Pilar,Quezon City,209.0,627.0,16348.0,2026-01-20
+270,Maligaya,Quezon City,206.0,824.0,10942.0,2025-07-09
+724,San Isidro,Cebu City,216.0,648.0,24564.0,2025-04-25
+533,Rizal,Pasig,202.0,808.0,14639.0,2025-01-25
+834,San Miguel,Iloilo City,200.0,600.0,15908.0,2024-08-16
+231,Rizal,Quezon City,208.0,624.0,8000.0,2025-08-08
+520,Bagong Silang,Quezon City,241.0,723.0,17730.0,2025-07-06
+564,Rizal,Pasig,203.0,812.0,8000.0,2025-11-15
+611,Rizal,Iloilo City,208.0,832.0,19003.0,2026-03-11
+864,Rizal,Pasig,182.0,728.0,27122.0,2025-05-28
+65,San Jose,Davao City,213.0,852.0,28359.0,2024-12-26
+133,San Isidro,Iloilo City,201.0,804.0,13134.0,2025-12-14
+613,San Miguel,Quezon City,209.0,627.0,13906.0,2024-06-17
+318,Mabini,Cebu City,186.0,744.0,8000.0,2025-03-17
+665,Bayanihan,Cebu City,203.0,609.0,12136.0,2025-03-31
+82,San Isidro,Bacolod City,180.0,720.0,25782.0,2026-05-15
+962,San Isidro,Bacolod City,167.0,668.0,31564.0,2025-06-21
+215,Maligaya,Quezon City,200.0,800.0,15083.0,2025-11-21
+116,Del Pilar,Quezon City,189.0,756.0,30157.0,2024-07-27
+412,Mabini,Iloilo City,,,,2025-04-09
+477,Maligaya,Quezon City,198.0,990.0,25423.0,2026-02-24
+736,Rizal,Cebu City,201.0,1005.0,13545.0,2026-01-24
+944,Maligaya,Pasig,197.0,788.0,20363.0,2024-10-10
+813,San Jose,Bacolod City,180.0,900.0,21778.0,2025-10-01
+289,Bagong Silang,Quezon City,209.0,836.0,8000.0,2026-03-16
+301,San Miguel,Pasig,1608.0,6336.0,146132.0,2025-10-22
+880,Bayanihan,Iloilo City,204.0,1020.0,19229.0,2024-09-04
+629,San Isidro,Iloilo City,194.0,776.0,17274.0,2024-12-30
+454,Sta. Cruz,Pasig,220.0,1100.0,28256.0,2025-07-05
+168,Bayanihan,Quezon City,196.0,980.0,24773.0,2025-03-25
+758,Magsaysay,Iloilo City,212.0,1060.0,26223.0,2024-12-10
+907,Bagong Silang,Quezon City,214.0,642.0,18060.0,2025-07-05
+680,Mabini,Davao City,223.0,892.0,8000.0,2024-12-11
+7,San Jose,Davao City,209.0,836.0,13409.0,2026-05-08
+722,San Miguel,Pasig,188.0,564.0,13649.0,2024-11-05
+557,Del Pilar,Quezon City,233.0,699.0,14376.0,2025-09-04
+385,San Jose,Pasig,192.0,960.0,8671.0,2024-08-18
+901,Bagong Silang,Iloilo City,193.0,772.0,16997.0,2025-04-14
+41,San Miguel,Pasig,181.0,905.0,20547.0,2025-06-16
+784,San Isidro,Iloilo City,211.0,1055.0,26016.0,2026-01-08
+513,Rizal,Bacolod City,192.0,576.0,17446.0,2025-06-07
+663,Bagong Silang,Davao City,213.0,1065.0,18450.0,2024-08-31
+18,San Jose,Bacolod City,201.0,603.0,17417.0,2024-06-23
+397,San Miguel,Quezon City,207.0,828.0,16315.0,2026-02-03
+721,Bagong Silang,Bacolod City,212.0,848.0,15066.0,2025-05-18
+839,Mabini,Bacolod City,200.0,1000.0,15542.0,2026-01-05
+503,Poblacion,Pasig,192.0,576.0,21186.0,2024-07-02
+684,San Isidro,Davao City,192.0,960.0,12868.0,2026-04-22
+357,Bayanihan,Pasig,195.0,585.0,28161.0,2025-07-09
+803,Magsaysay,Davao City,204.0,612.0,16807.0,2024-09-18
+435,Poblacion,Iloilo City,214.0,856.0,17095.0,2026-01-09
+677,Magsaysay,Bacolod City,237.0,948.0,12499.0,2026-03-18
+929,Mabini,Cebu City,213.0,852.0,15958.0,2025-04-23
+19,San Jose,Iloilo City,200.0,1000.0,23815.0,2026-05-07
+33,Sta. Cruz,Quezon City,218.0,654.0,29632.0,2025-07-10
+54,San Miguel,Quezon City,184.0,920.0,23458.0,2024-07-22
+214,Del Pilar,Quezon City,210.0,1050.0,15797.0,2024-07-29
+850,Maligaya,Cebu City,206.0,1030.0,25724.0,2024-06-21
+731,San Jose,Cebu City,202.0,1010.0,8000.0,2024-06-19
+527,Rizal,Pasig,215.0,1075.0,21341.0,2025-03-29
+192,Del Pilar,Iloilo City,217.0,868.0,19139.0,2025-04-15
+284,San Miguel,Pasig,202.0,1010.0,21665.0,2025-04-05
+914,San Isidro,Quezon City,194.0,970.0,22655.0,2026-04-07
+79,Mabini,Cebu City,187.0,935.0,10605.0,2025-02-20
+601,Sta. Cruz,Cebu City,206.0,618.0,26973.0,2025-05-15
+577,Maligaya,Quezon City,198.0,990.0,35177.0,2025-02-15
+43,Bagong Silang,Davao City,218.0,654.0,19804.0,2025-11-06
+598,Bayanihan,Cebu City,186.0,744.0,15612.0,2025-11-28
+575,Maligaya,Bacolod City,203.0,1015.0,22312.0,2026-01-16
+28,Bagong Silang,Bacolod City,197.0,788.0,29595.0,2024-12-01
+273,San Isidro,Davao City,201.0,1005.0,26868.0,2025-05-18
+327,Magsaysay,Pasig,212.0,636.0,17673.0,2024-06-13
+568,San Miguel,Quezon City,212.0,636.0,20483.0,2024-11-19
+26,Magsaysay,Bacolod City,219.0,876.0,17250.0,2024-10-09
+209,Bagong Silang,Davao City,210.0,840.0,10562.0,2024-12-08
+917,San Isidro,Bacolod City,211.0,844.0,20207.0,2024-11-21
+31,Magsaysay,Davao City,183.0,549.0,25742.0,2024-09-07
+293,Mabini,Pasig,192.0,576.0,8000.0,2025-09-28
+288,Sta. Cruz,Pasig,207.0,621.0,16835.0,2025-06-14
+225,Poblacion,Cebu City,218.0,654.0,10378.0,2025-01-07
+638,Del Pilar,Bacolod City,198.0,594.0,17256.0,2026-02-12
+358,Maligaya,Pasig,174.0,522.0,24697.0,2025-05-18
+267,Mabini,Iloilo City,227.0,681.0,8000.0,2025-03-15
+135,Magsaysay,Bacolod City,202.0,1010.0,8000.0,2025-02-13
+106,Mabini,Pasig,204.0,612.0,25298.0,2025-07-13
+8,Bayanihan,Pasig,184.0,920.0,18150.0,2024-12-06
+126,Poblacion,Davao City,198.0,594.0,17553.0,2024-06-20
+594,Del Pilar,Bacolod City,184.0,920.0,8000.0,2024-08-26
+989,Bayanihan,Cebu City,200.0,600.0,12531.0,2025-12-03
+959,Maligaya,Davao City,203.0,1015.0,18688.0,2024-10-02
+510,Sta. Cruz,Quezon City,177.0,885.0,17256.0,2026-02-26
+379,San Isidro,Davao City,161.0,644.0,27542.0,2024-12-28
+701,San Isidro,Davao City,212.0,1060.0,20725.0,2024-12-05
+609,Maligaya,Pasig,206.0,618.0,20977.0,2025-09-02
+798,Maligaya,Cebu City,206.0,824.0,31721.0,2025-10-14
+597,Sta. Cruz,Iloilo City,200.0,800.0,17742.0,2024-08-02
+556,Del Pilar,Bacolod City,181.0,905.0,21650.0,2025-11-30
+200,Del Pilar,Bacolod City,198.0,594.0,27537.0,2026-05-08
+679,San Jose,Bacolod City,,,,2024-05-24
+549,San Jose,Davao City,210.0,630.0,20257.0,2024-08-26
+974,San Miguel,Bacolod City,,,,2024-08-04
+840,Bayanihan,Iloilo City,208.0,832.0,17499.0,2024-12-06
+120,Maligaya,Bacolod City,197.0,788.0,8691.0,2024-09-20
+453,Bagong Silang,Bacolod City,202.0,606.0,23467.0,2024-08-29
+81,Del Pilar,Iloilo City,197.0,788.0,11412.0,2025-06-04
+915,Poblacion,Quezon City,190.0,760.0,21168.0,2025-05-12
+983,Del Pilar,Quezon City,212.0,1060.0,10467.0,2026-04-30
+710,San Jose,Bacolod City,215.0,645.0,20925.0,2024-10-03
+302,Poblacion,Quezon City,232.0,1160.0,22797.0,2024-08-02
+212,San Isidro,Cebu City,207.0,621.0,21092.0,2025-07-19
+699,San Jose,Bacolod City,180.0,900.0,10479.0,2026-05-14
+672,San Jose,Pasig,201.0,804.0,17110.0,2026-03-18
+735,Magsaysay,Iloilo City,208.0,1040.0,17697.0,2025-05-14
+883,Maligaya,Bacolod City,217.0,651.0,17691.0,2025-05-12
+698,Del Pilar,Bacolod City,188.0,940.0,8000.0,2025-08-24
+810,San Jose,Cebu City,206.0,618.0,8000.0,2025-07-06
+914,San Isidro,Quezon City,194.0,970.0,22655.0,2026-04-07
+768,Poblacion,Quezon City,184.0,736.0,8000.0,2026-03-02
+404,Maligaya,Davao City,188.0,752.0,13892.0,2026-04-21
+764,San Jose,Davao City,206.0,618.0,23496.0,2025-03-14
+655,Mabini,Iloilo City,212.0,848.0,26970.0,2024-11-26
+707,San Isidro,Iloilo City,197.0,985.0,24219.0,2025-04-21
+496,San Isidro,Bacolod City,207.0,828.0,12085.0,2024-12-26
+539,San Isidro,Iloilo City,182.0,910.0,22197.0,2024-09-28
+16,Bayanihan,Quezon City,200.0,1000.0,14395.0,2024-06-03
+835,San Isidro,Iloilo City,209.0,836.0,18173.0,2025-01-23
+932,San Jose,Quezon City,185.0,555.0,27496.0,2026-02-11
+437,San Jose,Cebu City,217.0,1085.0,21340.0,2024-12-05
+102,Bagong Silang,Pasig,,,,2025-03-02
+375,San Jose,Bacolod City,1608.0,6336.0,146132.0,2024-08-17
+452,Del Pilar,Bacolod City,205.0,820.0,20575.0,2026-02-08
+542,Poblacion,Davao City,202.0,606.0,16770.0,2025-12-01
+300,Magsaysay,Davao City,,,,2025-09-01
+892,San Jose,Quezon City,201.0,1005.0,26729.0,2025-03-30
+263,San Jose,Bacolod City,1608.0,6336.0,146132.0,2025-01-09
+726,Magsaysay,Quezon City,190.0,760.0,8838.0,2025-11-19
+829,Bayanihan,Iloilo City,206.0,1030.0,17865.0,2026-05-24
+175,Maligaya,Quezon City,,,,2026-01-23
+468,Poblacion,Davao City,175.0,875.0,14467.0,2024-11-09
+897,Bagong Silang,Cebu City,191.0,573.0,19031.0,2024-07-08
+460,San Isidro,Iloilo City,205.0,615.0,12683.0,2025-11-22
+345,Rizal,Iloilo City,198.0,594.0,11059.0,2024-08-07
+754,San Miguel,Cebu City,171.0,855.0,12034.0,2024-12-12
+469,Maligaya,Pasig,208.0,1040.0,29017.0,2025-06-06
+799,Rizal,Davao City,203.0,1015.0,28471.0,2024-11-27
+967,San Miguel,Iloilo City,205.0,615.0,14769.0,2025-05-29
+620,San Miguel,Davao City,191.0,764.0,14071.0,2025-04-15
+716,Del Pilar,Bacolod City,194.0,776.0,23389.0,2026-04-24
+910,Magsaysay,Cebu City,216.0,864.0,17171.0,2026-04-05
+454,Sta. Cruz,Pasig,220.0,1100.0,28256.0,2025-07-05
+887,Del Pilar,Pasig,204.0,612.0,25197.0,2024-06-02
+787,Magsaysay,Davao City,188.0,564.0,19723.0,2025-03-08
+640,Sta. Cruz,Quezon City,193.0,579.0,13276.0,2024-08-03
+660,Bagong Silang,Quezon City,195.0,975.0,19621.0,2024-06-27
+508,Maligaya,Davao City,198.0,792.0,18330.0,2025-12-28
+639,San Jose,Davao City,195.0,975.0,19170.0,2025-10-25
+814,San Miguel,Iloilo City,186.0,930.0,21166.0,2024-10-24
+867,San Isidro,Quezon City,186.0,930.0,21818.0,2025-04-06
+827,San Miguel,Quezon City,197.0,788.0,25475.0,2024-07-28
+748,San Miguel,Quezon City,203.0,609.0,20012.0,2024-08-31
+781,Poblacion,Iloilo City,203.0,812.0,17626.0,2024-06-19
+744,Rizal,Pasig,196.0,980.0,13407.0,2024-08-29
+728,Magsaysay,Pasig,192.0,768.0,25625.0,2025-10-14
+711,San Miguel,Quezon City,203.0,1015.0,15286.0,2024-12-28
+952,Mabini,Cebu City,195.0,780.0,12157.0,2024-12-20
+870,Bagong Silang,Pasig,225.0,1125.0,11156.0,2024-09-10
+136,San Jose,Cebu City,193.0,965.0,20229.0,2025-05-28
+637,Maligaya,Davao City,,,,2024-12-17
+789,Sta. Cruz,Pasig,179.0,537.0,12406.0,2024-07-12
+248,Bayanihan,Cebu City,220.0,880.0,19218.0,2024-07-13
+320,San Miguel,Quezon City,,,,2024-07-16
+306,Magsaysay,Pasig,194.0,776.0,33512.0,2025-06-21
+376,Poblacion,Bacolod City,219.0,657.0,16006.0,2024-10-01
+857,Rizal,Pasig,232.0,1160.0,14183.0,2025-10-18
+973,Mabini,Pasig,208.0,832.0,10368.0,2024-07-31
+543,Sta. Cruz,Pasig,180.0,540.0,8000.0,2025-02-14
+676,Poblacion,Iloilo City,174.0,696.0,21871.0,2026-02-18
+756,Maligaya,Bacolod City,203.0,812.0,20872.0,2025-08-26
+626,San Miguel,Iloilo City,202.0,1010.0,26864.0,2025-01-03
+398,Maligaya,Bacolod City,192.0,768.0,21811.0,2024-11-28
+147,Magsaysay,Bacolod City,188.0,564.0,15507.0,2024-06-19
+634,Del Pilar,Quezon City,177.0,531.0,17898.0,2024-11-17
+815,Poblacion,Pasig,210.0,630.0,12995.0,2025-12-15
+462,Bagong Silang,Cebu City,206.0,824.0,8000.0,2025-01-06
+596,Magsaysay,Pasig,188.0,752.0,16342.0,2024-06-04
+141,Bayanihan,Davao City,211.0,633.0,22219.0,2024-09-13
+902,Sta. Cruz,Davao City,,,,2025-07-26
+958,Bayanihan,Cebu City,235.0,940.0,20321.0,2025-03-14
+703,San Miguel,Iloilo City,186.0,558.0,23018.0,2026-04-18
+750,Rizal,Quezon City,197.0,591.0,14665.0,2026-01-16
+955,Poblacion,Pasig,190.0,950.0,15367.0,2026-04-18
+27,San Miguel,Pasig,207.0,828.0,21624.0,2025-01-05
+156,San Miguel,Pasig,184.0,736.0,37892.0,2026-01-27
+890,Maligaya,Iloilo City,215.0,860.0,13766.0,2025-03-19
+581,San Isidro,Iloilo City,217.0,868.0,26914.0,2024-08-11
+683,Poblacion,Cebu City,221.0,884.0,12117.0,2025-05-16
+686,Poblacion,Quezon City,204.0,816.0,21430.0,2025-03-21
+650,San Isidro,Bacolod City,203.0,1015.0,23707.0,2025-06-15
+516,Del Pilar,Iloilo City,210.0,1050.0,11446.0,2026-04-12
+579,San Jose,Davao City,208.0,624.0,19838.0,2025-05-15
+100,San Jose,Davao City,204.0,1020.0,26502.0,2026-01-06
+854,Poblacion,Cebu City,200.0,600.0,8000.0,2025-01-24
+899,Rizal,Pasig,189.0,567.0,11223.0,2024-12-08
+167,Mabini,Davao City,200.0,600.0,20755.0,2024-07-18
+874,Sta. Cruz,Davao City,191.0,764.0,15064.0,2025-08-05
+24,Rizal,Davao City,228.0,912.0,20493.0,2026-05-05
+553,Poblacion,Quezon City,206.0,618.0,14294.0,2026-05-04
+205,Poblacion,Pasig,210.0,630.0,18675.0,2025-01-23
+34,San Miguel,Iloilo City,205.0,615.0,20524.0,2025-05-13
+243,Magsaysay,Davao City,202.0,606.0,20365.0,2024-06-11
+566,San Miguel,Davao City,203.0,1015.0,8000.0,2024-11-06
+371,Sta. Cruz,Davao City,,,,2024-06-24
+636,Maligaya,Davao City,200.0,1000.0,16018.0,2024-10-16
+948,Rizal,Pasig,,,,2025-07-02
+661,San Isidro,Quezon City,,,,2026-01-27
+10,San Isidro,Quezon City,181.0,543.0,12962.0,2025-03-05
+11,Maligaya,Pasig,207.0,1035.0,15578.0,2025-06-15
+80,Maligaya,Bacolod City,193.0,579.0,28014.0,2026-04-23
+965,Magsaysay,Iloilo City,189.0,567.0,15389.0,2024-08-28
+351,Mabini,Cebu City,203.0,1015.0,25069.0,2025-07-26
+119,Poblacion,Iloilo City,208.0,624.0,12855.0,2024-09-01
+936,Rizal,Pasig,203.0,812.0,27695.0,2025-11-08
+235,San Miguel,Quezon City,176.0,528.0,28991.0,2025-05-03
+521,Poblacion,Pasig,185.0,740.0,15059.0,2025-06-22
+908,Poblacion,Quezon City,199.0,796.0,17963.0,2026-03-08
+290,Bayanihan,Cebu City,182.0,728.0,18565.0,2025-12-14
+217,Sta. Cruz,Quezon City,205.0,1025.0,28728.0,2025-05-04
+50,Mabini,Bacolod City,211.0,1055.0,25127.0,2024-11-15
+501,Magsaysay,Quezon City,199.0,597.0,15562.0,2025-04-26
+931,San Jose,Bacolod City,184.0,920.0,21263.0,2025-05-02
+895,Rizal,Pasig,203.0,609.0,18757.0,2024-12-03
+494,Poblacion,Quezon City,196.0,784.0,22602.0,2025-09-14
+610,San Jose,Bacolod City,201.0,603.0,28206.0,2025-11-30
+145,Bagong Silang,Davao City,210.0,840.0,19888.0,2026-05-18
+475,San Miguel,Cebu City,227.0,908.0,21093.0,2025-04-24
+687,San Miguel,Davao City,200.0,1000.0,8000.0,2025-07-08
+993,Magsaysay,Quezon City,219.0,1095.0,9826.0,2026-02-03
+334,San Miguel,Cebu City,214.0,642.0,24977.0,2025-04-17
+113,Mabini,Iloilo City,202.0,808.0,13731.0,2025-12-12
+733,San Miguel,Pasig,197.0,788.0,16366.0,2026-05-22
+550,San Miguel,Pasig,,,,2025-08-03
+361,Magsaysay,Bacolod City,197.0,591.0,16254.0,2025-12-18
+669,Sta. Cruz,Iloilo City,197.0,788.0,20737.0,2024-07-27
+408,Magsaysay,Cebu City,188.0,564.0,20983.0,2025-02-13
+339,Rizal,Iloilo City,204.0,612.0,24077.0,2025-02-15
+702,Bagong Silang,Cebu City,214.0,1070.0,22044.0,2026-05-03
+938,Magsaysay,Pasig,191.0,573.0,20066.0,2024-07-29
+645,Bayanihan,Davao City,213.0,639.0,19374.0,2024-12-08
+595,San Miguel,Cebu City,194.0,776.0,19911.0,2025-06-29
+352,Bayanihan,Davao City,180.0,900.0,8000.0,2025-04-04
+674,San Isidro,Iloilo City,208.0,1040.0,12227.0,2025-12-25
+464,Magsaysay,Bacolod City,212.0,1060.0,18221.0,2025-10-01
+463,Bayanihan,Davao City,210.0,840.0,15863.0,2025-06-10
+421,Maligaya,Quezon City,207.0,1035.0,26225.0,2025-12-01
+619,Poblacion,Davao City,188.0,940.0,19996.0,2026-04-10
+323,Magsaysay,Pasig,198.0,990.0,23067.0,2025-03-17
+729,Mabini,Davao City,194.0,776.0,12737.0,2025-06-24
+439,San Isidro,Cebu City,201.0,603.0,22071.0,2024-12-01
+855,Mabini,Davao City,184.0,552.0,24904.0,2025-12-29
+184,Mabini,Davao City,194.0,582.0,15933.0,2024-07-24
+368,San Jose,Quezon City,218.0,1090.0,25689.0,2026-03-01
+891,Magsaysay,Quezon City,189.0,756.0,8271.0,2024-11-21
+343,San Jose,Pasig,188.0,752.0,22789.0,2025-08-12
+307,Del Pilar,Quezon City,222.0,666.0,8000.0,2025-06-20
+218,Bayanihan,Bacolod City,205.0,820.0,16901.0,2024-09-27
+971,Poblacion,Bacolod City,213.0,639.0,10547.0,2025-01-07
+38,Maligaya,Cebu City,204.0,612.0,23997.0,2025-03-03
+314,Magsaysay,Davao City,192.0,576.0,29954.0,2025-08-13
+584,Del Pilar,Quezon City,189.0,756.0,27727.0,2025-07-17
+189,San Jose,Iloilo City,205.0,1025.0,24858.0,2025-08-12
+482,San Jose,Bacolod City,217.0,868.0,35743.0,2025-05-04
+37,Poblacion,Cebu City,209.0,627.0,23051.0,2024-10-22
+900,Bayanihan,Bacolod City,,,,2026-01-21
+771,Del Pilar,Cebu City,181.0,724.0,27358.0,2025-11-11
+871,San Miguel,Bacolod City,191.0,764.0,23339.0,2025-06-26
+523,Bagong Silang,Cebu City,200.0,800.0,20539.0,2025-08-24
+479,San Jose,Iloilo City,207.0,621.0,12986.0,2025-09-20
+234,Mabini,Bacolod City,189.0,945.0,18885.0,2025-09-16
+103,Rizal,Davao City,206.0,824.0,8000.0,2024-11-18
+757,Poblacion,Iloilo City,204.0,816.0,24252.0,2025-09-19
+759,Bayanihan,Pasig,232.0,1160.0,15351.0,2026-02-25
+720,Maligaya,Bacolod City,215.0,860.0,33429.0,2026-02-24
+66,Mabini,Quezon City,182.0,546.0,13908.0,2026-02-04
+419,Sta. Cruz,Bacolod City,209.0,1045.0,27997.0,2026-01-27
+164,Sta. Cruz,Bacolod City,200.0,1000.0,19344.0,2026-02-12
+264,Bagong Silang,Cebu City,184.0,920.0,28749.0,2025-03-15
+232,San Miguel,Bacolod City,179.0,895.0,20628.0,2026-03-24
+561,Bagong Silang,Quezon City,198.0,792.0,13133.0,2025-05-16
+236,Bayanihan,Quezon City,,,,2025-12-27
+492,San Jose,Davao City,199.0,597.0,29995.0,2025-08-25
+176,Rizal,Iloilo City,203.0,1015.0,14708.0,2025-06-09
+807,Del Pilar,Iloilo City,175.0,525.0,14076.0,2026-01-29
+861,Bayanihan,Bacolod City,182.0,546.0,14661.0,2025-05-26
+72,Poblacion,Davao City,202.0,606.0,23729.0,2026-01-16
+126,Poblacion,Davao City,198.0,594.0,17553.0,2024-06-20
+90,San Jose,Pasig,187.0,561.0,14041.0,2025-03-25
+118,Magsaysay,Quezon City,193.0,772.0,20804.0,2025-01-08
+322,Bagong Silang,Quezon City,176.0,704.0,28654.0,2024-06-23
+633,San Isidro,Pasig,211.0,633.0,15570.0,2024-07-10
+972,Bayanihan,Davao City,203.0,609.0,11685.0,2025-11-23
+548,Magsaysay,Quezon City,205.0,615.0,14175.0,2026-05-08
+62,Poblacion,Davao City,183.0,915.0,16990.0,2025-12-21
+715,Bayanihan,Pasig,193.0,965.0,38097.0,2025-04-29
+187,Bagong Silang,Pasig,180.0,720.0,22369.0,2025-01-24
+681,San Jose,Davao City,209.0,1045.0,19848.0,2024-12-03
+402,Rizal,Davao City,221.0,884.0,21323.0,2024-07-27
+233,Mabini,Quezon City,216.0,1080.0,31649.0,2025-09-16
+563,San Isidro,Pasig,201.0,603.0,15940.0,2025-01-12
+73,San Isidro,Davao City,177.0,708.0,14420.0,2024-07-24
+478,Maligaya,Pasig,187.0,935.0,22578.0,2024-10-16
+271,San Isidro,Iloilo City,187.0,561.0,9409.0,2024-11-19
+112,San Miguel,Cebu City,191.0,955.0,10142.0,2024-05-29
+470,San Isidro,Quezon City,225.0,1125.0,11449.0,2026-02-06
+515,Sta. Cruz,Quezon City,188.0,752.0,19671.0,2026-05-12
+498,San Miguel,Cebu City,192.0,768.0,25496.0,2025-10-31
+227,Magsaysay,Pasig,197.0,985.0,19522.0,2024-11-27
+330,Rizal,Pasig,198.0,792.0,16652.0,2026-03-08
+562,Rizal,Quezon City,211.0,633.0,13466.0,2025-02-21
+427,Rizal,Iloilo City,214.0,642.0,16362.0,2026-04-01
+196,Mabini,Davao City,230.0,690.0,8000.0,2025-02-03
+337,Bagong Silang,Davao City,191.0,955.0,23041.0,2024-10-29
+654,Del Pilar,Davao City,198.0,792.0,27671.0,2025-07-21
+779,San Isidro,Iloilo City,185.0,740.0,31867.0,2026-02-05
+29,Del Pilar,Iloilo City,186.0,558.0,8000.0,2025-03-05
+587,Mabini,Bacolod City,208.0,624.0,13634.0,2025-02-06
+474,Magsaysay,Iloilo City,198.0,792.0,19043.0,2025-09-18
+502,Del Pilar,Cebu City,178.0,534.0,16070.0,2025-03-15
+138,Mabini,Pasig,200.0,800.0,21344.0,2025-01-05
+554,San Isidro,Quezon City,173.0,519.0,13473.0,2025-07-13
+987,Del Pilar,Quezon City,,,,2026-02-25
+945,Poblacion,Bacolod City,196.0,980.0,15940.0,2025-05-28
+394,Maligaya,Pasig,213.0,639.0,23362.0,2025-03-26
+383,Mabini,Pasig,187.0,561.0,26259.0,2025-12-31
+272,Magsaysay,Pasig,176.0,528.0,28838.0,2025-10-06
+779,San Isidro,Iloilo City,185.0,740.0,31867.0,2026-02-05
+670,San Miguel,Bacolod City,207.0,828.0,16152.0,2024-11-30
+466,Mabini,Quezon City,190.0,950.0,29700.0,2025-01-06
+649,Del Pilar,Cebu City,205.0,820.0,15080.0,2026-02-28
+481,Magsaysay,Iloilo City,199.0,597.0,8000.0,2024-06-24
+329,Poblacion,Iloilo City,,,,2025-08-28
+13,Del Pilar,Iloilo City,196.0,784.0,11980.0,2024-06-10
+603,Poblacion,Iloilo City,200.0,1000.0,9940.0,2025-05-01
+926,Mabini,Cebu City,214.0,642.0,22336.0,2025-08-31
+207,Rizal,Iloilo City,210.0,840.0,35238.0,2025-05-10
+104,Del Pilar,Davao City,197.0,985.0,25729.0,2024-12-27
+490,San Jose,Bacolod City,193.0,772.0,20400.0,2024-11-29
+310,San Isidro,Bacolod City,205.0,1025.0,24435.0,2024-07-09
+517,Bayanihan,Quezon City,210.0,840.0,8000.0,2025-09-24
+223,San Miguel,Pasig,207.0,1035.0,17138.0,2025-11-10
+154,San Jose,Iloilo City,190.0,570.0,18029.0,2025-05-10
+181,Sta. Cruz,Iloilo City,196.0,784.0,18486.0,2024-10-07
+657,San Jose,Pasig,202.0,1010.0,22348.0,2025-04-10
+183,Poblacion,Cebu City,206.0,618.0,13590.0,2025-10-08
+893,San Jose,Cebu City,192.0,576.0,12746.0,2025-03-12
+332,Bayanihan,Cebu City,210.0,1050.0,18425.0,2024-11-05
+583,Mabini,Quezon City,211.0,844.0,10059.0,2025-09-20
+142,San Isidro,Pasig,207.0,621.0,24903.0,2025-06-22
+772,Rizal,Bacolod City,240.0,960.0,10814.0,2025-02-08
+667,San Jose,Davao City,198.0,792.0,23615.0,2025-01-25
+786,Bayanihan,Davao City,203.0,609.0,20325.0,2025-01-29
+559,Del Pilar,Quezon City,204.0,612.0,30447.0,2025-07-31
+612,San Isidro,Cebu City,201.0,603.0,24808.0,2025-05-27
+717,Bayanihan,Pasig,236.0,1180.0,14839.0,2025-02-15
+317,Sta. Cruz,Bacolod City,175.0,875.0,20474.0,2024-09-14
+416,Bagong Silang,Quezon City,194.0,582.0,8000.0,2025-10-28
+211,Bagong Silang,Davao City,,,,2025-09-08
+778,Rizal,Quezon City,212.0,1060.0,23020.0,2025-12-23
+143,San Jose,Bacolod City,200.0,1000.0,26552.0,2025-10-04
+3,San Miguel,Pasig,185.0,555.0,16926.0,2026-04-17
+363,Poblacion,Bacolod City,194.0,582.0,18705.0,2025-05-23
+5,Rizal,Quezon City,190.0,950.0,11661.0,2025-12-26
+45,Poblacion,Pasig,214.0,642.0,29099.0,2025-03-30
+963,Magsaysay,Quezon City,196.0,784.0,8000.0,2025-12-23
+282,Sta. Cruz,Bacolod City,198.0,990.0,8000.0,2025-03-28
+690,Poblacion,Iloilo City,200.0,800.0,8012.0,2024-07-23
+203,Rizal,Iloilo City,200.0,1000.0,20855.0,2025-10-11
+303,San Jose,Davao City,210.0,630.0,19559.0,2026-01-19
+572,Rizal,Quezon City,182.0,546.0,21403.0,2025-11-15
+366,San Isidro,Davao City,211.0,633.0,31066.0,2025-12-28
+359,San Jose,Davao City,196.0,980.0,8000.0,2024-10-21
+582,Mabini,Pasig,190.0,760.0,25278.0,2024-08-21
+528,Sta. Cruz,Bacolod City,,,,2025-10-14
+372,Del Pilar,Bacolod City,,,,2025-06-30
+607,Bagong Silang,Davao City,196.0,588.0,27246.0,2025-06-03
+500,San Isidro,Pasig,,,,2024-09-02
+599,San Jose,Davao City,175.0,875.0,33110.0,2024-11-01
+238,Del Pilar,Quezon City,192.0,960.0,19870.0,2024-12-04
+274,Poblacion,Bacolod City,190.0,760.0,8833.0,2025-11-24
+692,Mabini,Davao City,204.0,612.0,12563.0,2026-05-03
+195,San Miguel,Quezon City,187.0,561.0,26967.0,2024-12-01
+514,Maligaya,Quezon City,,,,2025-08-17
+876,San Isidro,Quezon City,189.0,945.0,8000.0,2026-02-23
+628,Magsaysay,Cebu City,178.0,890.0,10602.0,2024-09-03
+210,Maligaya,Bacolod City,198.0,990.0,17391.0,2025-07-15
+163,Poblacion,Quezon City,194.0,776.0,12399.0,2025-01-09
+678,San Jose,Pasig,195.0,780.0,8516.0,2025-09-12
+803,Magsaysay,Davao City,204.0,612.0,16807.0,2024-09-18
+88,San Jose,Iloilo City,208.0,624.0,8242.0,2025-05-13
+775,Mabini,Iloilo City,187.0,748.0,15595.0,2024-08-13
+615,Poblacion,Davao City,195.0,585.0,23645.0,2024-12-28
+191,Sta. Cruz,Bacolod City,197.0,985.0,8641.0,2024-07-22
+179,Bayanihan,Quezon City,201.0,603.0,29625.0,2024-07-07
+393,San Isidro,Quezon City,203.0,812.0,13714.0,2026-04-22
+409,Bayanihan,Pasig,230.0,920.0,11398.0,2024-10-15
+570,Bayanihan,Bacolod City,196.0,980.0,11278.0,2025-07-07
+968,Maligaya,Iloilo City,195.0,975.0,9715.0,2025-10-02
+704,Magsaysay,Iloilo City,187.0,935.0,11501.0,2025-02-05
+512,San Jose,Quezon City,207.0,828.0,16256.0,2024-08-10
+712,San Isidro,Davao City,220.0,880.0,30783.0,2024-12-15
+440,San Miguel,Bacolod City,,,,2025-02-03
+472,Poblacion,Davao City,207.0,1035.0,22529.0,2025-08-14
+399,Rizal,Cebu City,187.0,561.0,16619.0,2025-03-23
+593,Sta. Cruz,Pasig,210.0,1050.0,13669.0,2025-02-23
+651,Del Pilar,Davao City,204.0,816.0,29929.0,2024-12-30
+709,Sta. Cruz,Cebu City,217.0,1085.0,22816.0,2026-02-17
+877,San Miguel,Cebu City,214.0,642.0,34763.0,2025-03-17
+44,Sta. Cruz,Bacolod City,207.0,828.0,20500.0,2025-08-04
+262,Magsaysay,Cebu City,203.0,1015.0,21656.0,2025-12-21
+567,Maligaya,Pasig,214.0,1070.0,26552.0,2025-07-07
+430,San Jose,Pasig,213.0,1065.0,18507.0,2025-03-03
+229,Del Pilar,Davao City,213.0,1065.0,38139.0,2025-05-13
+6,San Isidro,Quezon City,220.0,1100.0,19453.0,2025-04-22
+990,Maligaya,Iloilo City,178.0,712.0,13132.0,2026-02-16
+820,Sta. Cruz,Cebu City,196.0,784.0,23400.0,2025-02-14
+319,Poblacion,Cebu City,179.0,716.0,14896.0,2024-12-28
+881,Magsaysay,Iloilo City,211.0,1055.0,16822.0,2024-06-09
+313,San Miguel,Bacolod City,,,,2025-06-14
+76,Bagong Silang,Cebu City,184.0,736.0,21983.0,2026-02-08
+174,Bayanihan,Quezon City,204.0,816.0,26530.0,2024-11-04
+842,Maligaya,Cebu City,180.0,720.0,21553.0,2025-09-09
+52,Mabini,Davao City,191.0,764.0,9603.0,2026-03-29
+552,Magsaysay,Davao City,199.0,995.0,16882.0,2025-03-11
+797,Bayanihan,Davao City,210.0,1050.0,17996.0,2024-10-25
+488,Mabini,Cebu City,184.0,552.0,8000.0,2025-08-08
+221,Del Pilar,Cebu City,192.0,768.0,21157.0,2026-01-16
+509,Bayanihan,Davao City,221.0,884.0,20988.0,2026-04-01
+586,San Miguel,Pasig,184.0,552.0,25094.0,2024-11-12
+388,Rizal,Cebu City,210.0,1050.0,13755.0,2024-10-15
+94,Bayanihan,Davao City,1608.0,6336.0,146132.0,2024-09-25
+149,San Jose,Iloilo City,181.0,543.0,12156.0,2026-04-11
+483,San Jose,Cebu City,211.0,844.0,11730.0,2024-08-02
+853,Rizal,Cebu City,212.0,848.0,8000.0,2025-03-26
+250,Bagong Silang,Davao City,201.0,804.0,12983.0,2025-08-03
+341,Mabini,Pasig,223.0,1115.0,23089.0,2025-05-20
+809,Rizal,Iloilo City,203.0,812.0,24948.0,2026-04-17
+201,Rizal,Quezon City,187.0,748.0,22516.0,2025-11-19
+92,Poblacion,Bacolod City,209.0,836.0,10434.0,2024-11-16
+541,San Jose,Pasig,200.0,800.0,27527.0,2024-12-05
+443,San Miguel,Iloilo City,181.0,905.0,13595.0,2024-06-23
+986,Magsaysay,Iloilo City,194.0,776.0,19957.0,2024-12-30
+281,Mabini,Bacolod City,,,,2024-08-04
+411,San Jose,Pasig,209.0,1045.0,15057.0,2025-09-17
+865,Magsaysay,Cebu City,217.0,651.0,17864.0,2025-12-28
+569,Maligaya,Cebu City,207.0,1035.0,26229.0,2025-09-27
+616,San Miguel,Pasig,182.0,728.0,13273.0,2024-08-09
+927,Maligaya,Davao City,219.0,876.0,14203.0,2025-08-17
+336,Bagong Silang,Iloilo City,226.0,1130.0,12828.0,2025-10-11
+872,Del Pilar,Iloilo City,177.0,708.0,20253.0,2024-09-22
+858,Poblacion,Bacolod City,202.0,1010.0,15255.0,2025-12-10
+924,Maligaya,Iloilo City,213.0,1065.0,20564.0,2026-01-19
+507,Sta. Cruz,Quezon City,186.0,744.0,24450.0,2025-06-17
+753,Poblacion,Quezon City,202.0,1010.0,24871.0,2025-04-15
+760,San Isidro,Bacolod City,194.0,582.0,13331.0,2026-03-30
+93,Poblacion,Quezon City,209.0,627.0,36074.0,2024-10-06
+743,Sta. Cruz,Pasig,213.0,639.0,21724.0,2025-09-15
+846,Maligaya,Cebu City,217.0,651.0,17855.0,2025-01-25
+906,Del Pilar,Iloilo City,198.0,594.0,9691.0,2024-09-13
+912,Bagong Silang,Iloilo City,180.0,900.0,24475.0,2024-10-27
+576,Poblacion,Cebu City,215.0,645.0,19761.0,2024-10-26
+574,Poblacion,Davao City,201.0,603.0,23250.0,2025-09-26
+279,Rizal,Davao City,200.0,600.0,10419.0,2025-09-17
+280,Mabini,Pasig,204.0,1020.0,18791.0,2026-05-22
+338,Poblacion,Cebu City,176.0,880.0,13310.0,2026-02-16
+228,Maligaya,Bacolod City,185.0,925.0,8918.0,2026-05-13
+9,Poblacion,Quezon City,184.0,736.0,26813.0,2025-05-31
+86,Sta. Cruz,Cebu City,216.0,1080.0,17707.0,2025-12-07
+904,San Isidro,Quezon City,202.0,606.0,16253.0,2025-03-31
+617,Maligaya,Quezon City,206.0,618.0,26311.0,2026-04-27
+811,San Miguel,Cebu City,203.0,1015.0,15780.0,2026-01-20
+841,Rizal,Iloilo City,180.0,720.0,23473.0,2025-10-20
+97,Magsaysay,Quezon City,,,,2024-06-25
+342,Bagong Silang,Davao City,200.0,1000.0,16103.0,2025-04-19
+122,Maligaya,Davao City,175.0,525.0,19538.0,2025-02-05
+157,San Miguel,Iloilo City,181.0,724.0,21030.0,2024-07-06
+752,Del Pilar,Pasig,198.0,594.0,25509.0,2025-06-05
+755,San Jose,Pasig,195.0,585.0,16519.0,2024-07-23
+682,Bagong Silang,Iloilo City,193.0,965.0,25943.0,2024-08-31
+471,Bagong Silang,Quezon City,188.0,752.0,26086.0,2024-11-04
+558,Mabini,Quezon City,1608.0,6336.0,146132.0,2025-04-02
+294,Maligaya,Cebu City,201.0,804.0,32699.0,2025-05-22
+823,San Isidro,Iloilo City,184.0,920.0,15813.0,2024-08-20
+746,San Miguel,Iloilo City,190.0,760.0,25328.0,2025-10-21
+165,Mabini,Bacolod City,222.0,1110.0,22661.0,2024-07-21
+747,Sta. Cruz,Davao City,187.0,748.0,15967.0,2025-11-09
+283,Maligaya,Cebu City,232.0,928.0,29616.0,2025-04-19
+365,San Miguel,Cebu City,186.0,744.0,14959.0,2024-11-07
+311,Mabini,Quezon City,188.0,752.0,18978.0,2025-10-14
+511,Del Pilar,Iloilo City,185.0,555.0,17985.0,2025-06-11
+180,Poblacion,Quezon City,196.0,588.0,24754.0,2025-11-08
+70,Maligaya,Quezon City,193.0,965.0,26562.0,2026-01-23
+935,Poblacion,Pasig,205.0,615.0,24967.0,2025-10-19
+896,Magsaysay,Quezon City,207.0,828.0,12294.0,2025-08-08
+688,Del Pilar,Davao City,,,,2026-05-21
+961,Poblacion,Davao City,208.0,1040.0,25537.0,2025-02-09
+59,Bagong Silang,Iloilo City,213.0,852.0,13370.0,2024-10-16
+885,Bagong Silang,Pasig,177.0,531.0,13083.0,2025-11-20
+1000,Maligaya,Pasig,199.0,995.0,27632.0,2025-08-05
+957,Rizal,Quezon City,217.0,651.0,17336.0,2024-06-19
+266,San Isidro,Cebu City,175.0,525.0,9903.0,2024-08-15
+769,Del Pilar,Iloilo City,208.0,1040.0,25631.0,2026-02-17
+801,Sta. Cruz,Cebu City,218.0,1090.0,8925.0,2024-09-08
+381,San Isidro,Cebu City,210.0,630.0,19424.0,2025-07-10
+605,Poblacion,Iloilo City,193.0,579.0,11444.0,2026-03-28
+685,Del Pilar,Bacolod City,200.0,1000.0,12962.0,2024-11-07
+795,Mabini,Pasig,182.0,910.0,20383.0,2025-08-12
+730,Bagong Silang,Cebu City,198.0,594.0,25184.0,2024-06-14
+148,San Isidro,Davao City,203.0,609.0,22266.0,2026-03-29
+252,Del Pilar,Quezon City,198.0,594.0,21688.0,2024-09-30
+647,Mabini,Iloilo City,221.0,663.0,16395.0,2024-12-27
+903,Bayanihan,Pasig,,,,2025-12-03
+213,San Miguel,Davao City,214.0,642.0,10709.0,2024-06-24
+441,Bayanihan,Davao City,223.0,1115.0,27256.0,2024-12-08
+879,Rizal,Quezon City,183.0,549.0,23028.0,2024-08-20
+331,Bayanihan,Bacolod City,197.0,591.0,8000.0,2025-11-30
+782,Poblacion,Davao City,214.0,642.0,12809.0,2025-07-03
+277,Sta. Cruz,Cebu City,194.0,582.0,18722.0,2024-11-17
+802,San Miguel,Bacolod City,214.0,856.0,26286.0,2025-02-08
+788,San Jose,Iloilo City,213.0,852.0,30162.0,2024-11-06
+668,Del Pilar,Davao City,204.0,612.0,12266.0,2025-08-05
+694,Poblacion,Pasig,198.0,594.0,19255.0,2024-07-21
+449,Maligaya,Davao City,177.0,708.0,15321.0,2024-09-08
+171,San Isidro,Bacolod City,205.0,820.0,12727.0,2024-07-04
+822,San Jose,Davao City,226.0,1130.0,15591.0,2025-07-08
+525,Poblacion,Quezon City,201.0,603.0,21946.0,2024-08-23
+304,Poblacion,Cebu City,206.0,618.0,14756.0,2024-10-20
+488,Mabini,Cebu City,184.0,552.0,8000.0,2025-08-08
+738,Sta. Cruz,Pasig,,,,2026-05-12
+833,San Miguel,Iloilo City,193.0,579.0,20099.0,2025-03-16
+20,San Miguel,Bacolod City,209.0,1045.0,27350.0,2025-06-27
+325,Bayanihan,Quezon City,201.0,804.0,14860.0,2025-09-14
+261,Del Pilar,Bacolod City,196.0,784.0,8000.0,2025-03-31
+848,San Jose,Iloilo City,188.0,564.0,14649.0,2024-08-02
+410,Sta. Cruz,Pasig,206.0,618.0,11752.0,2025-07-15
+401,San Jose,Iloilo City,187.0,935.0,30051.0,2025-07-27
+217,Sta. Cruz,Quezon City,205.0,1025.0,28728.0,2025-05-04
+55,Sta. Cruz,Pasig,196.0,980.0,20833.0,2024-10-23
+889,Bayanihan,Quezon City,219.0,657.0,24989.0,2025-04-02
+151,Sta. Cruz,Cebu City,180.0,900.0,19539.0,2025-11-17
+697,Magsaysay,Pasig,204.0,1020.0,9343.0,2026-02-24
+878,Rizal,Pasig,201.0,804.0,12191.0,2026-01-26
+718,San Jose,Davao City,185.0,555.0,13707.0,2026-05-03
+705,San Jose,Cebu City,195.0,780.0,14490.0,2025-02-19
+107,San Isidro,Pasig,213.0,852.0,30818.0,2025-04-24
+725,Maligaya,Bacolod City,197.0,985.0,21263.0,2025-03-23
+25,Del Pilar,Cebu City,183.0,732.0,27134.0,2026-04-30
+916,Rizal,Iloilo City,196.0,588.0,14077.0,2026-04-12
+534,Magsaysay,Cebu City,185.0,555.0,8000.0,2025-01-04
+818,Sta. Cruz,Cebu City,208.0,832.0,25076.0,2024-08-05
+83,Bagong Silang,Bacolod City,215.0,1075.0,26464.0,2025-04-10
+843,Poblacion,Pasig,192.0,576.0,16325.0,2025-02-25
+862,San Miguel,Bacolod City,216.0,648.0,15396.0,2024-06-06
+614,Poblacion,Davao City,179.0,716.0,20770.0,2024-11-23
+380,Sta. Cruz,Cebu City,181.0,724.0,20881.0,2025-09-21
+77,Mabini,Cebu City,,,,2024-07-02
+389,Mabini,Pasig,207.0,1035.0,24743.0,2025-05-12
+407,Mabini,Cebu City,205.0,1025.0,20501.0,2025-07-09
+292,Mabini,Bacolod City,210.0,1050.0,16611.0,2026-01-01
+111,Magsaysay,Cebu City,213.0,852.0,14986.0,2025-12-09
+625,Bagong Silang,Pasig,215.0,645.0,25963.0,2025-04-01
+794,Mabini,Pasig,209.0,1045.0,19399.0,2024-11-24
+773,Rizal,Pasig,185.0,925.0,27140.0,2026-04-20
+247,San Jose,Iloilo City,202.0,606.0,25112.0,2026-02-02
+146,Maligaya,Pasig,206.0,824.0,19437.0,2024-06-10
+129,Del Pilar,Quezon City,221.0,884.0,18512.0,2025-08-01
+852,Sta. Cruz,Pasig,181.0,724.0,14979.0,2026-05-04
+623,San Jose,Quezon City,214.0,1070.0,24151.0,2024-10-29
+976,Poblacion,Bacolod City,202.0,808.0,27054.0,2025-06-09
+946,Magsaysay,Davao City,195.0,780.0,13295.0,2024-10-02
+487,San Jose,Iloilo City,194.0,776.0,9039.0,2025-02-27
+909,Sta. Cruz,Davao City,220.0,1100.0,9940.0,2024-10-14
+91,Poblacion,Bacolod City,199.0,995.0,27272.0,2024-10-12
+206,San Miguel,Quezon City,205.0,1025.0,19686.0,2024-05-28
+980,Bagong Silang,Quezon City,201.0,804.0,15665.0,2026-02-05
+171,San Isidro,Bacolod City,205.0,820.0,12727.0,2024-07-04
+919,Del Pilar,Quezon City,222.0,666.0,17002.0,2024-11-28
+57,Del Pilar,Iloilo City,170.0,850.0,26987.0,2025-08-03
+405,Sta. Cruz,Quezon City,187.0,748.0,8000.0,2024-05-28
+242,Mabini,Pasig,206.0,824.0,16035.0,2026-04-15
+600,Del Pilar,Cebu City,175.0,525.0,20065.0,2024-11-15
+347,Bayanihan,Davao City,,,,2025-05-09
+98,San Miguel,Quezon City,215.0,860.0,10118.0,2025-06-16
+117,Maligaya,Bacolod City,201.0,804.0,19652.0,2025-09-24
+202,San Isidro,Quezon City,201.0,603.0,15016.0,2024-12-19
+888,Rizal,Davao City,193.0,579.0,15706.0,2026-05-08
+480,Sta. Cruz,Iloilo City,190.0,950.0,15542.0,2025-07-24
+324,Maligaya,Davao City,206.0,824.0,8000.0,2024-06-21
+194,San Jose,Pasig,196.0,588.0,21016.0,2024-08-09
+444,San Miguel,Iloilo City,213.0,852.0,10415.0,2026-03-27
+816,Poblacion,Iloilo City,191.0,955.0,21168.0,2025-07-25
+455,Del Pilar,Cebu City,199.0,597.0,16936.0,2025-03-01
+529,Rizal,Bacolod City,198.0,990.0,18213.0,2025-02-18
+806,Sta. Cruz,Cebu City,198.0,594.0,18854.0,2025-12-06
+551,Magsaysay,Iloilo City,207.0,828.0,28442.0,2025-04-21
+819,Magsaysay,Cebu City,210.0,840.0,31051.0,2025-05-26
+543,Sta. Cruz,Pasig,180.0,540.0,8000.0,2025-02-14
+994,Bayanihan,Davao City,201.0,1005.0,19191.0,2025-03-12
+297,San Jose,Bacolod City,204.0,816.0,18548.0,2024-11-06
+894,Magsaysay,Davao City,185.0,740.0,22834.0,2025-04-06
+602,San Miguel,Quezon City,,,,2025-09-01
+825,Bayanihan,Cebu City,211.0,844.0,28023.0,2025-01-03
+396,Maligaya,Quezon City,185.0,925.0,24409.0,2025-10-06
+427,Rizal,Iloilo City,214.0,642.0,16362.0,2026-04-01
+821,Bagong Silang,Bacolod City,206.0,618.0,24822.0,2024-08-29
+560,Rizal,Davao City,167.0,501.0,13623.0,2024-10-15
+526,San Isidro,Davao City,212.0,1060.0,12431.0,2025-10-16
+970,Magsaysay,Cebu City,174.0,696.0,24626.0,2025-01-29
+15,Magsaysay,Bacolod City,173.0,865.0,20588.0,2025-07-05
+253,San Isidro,Quezon City,204.0,1020.0,21143.0,2025-07-27
+239,Mabini,Quezon City,182.0,728.0,12338.0,2025-08-13
+121,San Isidro,Cebu City,221.0,663.0,27958.0,2024-09-28
+286,Del Pilar,Pasig,197.0,788.0,11617.0,2024-08-19
+555,Bayanihan,Cebu City,175.0,875.0,12957.0,2025-05-27
+197,Bagong Silang,Davao City,201.0,1005.0,16121.0,2025-10-19
+346,San Jose,Pasig,210.0,840.0,14276.0,2025-01-17
+546,Sta. Cruz,Pasig,206.0,824.0,10214.0,2025-05-21
+251,San Miguel,Quezon City,1608.0,6336.0,146132.0,2024-09-14
+934,Maligaya,Cebu City,192.0,576.0,24552.0,2025-05-27
+646,Maligaya,Pasig,205.0,820.0,25444.0,2024-06-27
+830,Rizal,Quezon City,195.0,975.0,11738.0,2024-09-24
+413,San Jose,Davao City,197.0,788.0,13640.0,2024-11-05
+486,Bagong Silang,Pasig,201.0,603.0,33230.0,2026-02-19
+431,Mabini,Cebu City,214.0,642.0,16891.0,2026-01-09
+793,Bagong Silang,Cebu City,191.0,573.0,20627.0,2024-09-25
+767,Bayanihan,Pasig,230.0,690.0,12876.0,2024-09-12
+291,San Jose,Bacolod City,207.0,1035.0,26471.0,2026-01-19
+17,Magsaysay,Cebu City,200.0,1000.0,10437.0,2025-03-02
+159,Bayanihan,Quezon City,201.0,804.0,18466.0,2025-05-13
+244,Del Pilar,Cebu City,193.0,965.0,8000.0,2025-12-12
+67,Bagong Silang,Cebu City,208.0,624.0,19752.0,2025-04-17
+925,Rizal,Iloilo City,,,,2026-02-18
+360,Poblacion,Cebu City,201.0,804.0,14789.0,2026-02-12
+953,Bagong Silang,Quezon City,188.0,564.0,14286.0,2026-01-30
+632,Mabini,Davao City,206.0,824.0,15605.0,2025-02-08
+505,San Miguel,Davao City,211.0,844.0,26555.0,2025-02-08
+473,Magsaysay,Quezon City,196.0,784.0,15723.0,2025-11-22
+964,Bagong Silang,Quezon City,197.0,788.0,15950.0,2025-06-11
+578,San Jose,Pasig,184.0,552.0,14109.0,2025-03-01
+982,Maligaya,Davao City,180.0,540.0,27436.0,2025-12-06
+522,Magsaysay,Bacolod City,,,,2026-05-14
+875,Mabini,Pasig,202.0,808.0,21909.0,2024-09-10
+531,Bayanihan,Bacolod City,184.0,552.0,10635.0,2026-04-26
+409,Bayanihan,Pasig,230.0,920.0,11398.0,2024-10-15
+666,Maligaya,Davao City,195.0,975.0,23664.0,2025-09-16
+873,Bagong Silang,Quezon City,221.0,663.0,24753.0,2024-11-13
+433,Sta. Cruz,Cebu City,204.0,612.0,17265.0,2025-10-14
+432,Mabini,Bacolod City,205.0,1025.0,24799.0,2025-01-15
+485,Magsaysay,Iloilo City,197.0,985.0,19436.0,2025-03-14
+152,San Jose,Bacolod City,214.0,1070.0,20501.0,2026-02-03
+328,Maligaya,Davao City,207.0,828.0,18673.0,2025-05-28
+257,Sta. Cruz,Bacolod City,188.0,940.0,8000.0,2024-10-22
+312,Rizal,Iloilo City,210.0,630.0,35604.0,2024-05-25
+805,Del Pilar,Quezon City,194.0,582.0,23234.0,2024-06-10
+305,Mabini,Quezon City,204.0,816.0,8689.0,2025-04-26
+785,San Isidro,Bacolod City,206.0,618.0,17591.0,2025-07-31
+414,Rizal,Quezon City,206.0,1030.0,34280.0,2025-09-19
+134,Rizal,Cebu City,177.0,885.0,8000.0,2024-07-08
+32,Magsaysay,Pasig,204.0,1020.0,19954.0,2025-04-04
+766,Sta. Cruz,Quezon City,194.0,776.0,14662.0,2025-07-08
+783,Mabini,Pasig,190.0,570.0,10567.0,2026-01-14
+459,Bagong Silang,Bacolod City,178.0,712.0,13106.0,2026-03-18
+162,San Jose,Quezon City,184.0,552.0,19624.0,2025-11-20
+340,Sta. Cruz,Davao City,246.0,738.0,19127.0,2024-10-25
+287,Del Pilar,Cebu City,215.0,1075.0,12597.0,2026-02-18
+249,Poblacion,Iloilo City,194.0,970.0,13029.0,2024-10-26
+940,Poblacion,Bacolod City,199.0,597.0,33158.0,2024-10-31
+580,Bayanihan,Davao City,199.0,796.0,8000.0,2026-05-10
+837,Del Pilar,Bacolod City,190.0,950.0,25753.0,2025-06-14
+937,Bayanihan,Bacolod City,185.0,555.0,22497.0,2026-01-12
+2,Maligaya,Iloilo City,187.0,561.0,8378.0,2024-09-16
+737,Magsaysay,Davao City,191.0,955.0,9617.0,2025-05-30
+208,San Isidro,Pasig,219.0,1095.0,8000.0,2025-02-03
+630,Del Pilar,Cebu City,187.0,748.0,21067.0,2025-07-14
+933,Del Pilar,Cebu City,182.0,546.0,20640.0,2024-10-04
+851,Bagong Silang,Davao City,220.0,1100.0,18865.0,2025-02-03
+898,Bagong Silang,Davao City,194.0,582.0,14897.0,2024-12-23
+265,Mabini,Iloilo City,178.0,890.0,19056.0,2025-12-30
+275,Bagong Silang,Quezon City,214.0,1070.0,22982.0,2024-10-25
+71,Bagong Silang,Iloilo City,233.0,932.0,28806.0,2025-05-04
+641,San Jose,Pasig,207.0,828.0,14209.0,2024-09-19
+445,Poblacion,Pasig,193.0,579.0,8000.0,2024-11-16
+847,San Isidro,Quezon City,221.0,884.0,15460.0,2025-12-29
+99,Sta. Cruz,Iloilo City,185.0,925.0,19919.0,2024-08-21
+866,Del Pilar,Iloilo City,209.0,1045.0,27719.0,2024-11-16
+22,Mabini,Bacolod City,181.0,543.0,21516.0,2025-09-16
+706,San Isidro,Bacolod City,197.0,985.0,21806.0,2024-07-12
+415,Rizal,Quezon City,189.0,567.0,8686.0,2026-05-13
+518,Maligaya,Quezon City,218.0,1090.0,15589.0,2025-06-28
+150,Maligaya,Bacolod City,217.0,651.0,15426.0,2024-09-13
+648,Bagong Silang,Bacolod City,188.0,564.0,19060.0,2025-02-26
+355,Sta. Cruz,Cebu City,206.0,618.0,8000.0,2025-08-24
+951,San Isidro,Davao City,196.0,784.0,13657.0,2026-02-05
+53,Magsaysay,Iloilo City,194.0,582.0,26224.0,2024-07-22
+199,Mabini,Davao City,,,,2025-02-17
+123,Rizal,Cebu City,207.0,621.0,22683.0,2025-06-18
+204,Maligaya,Bacolod City,199.0,796.0,11388.0,2025-05-09
+68,Sta. Cruz,Bacolod City,214.0,1070.0,19753.0,2025-08-12
+224,Maligaya,Cebu City,194.0,970.0,13171.0,2024-09-07
+128,Bayanihan,Bacolod City,198.0,594.0,9764.0,2026-02-15
+656,Bayanihan,Pasig,193.0,579.0,11503.0,2026-03-26
+140,Bagong Silang,Cebu City,,,,2025-08-23
+418,Bagong Silang,Bacolod City,208.0,624.0,20304.0,2025-01-18
+219,Bagong Silang,Quezon City,191.0,955.0,17168.0,2024-09-13
+547,San Miguel,Pasig,208.0,832.0,26124.0,2025-03-01
+158,Bayanihan,Cebu City,196.0,784.0,18512.0,2025-12-23
+95,Mabini,Pasig,230.0,1150.0,17488.0,2024-06-20
+256,San Isidro,Bacolod City,181.0,543.0,14292.0,2024-06-19
+988,San Miguel,Cebu City,190.0,760.0,15532.0,2025-11-18
+644,Del Pilar,Pasig,187.0,748.0,24929.0,2025-09-14
+739,Del Pilar,Pasig,182.0,546.0,27564.0,2026-04-24
+40,Rizal,Pasig,228.0,912.0,13822.0,2025-08-28
+131,Sta. Cruz,Davao City,202.0,1010.0,37526.0,2024-11-17
+95,Mabini,Pasig,230.0,1150.0,17488.0,2024-06-20
+190,Mabini,Quezon City,189.0,756.0,28527.0,2025-03-13
+960,Magsaysay,Quezon City,191.0,764.0,22082.0,2025-08-14
+590,Magsaysay,Pasig,188.0,940.0,22747.0,2024-06-16
+403,San Isidro,Davao City,232.0,928.0,12934.0,2025-06-14
+761,Magsaysay,Bacolod City,205.0,615.0,30789.0,2025-07-20
+39,San Miguel,Pasig,185.0,925.0,18839.0,2025-06-07
+243,Magsaysay,Davao City,202.0,606.0,20365.0,2024-06-11
+354,San Isidro,Quezon City,190.0,950.0,11947.0,2024-08-12
+621,Bagong Silang,Iloilo City,214.0,856.0,22387.0,2025-10-04
+651,Del Pilar,Davao City,204.0,816.0,29929.0,2024-12-30
+535,Bayanihan,Cebu City,196.0,980.0,9002.0,2026-04-14
+504,San Jose,Pasig,179.0,537.0,18354.0,2025-02-04
+160,Bayanihan,Cebu City,211.0,1055.0,11887.0,2026-01-24
+395,San Miguel,Davao City,216.0,864.0,31907.0,2025-06-29
+538,Sta. Cruz,Quezon City,196.0,588.0,8000.0,2025-10-26
+696,Rizal,Cebu City,198.0,990.0,30848.0,2025-07-08
+241,San Isidro,Iloilo City,162.0,486.0,9918.0,2025-06-04
+14,San Miguel,Davao City,173.0,519.0,11281.0,2024-09-13
+658,Bagong Silang,Iloilo City,206.0,824.0,16312.0,2024-11-21
+476,San Isidro,Pasig,199.0,597.0,15013.0,2025-01-22
+913,Magsaysay,Bacolod City,193.0,965.0,15555.0,2026-04-07
+884,Bagong Silang,Iloilo City,,,,2026-03-31
+315,Bayanihan,Davao City,215.0,645.0,11833.0,2024-07-24
+362,Poblacion,Davao City,197.0,985.0,12662.0,2026-04-04
+591,Rizal,Bacolod City,189.0,567.0,9279.0,2026-01-01
+321,Rizal,Bacolod City,189.0,756.0,19960.0,2025-11-30
+922,San Miguel,Iloilo City,200.0,800.0,21854.0,2026-03-28
+887,Del Pilar,Pasig,204.0,612.0,25197.0,2024-06-02
+673,Bagong Silang,Davao City,226.0,1130.0,22466.0,2026-01-09
+565,San Isidro,Quezon City,184.0,736.0,31918.0,2024-06-09
+356,Magsaysay,Pasig,198.0,594.0,20731.0,2025-06-14
+35,San Jose,Pasig,200.0,1000.0,17617.0,2025-04-26
+335,Magsaysay,Bacolod City,207.0,828.0,11840.0,2026-03-12
+689,Rizal,Quezon City,203.0,812.0,29098.0,2025-09-06
+377,Maligaya,Cebu City,196.0,588.0,24224.0,2025-07-18
+185,Del Pilar,Davao City,215.0,645.0,17149.0,2025-05-23
+824,Poblacion,Bacolod City,209.0,836.0,8000.0,2024-08-30
+424,San Isidro,Iloilo City,208.0,624.0,9992.0,2024-10-22
+326,Maligaya,Pasig,194.0,776.0,8523.0,2025-05-26
+188,Bagong Silang,Iloilo City,237.0,1185.0,20152.0,2026-04-21
+285,San Isidro,Davao City,191.0,764.0,14018.0,2024-06-02
+392,Maligaya,Bacolod City,209.0,836.0,21420.0,2025-05-15
+975,San Isidro,Cebu City,,,,2026-02-05
+166,Mabini,Davao City,200.0,800.0,8932.0,2025-03-22
+348,Mabini,Bacolod City,197.0,788.0,23538.0,2025-04-12
+299,Bagong Silang,Cebu City,192.0,768.0,8000.0,2025-06-28
+536,Bagong Silang,Iloilo City,1608.0,6336.0,146132.0,2025-03-06
+230,Maligaya,Davao City,203.0,1015.0,19818.0,2025-10-01
+860,San Miguel,Iloilo City,,,,2025-12-03
+828,Bayanihan,Cebu City,209.0,1045.0,11117.0,2026-03-18
+695,Poblacion,Cebu City,207.0,1035.0,16203.0,2025-12-24
+856,San Miguel,Pasig,204.0,816.0,14401.0,2025-01-21
+42,Mabini,Iloilo City,206.0,824.0,13120.0,2026-03-23
+869,Sta. Cruz,Iloilo City,181.0,543.0,15502.0,2025-08-07
+749,Bayanihan,Bacolod City,212.0,1060.0,17998.0,2024-06-11
+939,Poblacion,Iloilo City,,,,2025-12-06
+863,Bayanihan,Bacolod City,184.0,552.0,18810.0,2026-03-09
+588,Del Pilar,Pasig,198.0,594.0,22409.0,2025-08-04
+544,Rizal,Bacolod City,201.0,603.0,23578.0,2025-03-20
+447,Del Pilar,Iloilo City,207.0,621.0,25788.0,2024-06-19
+448,Magsaysay,Quezon City,202.0,808.0,8000.0,2024-06-01
+350,San Miguel,Quezon City,190.0,570.0,14163.0,2025-04-05
+46,Magsaysay,Davao City,193.0,965.0,20688.0,2025-10-21
+981,Mabini,Cebu City,203.0,812.0,15382.0,2025-08-26
+109,Mabini,Cebu City,181.0,543.0,23036.0,2024-08-26
+618,Sta. Cruz,Pasig,226.0,904.0,14979.0,2026-02-26
+662,San Miguel,Bacolod City,234.0,1170.0,21081.0,2026-01-28
+30,Magsaysay,Iloilo City,210.0,630.0,8000.0,2025-03-03
+182,San Miguel,Pasig,217.0,868.0,13709.0,2025-10-09
+622,Sta. Cruz,Davao City,,,,2025-07-03
+420,Maligaya,Pasig,197.0,788.0,12817.0,2026-05-07
+635,San Jose,Quezon City,206.0,618.0,15723.0,2026-03-17
+985,Rizal,Pasig,215.0,860.0,28477.0,2025-01-30
+105,Bayanihan,Pasig,200.0,800.0,24986.0,2026-03-22
+61,Bayanihan,Bacolod City,195.0,975.0,13102.0,2025-03-25
+659,Maligaya,Iloilo City,195.0,780.0,8000.0,2024-08-12
+84,Maligaya,Davao City,206.0,1030.0,15660.0,2026-04-05
+491,Maligaya,Quezon City,196.0,588.0,10474.0,2026-05-18
+316,Bagong Silang,Iloilo City,209.0,836.0,34335.0,2025-05-18
+451,Bagong Silang,Quezon City,188.0,940.0,22900.0,2025-04-08
+382,Poblacion,Iloilo City,190.0,950.0,14223.0,2024-08-06
+423,Maligaya,Quezon City,201.0,603.0,23737.0,2025-12-20
+497,Mabini,Iloilo City,177.0,531.0,10571.0,2025-07-10
+966,San Isidro,Cebu City,200.0,600.0,22954.0,2024-05-31
+740,Bagong Silang,Davao City,206.0,824.0,16456.0,2026-01-09
+524,San Miguel,Quezon City,199.0,597.0,18095.0,2025-10-23
+446,Magsaysay,Pasig,188.0,752.0,13865.0,2024-12-01
+664,Bagong Silang,Cebu City,224.0,672.0,17415.0,2025-03-12
+1,Magsaysay,Bacolod City,205.0,615.0,16885.0,2024-11-14
+780,Bayanihan,Cebu City,194.0,776.0,19517.0,2026-02-20
+991,Bayanihan,Cebu City,198.0,792.0,22619.0,2024-07-20
+627,Mabini,Davao City,,,,2026-03-30
+458,Magsaysay,Pasig,202.0,1010.0,20200.0,2025-10-13
+489,Bagong Silang,Pasig,208.0,832.0,16814.0,2025-07-27
+89,Sta. Cruz,Pasig,207.0,828.0,8000.0,2026-02-27
+484,Mabini,Bacolod City,188.0,940.0,15762.0,2025-01-28
+461,Magsaysay,Pasig,215.0,645.0,8000.0,2024-06-10
+78,Rizal,Quezon City,216.0,864.0,23765.0,2025-01-04
+269,Del Pilar,Cebu City,193.0,965.0,16655.0,2025-05-07
+930,Del Pilar,Iloilo City,209.0,627.0,8530.0,2024-09-10
+124,Poblacion,Davao City,212.0,636.0,18421.0,2025-10-07
+298,Sta. Cruz,Quezon City,196.0,980.0,11926.0,2025-09-11
+882,San Jose,Davao City,188.0,564.0,17317.0,2025-07-09
+96,Del Pilar,Iloilo City,207.0,621.0,10493.0,2025-01-23
+734,Sta. Cruz,Pasig,197.0,788.0,9448.0,2025-05-19
+12,Rizal,Davao City,194.0,776.0,18533.0,2024-12-03
+115,Magsaysay,Pasig,194.0,582.0,33676.0,2024-07-11
+844,Sta. Cruz,Bacolod City,205.0,1025.0,21019.0,2024-06-16
+429,San Miguel,Cebu City,212.0,636.0,14682.0,2026-04-17
+258,Maligaya,Cebu City,212.0,848.0,26863.0,2024-07-21
+732,Rizal,Davao City,192.0,768.0,18376.0,2025-01-20
+950,Rizal,Pasig,208.0,624.0,9919.0,2024-10-25
+765,San Isidro,Bacolod City,171.0,855.0,16830.0,2025-02-16
+353,San Isidro,Pasig,200.0,800.0,22600.0,2026-02-03
+995,Del Pilar,Iloilo City,205.0,1025.0,16265.0,2025-08-15
+774,San Miguel,Davao City,203.0,812.0,19915.0,2024-08-30
+956,Rizal,Quezon City,210.0,630.0,9600.0,2024-12-18
+691,Rizal,Iloilo City,213.0,1065.0,16342.0,2024-09-13
+923,San Isidro,Pasig,187.0,935.0,24011.0,2024-11-01
+791,San Jose,Davao City,204.0,816.0,17052.0,2025-06-17
+532,Bayanihan,Cebu City,225.0,675.0,10127.0,2025-01-10
+868,Poblacion,Iloilo City,214.0,856.0,8000.0,2024-07-05
+170,Mabini,Davao City,185.0,740.0,15662.0,2025-11-01
+240,Bagong Silang,Davao City,195.0,975.0,27793.0,2026-03-04
+278,Magsaysay,Quezon City,,,,2025-01-30
+161,Poblacion,Pasig,225.0,1125.0,11936.0,2026-04-08
+74,Bayanihan,Quezon City,208.0,1040.0,21597.0,2025-11-06
+530,San Miguel,Pasig,239.0,1195.0,12378.0,2024-11-09
+63,Poblacion,Bacolod City,189.0,945.0,11927.0,2024-06-25
+762,San Jose,Quezon City,,,,2024-09-18
+493,Rizal,Bacolod City,178.0,712.0,18649.0,2025-08-11
+741,San Jose,Davao City,,,,2025-03-08
+751,Rizal,Iloilo City,189.0,756.0,17670.0,2024-07-05
+742,San Miguel,Quezon City,197.0,788.0,20679.0,2026-02-21
+831,Del Pilar,Bacolod City,199.0,597.0,11715.0,2025-03-17
+796,Maligaya,Davao City,178.0,712.0,16057.0,2024-08-16
+48,Del Pilar,Cebu City,238.0,714.0,20330.0,2026-05-08
+763,Sta. Cruz,Pasig,192.0,576.0,8000.0,2026-05-10
+592,Rizal,Quezon City,207.0,621.0,26958.0,2025-12-23
+808,Maligaya,Pasig,227.0,908.0,27173.0,2025-12-09
+335,Magsaysay,Bacolod City,207.0,828.0,11840.0,2026-03-12
+506,Bayanihan,Davao City,191.0,573.0,18789.0,2024-11-01
+21,Maligaya,Quezon City,204.0,816.0,8000.0,2025-08-26
+969,San Miguel,Pasig,233.0,699.0,8000.0,2025-04-17
+425,Poblacion,Pasig,206.0,1030.0,22903.0,2024-07-17
+653,Maligaya,Cebu City,208.0,624.0,13728.0,2024-09-30
+193,Mabini,Bacolod City,205.0,615.0,26827.0,2025-12-13
+643,Bayanihan,Iloilo City,214.0,642.0,8592.0,2025-12-28
+216,Del Pilar,Pasig,189.0,945.0,21868.0,2024-06-26
+245,Del Pilar,Bacolod City,205.0,1025.0,40600.0,2024-08-13
+364,San Miguel,Pasig,182.0,728.0,21259.0,2024-08-01
+999,Bagong Silang,Iloilo City,201.0,804.0,25666.0,2025-06-18
+60,Mabini,Quezon City,,,,2025-07-19
+222,Sta. Cruz,Quezon City,199.0,597.0,18374.0,2025-08-06
+177,Bagong Silang,Cebu City,209.0,836.0,8000.0,2025-01-17
+450,Maligaya,Iloilo City,1608.0,6336.0,146132.0,2024-10-08
+56,Bagong Silang,Iloilo City,199.0,796.0,14046.0,2024-11-28
+804,Mabini,Pasig,201.0,603.0,14036.0,2026-04-21
+255,Poblacion,Iloilo City,203.0,609.0,10505.0,2025-09-07
+920,Maligaya,Pasig,210.0,840.0,10838.0,2024-10-25
+386,San Isidro,Pasig,208.0,1040.0,23739.0,2025-01-23
+949,Bagong Silang,Cebu City,194.0,582.0,16174.0,2024-10-02
+198,Rizal,Cebu City,230.0,920.0,8559.0,2025-01-20
+69,San Miguel,Iloilo City,174.0,522.0,29195.0,2026-02-10
+723,San Jose,Bacolod City,160.0,800.0,11911.0,2026-04-30
+745,San Miguel,Quezon City,235.0,705.0,18175.0,2025-11-03
+714,Poblacion,Iloilo City,194.0,776.0,15281.0,2025-08-10
+169,Sta. Cruz,Iloilo City,205.0,1025.0,22435.0,2025-02-23
+186,Sta. Cruz,Bacolod City,213.0,639.0,28808.0,2024-08-02
+36,Poblacion,Cebu City,216.0,648.0,19760.0,2025-07-16
+642,Mabini,Iloilo City,199.0,995.0,8148.0,2025-12-06

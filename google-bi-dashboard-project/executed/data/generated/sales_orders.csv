@@ -1,0 +1,1021 @@
+order_id,order_date,customer_name,barangay,product,category,quantity,unit_price,total_amount,payment_method
+SO-100383,2026-05-24,Mark Martinez,Bayanihan,Cooking Oil,Grocery,4.0,537.83,2151.32,Bank Transfer
+SO-100775,2026-05-24,Russell Marks,Bagong Silang,Cooking Oil,Beverage,2.0,232.43,464.86,GCash
+SO-100791,2026-05-24,Kenneth Carlson,Del Pilar,Cooking Oil,Household,3.0,713.7,2141.1,GCash
+SO-100131,2026-05-24,Jessica Terry,Poblacion,Rice,Grocery,5.0,690.7,3453.5,Bank Transfer
+SO-100464,2026-05-24,Janice Cummings,Maligaya,Rice,Beverage,5.0,825.27,4126.35,GCash
+SO-100588,2026-05-24,Tiffany Jones,Bagong Silang,Canned Sardines,Grocery,8.0,768.1,6144.8,GCash
+SO-100953,2026-05-24,Mrs. Chelsea Rowland,Bayanihan,Milk,Grocery,7.0,458.33,3208.31,Cash
+SO-100837,2026-05-24,Penny Copeland,San Isidro,Canned Sardines,Personal Care,,,,Bank Transfer
+SO-100456,2026-05-24,Mr. Robert Martinez MD,Rizal,Instant Noodles,Grocery,4.0,545.31,2181.24,Bank Transfer
+SO-100024,2026-05-24,Beverly Ferguson,Magsaysay,Shampoo,Personal Care,4.0,526.83,2107.32,GCash
+SO-100003,2026-05-24,Shannon Johnson,Magsaysay,Coffee,Household,2.0,537.28,1074.56,Bank Transfer
+SO-100421,2026-05-24,Katie Webb,Sta. Cruz,Instant Noodles,Personal Care,3.0,475.72,1427.16,Cash
+SO-100991,2026-05-24,Samuel Mcintosh,Bagong Silang,Cooking Oil,Household,7.0,453.71,3175.97,Card
+SO-100259,2026-05-24,Caitlin Hunt,San Isidro,Cooking Oil,Beverage,6.0,277.42,1664.52,GCash
+SO-100427,2026-05-24,Anna Ellis,Maligaya,Instant Noodles,Grocery,6.0,413.64,2481.84,GCash
+SO-100816,2026-05-24,Daniel Pittman,Sta. Cruz,Soap,Beverage,8.0,944.28,7554.24,Bank Transfer
+SO-100258,2026-05-24,Fernando Lozano,San Jose,Milk,Grocery,3.0,697.14,2091.42,GCash
+SO-100433,2026-05-24,Tina Walker,San Isidro,Rice,Household,5.0,311.94,1559.7,Bank Transfer
+SO-100271,2026-05-24,Joshua Wright,Del Pilar,Soap,Personal Care,3.0,845.89,2537.67,Bank Transfer
+SO-100236,2026-05-24,Megan Hill,Bayanihan,Milk,Beverage,3.0,254.51,763.53,Bank Transfer
+SO-100946,2026-05-24,Larry Singh,Magsaysay,Milk,Household,4.0,784.18,3136.72,Bank Transfer
+SO-100074,2026-05-24,Amy Gibson,Mabini,Instant Noodles,Grocery,1.0,476.63,476.63,Bank Transfer
+SO-100086,2026-05-24,Joseph Hayes,San Jose,Milk,Personal Care,5.0,445.02,2225.1,Bank Transfer
+SO-100835,2026-05-24,David Johnson,Del Pilar,Milk,Beverage,11.0,739.85,8138.35,Cash
+SO-100022,2026-05-24,Kara Diaz,Bayanihan,Milk,Personal Care,3.0,577.53,1732.59,Cash
+SO-100718,2026-05-24,Maria Downs,Rizal,Milk,Beverage,3.0,917.86,2753.58,Bank Transfer
+SO-100295,2026-05-24,Laura Sanchez,Rizal,Coffee,Grocery,6.0,844.53,5067.18,Card
+SO-100812,2026-05-24,Rachel Robles,San Isidro,Instant Noodles,Personal Care,4.0,722.88,2891.52,GCash
+SO-100152,2026-05-24,Julia Watson,San Miguel,Rice,Personal Care,5.0,367.6,1838.0,GCash
+SO-100536,2026-05-24,Rebecca Lewis,Maligaya,Rice,Personal Care,4.0,678.46,2713.84,Bank Transfer
+SO-100437,2026-05-24,Carrie Watson,Magsaysay,Instant Noodles,Beverage,2.0,481.49,962.98,Bank Transfer
+SO-100997,2026-05-24,John Villa,Bagong Silang,Shampoo,Grocery,2.0,603.91,1207.82,Bank Transfer
+SO-100776,2026-05-24,James Jimenez,Magsaysay,Coffee,Grocery,4.0,196.72,786.88,GCash
+SO-100308,2026-05-24,Theresa Larson,Rizal,Coffee,Grocery,6.0,46.38,278.28,GCash
+SO-100368,2026-05-24,Mary Evans,Bayanihan,Coffee,Household,4.0,869.4,3477.6,Card
+SO-100603,2026-05-24,Anna Green,Rizal,Coffee,Grocery,3.0,928.69,2786.07,Cash
+SO-100154,2026-05-24,Sean Smith,San Jose,Rice,Beverage,7.0,490.74,3435.18,Cash
+SO-100942,2026-05-24,Dillon Christensen,Magsaysay,Rice,Personal Care,1.0,925.25,925.25,Bank Transfer
+SO-100789,2026-05-24,Jeremiah Copeland,Poblacion,Rice,Beverage,2.0,232.88,465.76,Cash
+SO-100253,2026-05-24,Walter Harding,San Miguel,Rice,Household,5.0,932.42,4662.1,Cash
+SO-100572,2026-05-24,Rodney Lawrence,San Miguel,Cooking Oil,Grocery,6.0,530.97,3185.82,GCash
+SO-100996,2026-05-24,Robert Edwards,San Jose,Instant Noodles,Beverage,2.0,681.64,1363.28,Card
+SO-100494,2026-05-24,Emily Phillips,Bayanihan,Soap,Grocery,6.0,378.53,2271.18,Card
+SO-100651,2026-05-24,Brittney Armstrong,Bayanihan,Shampoo,Beverage,5.0,213.36,1066.8,Bank Transfer
+SO-100466,2026-05-24,Diamond Salazar,San Jose,Rice,Household,6.0,815.68,4894.08,GCash
+SO-100050,2026-05-24,Madison Miller,San Isidro,Coffee,Beverage,7.0,832.46,5827.22,Bank Transfer
+SO-100518,2026-05-24,Matthew Rodriguez,Mabini,Instant Noodles,Household,3.0,293.46,880.38,Bank Transfer
+SO-100366,2026-05-24,Betty Padilla,Mabini,Coffee,Personal Care,2.0,306.26,612.52,Cash
+SO-100332,2026-05-24,Ellen Perry,Maligaya,Rice,Beverage,7.0,166.77,1167.39,Cash
+SO-100307,2026-05-24,Amber Boyd,Sta. Cruz,Shampoo,Grocery,5.0,265.69,1328.45,Card
+SO-100831,2026-05-24,Lauren Anderson,Rizal,Coffee,Household,1.0,119.93,119.93,Bank Transfer
+SO-100707,2026-05-24,Karl Hughes,Mabini,Rice,Beverage,3.0,542.93,1628.79,Cash
+SO-100799,2026-05-24,Cheyenne Leonard,Magsaysay,Rice,Household,4.0,276.23,1104.92,Card
+SO-100978,2026-05-24,Andrew Cook DVM,Sta. Cruz,Rice,Household,5.0,881.08,4405.4,GCash
+SO-100386,2026-05-24,Donna Williams,Mabini,Canned Sardines,Household,1.0,402.95,402.95,Card
+SO-100138,2026-05-24,Steven Flores,Mabini,Canned Sardines,Household,5.0,669.92,3349.6,Cash
+SO-100126,2026-05-24,Dustin Jimenez,San Miguel,Canned Sardines,Grocery,5.0,295.72,1478.6,Cash
+SO-100377,2026-05-24,Tina Allison,Bayanihan,Rice,Grocery,4.0,845.21,3380.84,Cash
+SO-100910,2026-05-24,Joshua Dawson MD,Rizal,Milk,Beverage,3.0,616.07,1848.21,Cash
+SO-100825,2026-05-24,Jesse Cortez,Bayanihan,Canned Sardines,Household,2.0,358.94,717.88,GCash
+SO-100046,2026-05-24,Danny Harris,Magsaysay,Cooking Oil,Personal Care,5.0,243.52,1217.6,GCash
+SO-100441,2026-05-24,Nancy Mcguire,Maligaya,Shampoo,Household,3.0,471.9,1415.7,Cash
+SO-100389,2026-05-24,Mary Ferguson,Del Pilar,Soap,Beverage,3.0,505.78,1517.34,Bank Transfer
+SO-100372,2026-05-24,Nicholas Bell,Bayanihan,Coffee,Personal Care,2.0,567.91,1135.82,Bank Transfer
+SO-100390,2026-05-24,Cheryl Rodriguez,Bagong Silang,Cooking Oil,Personal Care,4.0,637.85,2551.4,Cash
+SO-100109,2026-05-24,William Franklin,Bagong Silang,Milk,Grocery,7.0,336.91,2358.37,Cash
+SO-100539,2026-05-24,Nancy Wilcox,Sta. Cruz,Shampoo,Household,9.0,501.64,4514.76,Card
+SO-100726,2026-05-24,Thomas Garrett,San Isidro,Canned Sardines,Household,3.0,180.39,541.17,Bank Transfer
+SO-100136,2026-05-24,Mr. James Boyd DDS,Sta. Cruz,Shampoo,Beverage,,,,GCash
+SO-100940,2026-05-24,Shane Fernandez,San Isidro,Shampoo,Household,3.0,82.99,248.97,Cash
+SO-100630,2026-05-24,Eric Smith,Sta. Cruz,Coffee,Beverage,1.0,90.35,90.35,GCash
+SO-100129,2026-05-24,Jason Powell,Sta. Cruz,Shampoo,Household,2.0,903.98,1807.96,Cash
+SO-100425,2026-05-24,Austin Bennett,Bagong Silang,Rice,Grocery,4.0,711.54,2846.16,Bank Transfer
+SO-100416,2026-05-24,Danielle Ferguson,San Miguel,Shampoo,Grocery,2.0,401.83,803.66,Cash
+SO-100369,2026-05-24,Stacey Lara,Poblacion,Milk,Beverage,4.0,70.22,280.88,GCash
+SO-100107,2026-05-24,Michelle Ford,Bagong Silang,Milk,Grocery,32.0,3956.12,12662.48,Bank Transfer
+SO-100399,2026-05-24,Kenneth Simon,San Miguel,Rice,Beverage,3.0,453.6,1360.8,Bank Transfer
+SO-100904,2026-05-24,Brian Thompson,Bagong Silang,Rice,Beverage,4.0,369.37,1477.48,GCash
+SO-100544,2026-05-24,Meredith Richardson,Magsaysay,Instant Noodles,Beverage,8.0,758.01,6064.08,GCash
+SO-100100,2026-05-24,Bryan Henson,Rizal,Shampoo,Beverage,6.0,546.71,3280.26,Card
+SO-100848,2026-05-24,Benjamin Brown,Magsaysay,Coffee,Beverage,3.0,550.83,1652.49,GCash
+SO-100941,2026-05-24,Sonya Kim,Bayanihan,Cooking Oil,Beverage,1.0,249.38,249.38,Cash
+SO-100977,2026-05-24,Erin Gomez,San Miguel,Rice,Beverage,3.0,457.33,1371.99,GCash
+SO-100219,2026-05-24,Thomas Rivas,Magsaysay,Milk,Beverage,2.0,35.96,71.92,Card
+SO-100113,2026-05-24,Ethan Lester,Maligaya,Cooking Oil,Personal Care,2.0,550.41,1100.82,Card
+SO-100623,2026-05-24,Carlos Beasley,Del Pilar,Milk,Personal Care,4.0,191.62,766.48,Cash
+SO-100177,2026-05-24,Christopher Cannon,Maligaya,Milk,Beverage,5.0,447.14,2235.7,Cash
+SO-100294,2026-05-24,Timothy Ramirez,Maligaya,Soap,Grocery,3.0,314.63,943.89,Cash
+SO-100048,2026-05-24,Tony Thompson,Sta. Cruz,Shampoo,Grocery,2.0,805.82,1611.64,Bank Transfer
+SO-100275,2026-05-24,Anthony Mays,Mabini,Milk,Grocery,6.0,269.74,1618.44,Cash
+SO-100995,2026-05-24,Timothy Adams,Maligaya,Canned Sardines,Grocery,5.0,478.43,2392.15,Bank Transfer
+SO-100405,2026-05-24,Teresa Mejia,Bayanihan,Instant Noodles,Grocery,1.0,519.37,519.37,Bank Transfer
+SO-100712,2026-05-24,Elizabeth Becker,Rizal,Milk,Beverage,2.0,591.46,1182.92,Bank Transfer
+SO-100844,2026-05-24,Christina Blackwell,San Jose,Shampoo,Household,4.0,38.0,152.0,Card
+SO-100057,2026-05-24,Michael Smith,Bagong Silang,Coffee,Personal Care,6.0,390.01,2340.06,GCash
+SO-100811,2026-05-24,Jonathan Conway,Bayanihan,Coffee,Beverage,,,,Card
+SO-100674,2026-05-24,Mary Mckenzie,Sta. Cruz,Canned Sardines,Beverage,32.0,3956.12,12662.48,GCash
+SO-100498,2026-05-24,Lisa House,Rizal,Instant Noodles,Grocery,2.0,492.53,985.06,GCash
+SO-100920,2026-05-24,Mary Walters,San Miguel,Shampoo,Beverage,2.0,429.0,858.0,Cash
+SO-100343,2026-05-24,Mr. Ryan Hansen,Poblacion,Canned Sardines,Personal Care,6.0,844.79,5068.74,GCash
+SO-100885,2026-05-24,Michelle Williams,Mabini,Cooking Oil,Household,5.0,56.11,280.55,Cash
+SO-100605,2026-05-24,Michael Kim,San Miguel,Coffee,Household,2.0,942.25,1884.5,Card
+SO-100927,2026-05-24,Willie Nixon,San Isidro,Milk,Personal Care,1.0,820.22,820.22,Bank Transfer
+SO-100124,2026-05-24,Melissa Brown,Magsaysay,Soap,Beverage,5.0,679.66,3398.3,Bank Transfer
+SO-100858,2026-05-24,Benjamin Romero,Mabini,Shampoo,Household,3.0,533.23,1599.69,GCash
+SO-100670,2026-05-24,Andrew Hardin,San Miguel,Rice,Grocery,3.0,636.79,1910.37,Cash
+SO-100584,2026-05-24,Angela Trevino,Sta. Cruz,Cooking Oil,Beverage,,,,Bank Transfer
+SO-100225,2026-05-24,Stephanie Owen,Bayanihan,Rice,Grocery,5.0,937.26,4686.3,Cash
+SO-100172,2026-05-24,Suzanne Harrington,Poblacion,Coffee,Personal Care,6.0,99.03,594.18,GCash
+SO-100267,2026-05-24,Francisco Greene,Maligaya,Cooking Oil,Personal Care,4.0,925.0,3700.0,Card
+SO-100245,2026-05-24,Seth Wiggins,Maligaya,Instant Noodles,Household,7.0,286.81,2007.67,Cash
+SO-100435,2026-05-24,Jennifer Espinoza,Sta. Cruz,Rice,Household,7.0,99.1,693.7,Bank Transfer
+SO-100983,2026-05-24,Teresa Wise,San Miguel,Cooking Oil,Grocery,2.0,75.29,150.58,Cash
+SO-100373,2026-05-24,Michael Ryan,San Isidro,Canned Sardines,Household,5.0,825.4,4127.0,Card
+SO-100084,2026-05-24,Steven Meadows,Poblacion,Soap,Grocery,1.0,867.61,867.61,Cash
+SO-100917,2026-05-24,Maria Moore,Bagong Silang,Cooking Oil,Grocery,12.0,208.77,2505.24,Cash
+SO-100692,2026-05-24,Scott Alvarez,Rizal,Cooking Oil,Personal Care,3.0,111.04,333.12,Cash
+SO-100699,2026-05-24,Gregory Mora,Bayanihan,Milk,Household,3.0,675.25,2025.75,Card
+SO-100348,2026-05-24,James Cox,Bagong Silang,Shampoo,Beverage,6.0,362.97,2177.82,Cash
+SO-100930,2026-05-24,Mary Harper,Del Pilar,Canned Sardines,Household,3.0,873.37,2620.11,GCash
+SO-100570,2026-05-24,Maria Roberts,Magsaysay,Shampoo,Grocery,2.0,113.98,227.96,Cash
+SO-100063,2026-05-24,Chris Carey,Bagong Silang,Instant Noodles,Household,2.0,477.65,955.3,GCash
+SO-100171,2026-05-24,Aaron Davis,Magsaysay,Milk,Household,6.0,522.23,3133.38,Bank Transfer
+SO-100455,2026-05-24,Debra Harper,Bayanihan,Rice,Household,4.0,193.05,772.2,Bank Transfer
+SO-100769,2026-05-24,Caitlin Murphy,Rizal,Cooking Oil,Personal Care,3.0,619.08,1857.24,Bank Transfer
+SO-100607,2026-05-24,Kevin Levine,Mabini,Cooking Oil,Beverage,2.0,54.98,109.96,GCash
+SO-100976,2026-05-24,Justin Espinoza,Maligaya,Cooking Oil,Grocery,3.0,802.39,2407.17,Cash
+SO-100143,2026-05-24,Susan Beck,Del Pilar,Milk,Household,4.0,614.68,2458.72,GCash
+SO-100269,2026-05-24,Jennifer Gallagher,Magsaysay,Milk,Grocery,5.0,230.19,1150.95,Bank Transfer
+SO-100723,2026-05-24,Robin Jenkins,San Jose,Cooking Oil,Personal Care,4.0,433.55,1734.2,Card
+SO-100532,2026-05-24,Luis Johnson,Bagong Silang,Canned Sardines,Household,6.0,280.09,1680.54,Cash
+SO-100833,2026-05-24,Taylor Garza,Bayanihan,Cooking Oil,Household,4.0,661.12,2644.48,GCash
+SO-100230,2026-05-24,Brenda Dean,Sta. Cruz,Rice,Grocery,4.0,389.82,1559.28,Cash
+SO-100519,2026-05-24,Christina Rollins,Mabini,Canned Sardines,Grocery,6.0,426.92,2561.52,Card
+SO-100563,2026-05-24,David Davidson,Bayanihan,Rice,Household,7.0,347.16,2430.12,GCash
+SO-100610,2026-05-24,Jimmy Lopez,Maligaya,Canned Sardines,Personal Care,4.0,834.19,3336.76,GCash
+SO-100863,2026-05-24,Kelsey Taylor,Maligaya,Soap,Personal Care,5.0,377.31,1886.55,Cash
+SO-100064,2026-05-24,Tricia Wells,San Miguel,Cooking Oil,Personal Care,3.0,343.13,1029.39,Cash
+SO-100132,2026-05-24,Thomas Jacobs,Mabini,Instant Noodles,Household,3.0,526.0,1578.0,Card
+SO-100612,2026-05-24,Ronald Crawford,San Jose,Rice,Household,5.0,934.74,4673.7,Cash
+SO-100317,2026-05-24,Mr. David Brown,San Jose,Shampoo,Personal Care,4.0,261.09,1044.36,Card
+SO-100664,2026-05-24,Diane Wallace,San Jose,Cooking Oil,Beverage,7.0,666.2,4663.4,Card
+SO-100081,2026-05-24,Louis Flores,Poblacion,Milk,Personal Care,4.0,721.95,2887.8,Cash
+SO-100961,2026-05-24,Kelli Brock,San Miguel,Rice,Beverage,8.0,658.62,5268.96,Bank Transfer
+SO-100214,2026-05-24,Courtney Jones,San Isidro,Soap,Household,1.0,434.03,434.03,Bank Transfer
+SO-100115,2026-05-24,Dylan Harris,San Jose,Milk,Household,5.0,725.76,3628.8,Card
+SO-100411,2026-05-24,Anthony Brown,Poblacion,Canned Sardines,Grocery,,,,Cash
+SO-100476,2026-05-24,Ryan Rogers,San Isidro,Milk,Household,5.0,544.56,2722.8,Card
+SO-100735,2026-05-24,Jennifer Jimenez,San Isidro,Coffee,Beverage,3.0,61.65,184.95,Cash
+SO-100943,2026-05-24,Christopher Ponce,Sta. Cruz,Cooking Oil,Household,7.0,766.34,5364.38,Card
+SO-100812,2026-05-24,Rachel Robles,San Isidro,Instant Noodles,Personal Care,4.0,722.88,2891.52,GCash
+SO-100288,2026-05-24,Aaron Perez,Maligaya,Rice,Grocery,3.0,852.14,2556.42,Cash
+SO-100300,2026-05-24,Robert Rodriguez,Bagong Silang,Cooking Oil,Grocery,32.0,3956.12,12662.48,Cash
+SO-100879,2026-05-24,Michael Ellis,Poblacion,Coffee,Beverage,8.0,656.89,5255.12,Bank Transfer
+SO-100628,2026-05-24,Leah Atkinson,San Miguel,Rice,Personal Care,1.0,615.04,615.04,GCash
+SO-100453,2026-05-24,Victoria Gutierrez,Del Pilar,Rice,Grocery,4.0,329.18,1316.72,Card
+SO-100167,2026-05-24,Tina Barnett,Magsaysay,Milk,Grocery,3.0,770.09,2310.27,Cash
+SO-100757,2026-05-24,Nicole Ball,Rizal,Cooking Oil,Beverage,1.0,494.69,494.69,GCash
+SO-100906,2026-05-24,Jacqueline Calderon,Bagong Silang,Shampoo,Personal Care,4.0,84.95,339.8,Card
+SO-100679,2026-05-24,Stanley Mcdaniel,San Jose,Canned Sardines,Household,6.0,872.02,5232.12,Cash
+SO-100006,2026-05-24,Dawn Lopez,San Jose,Rice,Beverage,7.0,376.16,2633.12,Card
+SO-100721,2026-05-24,Dylan Craig,San Isidro,Cooking Oil,Beverage,4.0,660.03,2640.12,GCash
+SO-100556,2026-05-24,Jose Hensley,Maligaya,Cooking Oil,Grocery,3.0,701.4,2104.2,Cash
+SO-100384,2026-05-24,Daniel Mathis,Bayanihan,Canned Sardines,Grocery,4.0,51.37,205.48,Bank Transfer
+SO-100900,2026-05-24,Joy Aguilar,San Jose,Instant Noodles,Grocery,5.0,798.4,3992.0,Card
+SO-100040,2026-05-24,Christopher Forbes,San Jose,Shampoo,Personal Care,1.0,328.71,328.71,Card
+SO-100783,2026-05-24,Karen Thompson,Sta. Cruz,Canned Sardines,Household,3.0,502.6,1507.8,Cash
+SO-100512,2026-05-24,Samantha Graham,Sta. Cruz,Canned Sardines,Grocery,2.0,479.16,958.32,GCash
+SO-100662,2026-05-24,Gloria Daniel,Poblacion,Milk,Household,4.0,545.57,2182.28,Bank Transfer
+SO-100017,2026-05-24,Jesse Ross,Sta. Cruz,Soap,Personal Care,7.0,259.86,1819.02,GCash
+SO-100396,2026-05-24,John Church,San Miguel,Coffee,Grocery,2.0,47.1,94.2,Bank Transfer
+SO-100720,2026-05-24,Amber Davenport,Del Pilar,Soap,Beverage,5.0,819.99,4099.95,Cash
+SO-100838,2026-05-24,Kimberly Lane,San Jose,Soap,Household,3.0,412.58,1237.74,Bank Transfer
+SO-100502,2026-05-24,Kevin Hicks,San Jose,Rice,Personal Care,3.0,347.71,1043.13,Bank Transfer
+SO-100683,2026-05-24,Zachary Murphy,Bayanihan,Milk,Beverage,7.0,858.19,6007.33,Cash
+SO-100356,2026-05-24,Jillian Nichols,Bayanihan,Shampoo,Grocery,8.0,156.69,1253.52,Cash
+SO-100802,2026-05-24,Scott Summers,San Miguel,Coffee,Grocery,2.0,114.18,228.36,Bank Transfer
+SO-100434,2026-05-24,Sheila Perez,Del Pilar,Soap,Beverage,5.0,475.38,2376.9,Bank Transfer
+SO-100676,2026-05-24,Kaylee Smith,Del Pilar,Cooking Oil,Personal Care,5.0,297.39,1486.95,Cash
+SO-100928,2026-05-24,Theresa Christian,Rizal,Instant Noodles,Personal Care,6.0,138.87,833.22,Bank Transfer
+SO-100018,2026-05-24,Christopher Stone,Poblacion,Shampoo,Household,3.0,855.2,2565.6,GCash
+SO-100032,2026-05-24,Raymond Thompson,Sta. Cruz,Instant Noodles,Personal Care,2.0,934.92,1869.84,Bank Transfer
+SO-100053,2026-05-24,Erica Jackson,Del Pilar,Cooking Oil,Personal Care,4.0,583.91,2335.64,Cash
+SO-100213,2026-05-24,Garrett Cooper,Rizal,Milk,Household,7.0,797.15,5580.05,Cash
+SO-100849,2026-05-24,Brian Rocha,San Isidro,Shampoo,Beverage,5.0,903.02,4515.1,Bank Transfer
+SO-100730,2026-05-24,Joseph Webster,Bagong Silang,Instant Noodles,Personal Care,4.0,630.7,2522.8,GCash
+SO-100526,2026-05-24,Brian Wallace,Poblacion,Soap,Personal Care,8.0,856.54,6852.32,GCash
+SO-100191,2026-05-24,Debbie Fernandez,Magsaysay,Cooking Oil,Household,3.0,752.0,2256.0,GCash
+SO-100283,2026-05-24,Jacob Wolfe,Magsaysay,Canned Sardines,Household,5.0,255.14,1275.7,Bank Transfer
+SO-100913,2026-05-24,Terry Perkins,Del Pilar,Milk,Personal Care,4.0,279.13,1116.52,Card
+SO-100078,2026-05-24,Savannah Miller,Mabini,Canned Sardines,Grocery,2.0,248.87,497.74,Card
+SO-100600,2026-05-24,Alexis Lopez,Maligaya,Cooking Oil,Personal Care,3.0,362.66,1087.98,Bank Transfer
+SO-100576,2026-05-24,Edward Brown,San Isidro,Shampoo,Beverage,4.0,155.31,621.24,Cash
+SO-100042,2026-05-24,Daniel Riley,Sta. Cruz,Canned Sardines,Household,2.0,195.32,390.64,Bank Transfer
+SO-100597,2026-05-24,Elizabeth Lewis,San Jose,Cooking Oil,Grocery,4.0,85.07,340.28,Card
+SO-100574,2026-05-24,Katrina Walker,Bagong Silang,Coffee,Grocery,4.0,676.74,2706.96,Bank Transfer
+SO-100027,2026-05-24,Levi Paul,Bagong Silang,Canned Sardines,Personal Care,3.0,94.61,283.83,Cash
+SO-100272,2026-05-24,Jason Franklin,Rizal,Soap,Household,3.0,142.83,428.49,Cash
+SO-100326,2026-05-24,Lisa Carter,San Isidro,Cooking Oil,Beverage,6.0,867.2,5203.2,Card
+SO-100567,2026-05-24,Joshua Austin,Bayanihan,Coffee,Grocery,6.0,570.53,3423.18,Card
+SO-100025,2026-05-24,Hailey Mcdonald,Sta. Cruz,Cooking Oil,Beverage,1.0,867.45,867.45,Card
+SO-100208,2026-05-24,Brian Stephens,Del Pilar,Milk,Personal Care,3.0,308.09,924.27,Card
+SO-100916,2026-05-24,William Gilbert,Magsaysay,Coffee,Personal Care,1.0,44.3,44.3,Card
+SO-100030,2026-05-24,Jody Stanton,Del Pilar,Milk,Beverage,3.0,157.84,473.52,Cash
+SO-100292,2026-05-24,Craig Juarez,Bayanihan,Cooking Oil,Grocery,8.0,414.62,3316.96,Cash
+SO-100287,2026-05-24,Christopher Fields,San Jose,Cooking Oil,Beverage,2.0,582.16,1164.32,Cash
+SO-100224,2026-05-24,Victor Downs,Magsaysay,Cooking Oil,Household,8.0,488.25,3906.0,Card
+SO-100637,2026-05-24,Brian Williams,Mabini,Cooking Oil,Beverage,4.0,369.85,1479.4,GCash
+SO-100357,2026-05-24,Danielle Shields,Sta. Cruz,Coffee,Personal Care,1.0,586.3,586.3,Card
+SO-100266,2026-05-24,Anita Bird,San Miguel,Coffee,Grocery,4.0,347.6,1390.4,GCash
+SO-100134,2026-05-24,Sarah Green,Mabini,Rice,Grocery,1.0,320.82,320.82,Bank Transfer
+SO-100105,2026-05-24,Jeffrey Burton,Del Pilar,Canned Sardines,Grocery,2.0,44.01,88.02,GCash
+SO-100007,2026-05-24,Mark Orozco,Maligaya,Shampoo,Beverage,5.0,639.67,3198.35,Card
+SO-100125,2026-05-24,Jennifer Brown,Rizal,Instant Noodles,Household,5.0,141.89,709.45,GCash
+SO-100593,2026-05-24,Jamie Jones,Magsaysay,Milk,Household,6.0,580.62,3483.72,Cash
+SO-100988,2026-05-24,Michelle Ramirez,Bagong Silang,Canned Sardines,Personal Care,4.0,809.69,3238.76,GCash
+SO-100958,2026-05-24,Amber Matthews,Rizal,Soap,Grocery,9.0,281.12,2530.08,Bank Transfer
+SO-100509,2026-05-24,Amanda Santiago,San Jose,Coffee,Household,6.0,123.57,741.42,GCash
+SO-100378,2026-05-24,Larry Conway,San Miguel,Milk,Beverage,5.0,610.84,3054.2,Cash
+SO-100700,2026-05-24,Jill Allen,Rizal,Instant Noodles,Grocery,4.0,713.54,2854.16,Card
+SO-100608,2026-05-24,Joshua Byrd,San Isidro,Coffee,Personal Care,1.0,213.98,213.98,Cash
+SO-100797,2026-05-24,Julia Ferguson,San Jose,Milk,Personal Care,5.0,398.38,1991.9,GCash
+SO-100596,2026-05-24,Zachary Clark,Bagong Silang,Milk,Grocery,6.0,217.71,1306.26,Card
+SO-100555,2026-05-24,Mrs. Jamie Wilson,Magsaysay,Milk,Beverage,2.0,352.32,704.64,Bank Transfer
+SO-100199,2026-05-24,Timothy Lowe,Magsaysay,Instant Noodles,Grocery,3.0,192.31,576.93,Card
+SO-100678,2026-05-24,Alexis Gomez,Maligaya,Instant Noodles,Grocery,,,,Cash
+SO-100548,2026-05-24,Jessica Moore,Mabini,Milk,Beverage,8.0,738.36,5906.88,Bank Transfer
+SO-100973,2026-05-24,Kenneth White,San Isidro,Instant Noodles,Personal Care,,,,Bank Transfer
+SO-100839,2026-05-24,Amanda Burke,San Isidro,Shampoo,Personal Care,4.0,63.03,252.12,Card
+SO-100119,2026-05-24,Christopher Brown,San Jose,Rice,Beverage,4.0,949.5,3798.0,Cash
+SO-100452,2026-05-24,Sydney Howard,Rizal,Coffee,Beverage,6.0,577.75,3466.5,GCash
+SO-100080,2026-05-24,Jack Sparks,Mabini,Instant Noodles,Household,1.0,354.77,354.77,Bank Transfer
+SO-100914,2026-05-24,Jordan Butler,Maligaya,Milk,Beverage,4.0,829.91,3319.64,Bank Transfer
+SO-100982,2026-05-24,Julia Ramos,Rizal,Coffee,Beverage,1.0,264.49,264.49,Bank Transfer
+SO-100709,2026-05-24,Jennifer Nelson,San Jose,Shampoo,Grocery,4.0,490.39,1961.56,Bank Transfer
+SO-100301,2026-05-24,Brian Evans,Del Pilar,Canned Sardines,Beverage,6.0,917.44,5504.64,Card
+SO-100211,2026-05-24,Ryan Stone,Bayanihan,Coffee,Beverage,5.0,224.13,1120.65,Card
+SO-100698,2026-05-24,Robin Jimenez,Del Pilar,Shampoo,Personal Care,5.0,620.81,3104.05,Card
+SO-100671,2026-05-24,Justin Moore,Del Pilar,Rice,Personal Care,8.0,166.85,1334.8,GCash
+SO-100734,2026-05-24,Robin Torres DVM,Del Pilar,Shampoo,Household,6.0,375.31,2251.86,Bank Transfer
+SO-100882,2026-05-24,Pamela Lee,Sta. Cruz,Canned Sardines,Beverage,7.0,597.91,4185.37,Cash
+SO-100697,2026-05-24,Alec Davis,Sta. Cruz,Cooking Oil,Household,4.0,284.88,1139.52,GCash
+SO-100809,2026-05-24,Mr. John Thomas,San Isidro,Cooking Oil,Grocery,4.0,398.48,1593.92,GCash
+SO-100913,2026-05-24,Terry Perkins,Del Pilar,Milk,Personal Care,4.0,279.13,1116.52,Card
+SO-100767,2026-05-24,Jason Douglas,Poblacion,Shampoo,Personal Care,5.0,286.52,1432.6,GCash
+SO-100403,2026-05-24,Linda Smith,Mabini,Soap,Personal Care,4.0,554.08,2216.32,Card
+SO-100763,2026-05-24,Maurice Fisher,Magsaysay,Canned Sardines,Grocery,4.0,151.63,606.52,Bank Transfer
+SO-100654,2026-05-24,Felicia Pearson,Magsaysay,Coffee,Personal Care,5.0,845.99,4229.95,Cash
+SO-100706,2026-05-24,Melissa Hubbard,Bayanihan,Instant Noodles,Grocery,1.0,697.26,697.26,Cash
+SO-100495,2026-05-24,David Duke MD,San Isidro,Rice,Grocery,2.0,775.4,1550.8,Cash
+SO-100538,2026-05-24,Sherry Smith,Bayanihan,Instant Noodles,Personal Care,2.0,36.11,72.22,Bank Transfer
+SO-100015,2026-05-24,Jeffrey Reynolds,Maligaya,Canned Sardines,Beverage,6.0,890.62,5343.72,GCash
+SO-100834,2026-05-24,Lisa Rose,Magsaysay,Coffee,Personal Care,2.0,924.44,1848.88,GCash
+SO-100931,2026-05-24,Cody Jackson,San Miguel,Cooking Oil,Household,3.0,632.88,1898.64,Bank Transfer
+SO-100436,2026-05-24,John Yates,Bayanihan,Soap,Personal Care,2.0,522.74,1045.48,Bank Transfer
+SO-100101,2026-05-24,Paul Bryant,Poblacion,Milk,Grocery,,,,Card
+SO-100374,2026-05-24,Jesus Baker,Sta. Cruz,Instant Noodles,Grocery,32.0,3956.12,12662.48,Cash
+SO-100451,2026-05-24,Angel Hopkins,Poblacion,Coffee,Grocery,4.0,36.73,146.92,Cash
+SO-100541,2026-05-24,Vanessa Diaz,Del Pilar,Milk,Beverage,5.0,689.39,3446.95,Bank Transfer
+SO-100299,2026-05-24,Amanda Douglas,Rizal,Shampoo,Household,,,,Card
+SO-100891,2026-05-24,Gary Franklin,Magsaysay,Canned Sardines,Beverage,2.0,412.04,824.08,Bank Transfer
+SO-100262,2026-05-24,Whitney Smith,Del Pilar,Cooking Oil,Beverage,32.0,3956.12,12662.48,Bank Transfer
+SO-100725,2026-05-24,Arthur Herman PhD,Magsaysay,Coffee,Beverage,5.0,183.57,917.85,Card
+SO-100828,2026-05-24,Linda Lynn,San Isidro,Rice,Grocery,4.0,149.75,599.0,GCash
+SO-100174,2026-05-24,Thomas Parker,Del Pilar,Cooking Oil,Grocery,,,,Card
+SO-100467,2026-05-24,Randy Cardenas,Del Pilar,Milk,Household,5.0,92.25,461.25,Card
+SO-100896,2026-05-24,Alexander Fischer,Bagong Silang,Rice,Personal Care,5.0,173.1,865.5,Bank Transfer
+SO-100459,2026-05-24,Kevin Lewis,San Isidro,Canned Sardines,Household,4.0,618.0,2472.0,GCash
+SO-100344,2026-05-24,Susan Hayes,Rizal,Cooking Oil,Grocery,6.0,656.38,3938.28,Card
+SO-100753,2026-05-24,Ryan Zavala,Bayanihan,Canned Sardines,Household,1.0,35.81,35.81,Bank Transfer
+SO-100468,2026-05-24,Kimberly Savage,Magsaysay,Shampoo,Household,5.0,671.22,3356.1,GCash
+SO-100798,2026-05-24,Donald Williams,Del Pilar,Cooking Oil,Personal Care,6.0,658.94,3953.64,Card
+SO-100966,2026-05-24,Pamela Walter,San Miguel,Canned Sardines,Beverage,2.0,149.2,298.4,Cash
+SO-100619,2026-05-24,Donna Lane,San Isidro,Cooking Oil,Household,3.0,43.69,131.07,Card
+SO-100715,2026-05-24,Amanda White,Magsaysay,Shampoo,Household,7.0,368.1,2576.7,Cash
+SO-100909,2026-05-24,Rachel Sparks,Maligaya,Rice,Personal Care,3.0,367.14,1101.42,GCash
+SO-100453,2026-05-24,Victoria Gutierrez,Del Pilar,Rice,Grocery,4.0,329.18,1316.72,Card
+SO-100886,2026-05-24,Carol Mann,San Isidro,Cooking Oil,Beverage,3.0,475.43,1426.29,GCash
+SO-100786,2026-05-24,Mrs. Natalie Smith DDS,Bayanihan,Shampoo,Beverage,3.0,374.62,1123.86,Cash
+SO-100639,2026-05-24,Sally Woods,Bagong Silang,Rice,Beverage,6.0,153.07,918.42,Cash
+SO-100659,2026-05-24,Kristy Jones,San Miguel,Instant Noodles,Grocery,2.0,458.24,916.48,GCash
+SO-100507,2026-05-24,Kelly Blackwell,Mabini,Cooking Oil,Personal Care,6.0,402.83,2416.98,GCash
+SO-100638,2026-05-24,Rebecca Townsend,San Miguel,Shampoo,Beverage,2.0,698.02,1396.04,GCash
+SO-100813,2026-05-24,Scott Jones,Maligaya,Canned Sardines,Beverage,3.0,283.11,849.33,Cash
+SO-100866,2026-05-24,Kristy Acosta,Magsaysay,Instant Noodles,Beverage,6.0,106.97,641.82,Card
+SO-100826,2026-05-24,Hector Mcbride,Sta. Cruz,Canned Sardines,Beverage,5.0,696.73,3483.65,GCash
+SO-100747,2026-05-24,Jeffrey Jordan,Maligaya,Cooking Oil,Beverage,1.0,735.06,735.06,GCash
+SO-100780,2026-05-24,Stacey Santiago,San Isidro,Canned Sardines,Grocery,3.0,506.81,1520.43,Cash
+SO-100743,2026-05-24,Gregory Cooke,Mabini,Coffee,Personal Care,4.0,139.62,558.48,Card
+SO-100727,2026-05-24,Sherry Maxwell,San Isidro,Shampoo,Grocery,4.0,305.5,1222.0,Cash
+SO-100710,2026-05-24,Harry Parker,Maligaya,Rice,Beverage,4.0,461.15,1844.6,Card
+SO-100951,2026-05-24,Jon Fernandez,Del Pilar,Rice,Grocery,2.0,285.09,570.18,Card
+SO-100869,2026-05-24,Stephanie Holt,Magsaysay,Coffee,Grocery,3.0,773.27,2319.81,Bank Transfer
+SO-100135,2026-05-24,Christopher Steele,Poblacion,Rice,Beverage,5.0,486.04,2430.2,Bank Transfer
+SO-100636,2026-05-24,Kevin Taylor,Bagong Silang,Instant Noodles,Beverage,,,,Cash
+SO-100788,2026-05-24,Alexandria Singleton,Bagong Silang,Soap,Grocery,2.0,285.01,570.02,Cash
+SO-100247,2026-05-24,John Crawford,San Jose,Shampoo,Beverage,3.0,529.12,1587.36,Bank Transfer
+SO-100319,2026-05-24,Lydia Elliott,Mabini,Canned Sardines,Personal Care,,,,GCash
+SO-100305,2026-05-24,Carolyn Mccormick,Bagong Silang,Milk,Personal Care,6.0,110.63,663.78,GCash
+SO-100375,2026-05-24,Nicholas Davis,San Isidro,Canned Sardines,Beverage,3.0,706.42,2119.26,Bank Transfer
+SO-100856,2026-05-24,Robert Lewis,San Miguel,Cooking Oil,Personal Care,3.0,388.98,1166.94,Bank Transfer
+SO-100972,2026-05-24,David Hancock,Poblacion,Shampoo,Personal Care,3.0,162.08,486.24,Cash
+SO-100542,2026-05-24,Denise Hamilton,Sta. Cruz,Coffee,Personal Care,5.0,819.53,4097.65,Cash
+SO-100675,2026-05-24,Dawn Smith,Poblacion,Milk,Grocery,3.0,170.29,510.87,Bank Transfer
+SO-100755,2026-05-24,Heather Carter,Poblacion,Instant Noodles,Household,4.0,605.33,2421.32,GCash
+SO-100625,2026-05-24,Mark Maynard,Maligaya,Milk,Grocery,8.0,380.41,3043.28,Cash
+SO-100397,2026-05-24,William Bell,San Miguel,Coffee,Beverage,7.0,762.35,5336.45,GCash
+SO-100146,2026-05-24,Thomas Meyers,Magsaysay,Cooking Oil,Beverage,6.0,121.5,729.0,Card
+SO-100633,2026-05-24,Jacob Clayton,Maligaya,Cooking Oil,Personal Care,4.0,765.8,3063.2,Bank Transfer
+SO-100814,2026-05-24,Lee Miller,Del Pilar,Coffee,Personal Care,5.0,932.16,4660.8,GCash
+SO-100461,2026-05-24,Amy George,Magsaysay,Coffee,Personal Care,4.0,906.63,3626.52,Bank Transfer
+SO-100595,2026-05-24,Brenda Bauer,San Isidro,Canned Sardines,Personal Care,2.0,133.4,266.8,Card
+SO-100140,2026-05-24,Matthew Charles,Mabini,Canned Sardines,Household,7.0,122.43,857.01,GCash
+SO-100901,2026-05-24,David Gonzalez,Rizal,Instant Noodles,Personal Care,,,,Bank Transfer
+SO-100957,2026-05-24,Stephen Perkins,San Miguel,Cooking Oil,Personal Care,3.0,761.39,2284.17,GCash
+SO-100702,2026-05-24,Sarah Carter,Rizal,Rice,Household,2.0,248.29,496.58,Bank Transfer
+SO-100749,2026-05-24,Jennifer Morales,Del Pilar,Coffee,Grocery,3.0,569.85,1709.55,Cash
+SO-100954,2026-05-24,Amy Campbell,San Isidro,Rice,Grocery,5.0,506.21,2531.05,Bank Transfer
+SO-100026,2026-05-24,Maria Rose,San Miguel,Rice,Grocery,8.0,414.92,3319.36,Cash
+SO-100155,2026-05-24,Joshua Taylor,Maligaya,Coffee,Beverage,3.0,401.67,1205.01,GCash
+SO-100889,2026-05-24,Lisa Cook,Sta. Cruz,Shampoo,Beverage,7.0,53.91,377.37,GCash
+SO-100580,2026-05-24,Jerry Weber,Del Pilar,Canned Sardines,Grocery,3.0,74.2,222.6,GCash
+SO-100682,2026-05-24,Mason Carlson,Bayanihan,Canned Sardines,Beverage,3.0,713.1,2139.3,Card
+SO-100685,2026-05-24,Alison Thomas,Maligaya,Milk,Household,1.0,181.81,181.81,Card
+SO-100649,2026-05-24,Ryan Marshall,Mabini,Shampoo,Beverage,2.0,716.81,1433.62,GCash
+SO-100515,2026-05-24,Dr. Cory Bryan,Del Pilar,Canned Sardines,Grocery,2.0,449.21,898.42,Cash
+SO-100578,2026-05-24,Kimberly Guerra,Mabini,Soap,Household,6.0,526.22,3157.32,Bank Transfer
+SO-100099,2026-05-24,David Evans,Mabini,Soap,Beverage,2.0,108.6,217.2,Bank Transfer
+SO-100853,2026-05-24,John Velez,San Miguel,Instant Noodles,Household,4.0,553.73,2214.92,GCash
+SO-100898,2026-05-24,Justin White,Mabini,Rice,Grocery,3.0,780.82,2342.46,GCash
+SO-100166,2026-05-24,Christine Perez,San Miguel,Rice,Personal Care,5.0,892.82,4464.1,Card
+SO-100873,2026-05-24,Judith Johnson,Rizal,Shampoo,Personal Care,6.0,660.28,3961.68,Card
+SO-100023,2026-05-24,Jennifer Williams,Bayanihan,Coffee,Personal Care,4.0,565.9,2263.6,Cash
+SO-100552,2026-05-24,Chase Campos,Bayanihan,Rice,Grocery,4.0,376.89,1507.56,Card
+SO-100204,2026-05-24,Kimberly Roberts,San Isidro,Coffee,Household,4.0,146.9,587.6,GCash
+SO-100033,2026-05-24,Michael Gonzales,Magsaysay,Coffee,Beverage,2.0,133.18,266.36,Card
+SO-100242,2026-05-24,Michael Clarke,Sta. Cruz,Shampoo,Grocery,5.0,781.67,3908.35,Cash
+SO-100565,2026-05-24,Charles Brewer,Mabini,Shampoo,Beverage,5.0,895.08,4475.4,Bank Transfer
+SO-100370,2026-05-24,Erik Long,San Miguel,Cooking Oil,Beverage,,,,GCash
+SO-100635,2026-05-24,Janice Hernandez,San Jose,Cooking Oil,Beverage,4.0,778.71,3114.84,Card
+SO-100947,2026-05-24,Ms. Carolyn Adams,San Miguel,Shampoo,Personal Care,,,,Cash
+SO-100660,2026-05-24,Charles Chase,San Jose,Rice,Beverage,,,,Cash
+SO-100009,2026-05-24,Brenda Garcia,Poblacion,Milk,Household,2.0,719.8,1439.6,Card
+SO-100010,2026-05-24,Frank Oconnell,Bagong Silang,Shampoo,Beverage,3.0,808.55,2425.65,GCash
+SO-100079,2026-05-24,Sarah Barnes,Rizal,Canned Sardines,Grocery,5.0,645.72,3228.6,GCash
+SO-100964,2026-05-24,Kelsey Miller,Maligaya,Coffee,Household,3.0,702.5,2107.5,Cash
+SO-100350,2026-05-24,Brooke Smith,San Miguel,Milk,Grocery,4.0,531.29,2125.16,Card
+SO-100118,2026-05-24,Teresa West,Sta. Cruz,Instant Noodles,Household,3.0,59.0,177.0,Cash
+SO-100935,2026-05-24,Judith Miller,Bayanihan,Instant Noodles,Grocery,3.0,299.65,898.95,Bank Transfer
+SO-100234,2026-05-24,Richard Garza,Maligaya,Coffee,Grocery,3.0,53.48,160.44,Bank Transfer
+SO-100520,2026-05-24,Zoe Payne,San Miguel,Soap,Beverage,7.0,453.71,3175.97,Bank Transfer
+SO-100907,2026-05-24,Peter Stevens,Poblacion,Instant Noodles,Personal Care,5.0,878.73,4393.65,Bank Transfer
+SO-100289,2026-05-24,George Nguyen,Del Pilar,Instant Noodles,Personal Care,3.0,747.63,2242.89,Bank Transfer
+SO-100216,2026-05-24,Cheryl Brown,Magsaysay,Rice,Beverage,3.0,196.48,589.44,Bank Transfer
+SO-100049,2026-05-24,Shawna Burke,Del Pilar,Instant Noodles,Personal Care,2.0,725.74,1451.48,Cash
+SO-100500,2026-05-24,Sarah Ramirez,San Miguel,Instant Noodles,Beverage,4.0,804.43,3217.72,Card
+SO-100930,2026-05-24,Mary Harper,Del Pilar,Canned Sardines,Household,3.0,873.37,2620.11,GCash
+SO-100894,2026-05-24,Craig Rhodes,Rizal,Rice,Beverage,3.0,314.32,942.96,Card
+SO-100493,2026-05-24,Glenn Mccarthy,San Jose,Cooking Oil,Grocery,3.0,336.77,1010.31,GCash
+SO-100609,2026-05-24,Sarah Nicholson,San Miguel,Cooking Oil,Beverage,8.0,858.85,6870.8,Cash
+SO-100144,2026-05-24,Eric Page,Bagong Silang,Soap,Beverage,3.0,614.24,1842.72,Bank Transfer
+SO-100474,2026-05-24,Philip Morales,Bagong Silang,Milk,Beverage,5.0,261.71,1308.55,Card
+SO-100686,2026-05-24,Robert Evans,Mabini,Instant Noodles,Beverage,2.0,750.77,1501.54,Card
+SO-100992,2026-05-24,Megan Collins,San Jose,Soap,Personal Care,3.0,139.53,418.59,Card
+SO-100333,2026-05-24,Aaron Arroyo,Del Pilar,Instant Noodles,Personal Care,1.0,290.65,290.65,Cash
+SO-100112,2026-05-24,Katherine Harper,San Jose,Canned Sardines,Household,2.0,487.63,975.26,GCash
+SO-100732,2026-05-24,Ronald Greene,Sta. Cruz,Cooking Oil,Beverage,3.0,623.03,1869.09,Card
+SO-100549,2026-05-24,Katherine Green,Maligaya,Instant Noodles,Household,,,,Card
+SO-100360,2026-05-24,Kayla Brown,Bayanihan,Rice,Household,6.0,785.18,4711.08,Cash
+SO-100668,2026-05-24,Dawn Carr,Mabini,Instant Noodles,Beverage,6.0,188.46,1130.76,GCash
+SO-100407,2026-05-24,Amy Simpson,Mabini,Milk,Household,4.0,666.83,2667.32,GCash
+SO-100338,2026-05-24,Michael Hughes,Mabini,Canned Sardines,Beverage,3.0,680.08,2040.24,Cash
+SO-100701,2026-05-24,Carolyn Martinez,Del Pilar,Milk,Beverage,7.0,220.56,1543.92,GCash
+SO-100937,2026-05-24,Lindsay Durham,Poblacion,Soap,Household,7.0,44.35,310.45,GCash
+SO-100644,2026-05-24,Patrick Waller,Bagong Silang,Instant Noodles,Personal Care,3.0,494.93,1484.79,Card
+SO-100594,2026-05-24,Rebecca Larsen,San Jose,Shampoo,Household,5.0,713.49,3567.45,Card
+SO-100351,2026-05-24,David Contreras,San Miguel,Coffee,Household,2.0,943.1,1886.2,Cash
+SO-100673,2026-05-24,Jessica Phillips,Mabini,Cooking Oil,Grocery,5.0,297.78,1488.9,Bank Transfer
+SO-100463,2026-05-24,Brittany Parker,Magsaysay,Rice,Personal Care,2.0,160.83,321.66,Card
+SO-100462,2026-05-24,Susan Allen,Del Pilar,Cooking Oil,Beverage,5.0,58.03,290.15,GCash
+SO-100420,2026-05-24,Pam Russell,Poblacion,Cooking Oil,Beverage,2.0,233.41,466.82,Card
+SO-100618,2026-05-24,Brett Gates,Bayanihan,Instant Noodles,Beverage,3.0,189.65,568.95,Cash
+SO-100322,2026-05-24,David Jones,Magsaysay,Shampoo,Household,5.0,932.36,4661.8,Bank Transfer
+SO-100728,2026-05-24,Brittany Bailey,Mabini,Coffee,Beverage,4.0,196.71,786.84,Cash
+SO-100438,2026-05-24,James Crawford,Mabini,Cooking Oil,Household,3.0,118.76,356.28,Cash
+SO-100854,2026-05-24,Michael Phillips,San Jose,Canned Sardines,Personal Care,2.0,536.32,1072.64,Cash
+SO-100183,2026-05-24,Lynn Smith,San Jose,Soap,Personal Care,3.0,651.82,1955.46,Card
+SO-100367,2026-05-24,Ann Tucker,Poblacion,Milk,Personal Care,2.0,855.81,1711.62,Cash
+SO-100890,2026-05-24,Theresa Smith,Mabini,Shampoo,Household,7.0,667.52,4672.64,Cash
+SO-100342,2026-05-24,Dana Durham,San Miguel,Milk,Grocery,6.0,761.47,4568.82,Cash
+SO-100306,2026-05-24,Angela Wilson,Bayanihan,Coffee,Grocery,3.0,941.88,2825.64,Bank Transfer
+SO-100217,2026-05-24,Michaela Pierce,Rizal,Canned Sardines,Beverage,3.0,787.43,2362.29,Cash
+SO-100970,2026-05-24,Brian Wood,Mabini,Coffee,Personal Care,4.0,344.85,1379.4,Bank Transfer
+SO-100037,2026-05-24,Carol House,San Miguel,Soap,Household,5.0,176.79,883.95,GCash
+SO-100313,2026-05-24,Christopher Shields,Mabini,Instant Noodles,Beverage,5.0,349.6,1748.0,GCash
+SO-100583,2026-05-24,Lisa Chavez,Mabini,Milk,Household,8.0,683.27,5466.16,GCash
+SO-100188,2026-05-24,Darrell Bell,San Miguel,Canned Sardines,Grocery,1.0,793.38,793.38,GCash
+SO-100481,2026-05-24,Mitchell Hogan,Bayanihan,Milk,Personal Care,4.0,599.59,2398.36,GCash
+SO-100036,2026-05-24,Michael Guzman,Mabini,Soap,Grocery,3.0,121.16,363.48,Cash
+SO-100899,2026-05-24,Lynn Pitts,Poblacion,Cooking Oil,Grocery,,,,Card
+SO-100770,2026-05-24,Ashley Sherman,San Miguel,Coffee,Household,3.0,38.37,115.11,Bank Transfer
+SO-100870,2026-05-24,Sheila Spears,Rizal,Cooking Oil,Personal Care,6.0,885.28,5311.68,Card
+SO-100522,2026-05-24,Samantha Adams,Poblacion,Milk,Household,5.0,242.53,1212.65,Bank Transfer
+SO-100478,2026-05-24,Angel Carr,Bagong Silang,Soap,Grocery,8.0,936.42,7491.36,Cash
+SO-100233,2026-05-24,Steven Cohen,Bagong Silang,Shampoo,Household,4.0,420.24,1680.96,Bank Transfer
+SO-100102,2026-05-24,Tiffany Moreno,Magsaysay,Instant Noodles,Household,2.0,367.85,735.7,Bank Transfer
+SO-100756,2026-05-24,Alejandro Bennett,San Jose,Cooking Oil,Personal Care,6.0,943.46,5660.76,Cash
+SO-100758,2026-05-24,Jacqueline Green,Mabini,Rice,Grocery,7.0,403.63,2825.41,GCash
+SO-100719,2026-05-24,Dominique Anderson,Mabini,Soap,Beverage,6.0,249.62,1497.72,Bank Transfer
+SO-100065,2026-05-24,Kara Young,Poblacion,Shampoo,Beverage,9.0,212.85,1915.65,Card
+SO-100418,2026-05-24,Karen Smith,San Miguel,Cooking Oil,Personal Care,3.0,841.6,2524.8,Cash
+SO-100163,2026-05-24,Debra Thompson,Rizal,Rice,Beverage,6.0,914.95,5489.7,GCash
+SO-100263,2026-05-24,Jose Harris,Poblacion,Canned Sardines,Beverage,3.0,152.69,458.07,Card
+SO-100231,2026-05-24,Tracy Murphy,Mabini,Shampoo,Beverage,5.0,343.85,1719.25,Bank Transfer
+SO-100560,2026-05-24,Michael Ryan,Maligaya,Milk,Personal Care,1.0,580.21,580.21,Bank Transfer
+SO-100235,2026-05-24,Antonio Gordon,Sta. Cruz,Milk,Beverage,,,,Card
+SO-100491,2026-05-24,Christine Dougherty,San Miguel,Soap,Household,2.0,380.45,760.9,GCash
+SO-100175,2026-05-24,Linda Smith,San Isidro,Cooking Oil,Household,1.0,768.67,768.67,Cash
+SO-100806,2026-05-24,Jonathan Schultz,Poblacion,Canned Sardines,Household,2.0,678.55,1357.1,GCash
+SO-100860,2026-05-24,Russell Thompson,Del Pilar,Rice,Beverage,5.0,757.33,3786.65,GCash
+SO-100071,2026-05-24,Savannah Brown,San Isidro,Shampoo,Household,5.0,565.39,2826.95,GCash
+SO-100125,2026-05-24,Jennifer Brown,Rizal,Instant Noodles,Household,5.0,141.89,709.45,GCash
+SO-100089,2026-05-24,Richard Parker,Bayanihan,Rice,Beverage,2.0,61.34,122.68,GCash
+SO-100117,2026-05-24,Tanner Werner,San Miguel,Milk,Grocery,2.0,100.62,201.24,Card
+SO-100321,2026-05-24,Christy Johnson,Bagong Silang,Coffee,Personal Care,4.0,900.53,3602.12,GCash
+SO-100632,2026-05-24,Joshua Meyer,Poblacion,Milk,Personal Care,2.0,244.76,489.52,Card
+SO-100971,2026-05-24,Laura Mathews,Mabini,Coffee,Household,1.0,401.79,401.79,GCash
+SO-100547,2026-05-24,George Collier,San Jose,Cooking Oil,Grocery,1.0,264.13,264.13,GCash
+SO-100061,2026-05-24,Ms. Rebecca Padilla,Bayanihan,Cooking Oil,Beverage,3.0,130.37,391.11,GCash
+SO-100714,2026-05-24,Randy Smith,Sta. Cruz,Canned Sardines,Personal Care,4.0,119.33,477.32,GCash
+SO-100186,2026-05-24,Cory Wilson,Bayanihan,Shampoo,Grocery,2.0,920.87,1841.74,Cash
+SO-100680,2026-05-24,Ashley Ochoa,San Jose,Rice,Household,3.0,92.27,276.81,Bank Transfer
+SO-100401,2026-05-24,Darryl Tucker,Del Pilar,Shampoo,Grocery,8.0,90.14,721.12,Bank Transfer
+SO-100232,2026-05-24,Kevin Keith,San Miguel,Shampoo,Beverage,5.0,907.39,4536.95,Card
+SO-100562,2026-05-24,Troy Burgess,San Jose,Milk,Grocery,5.0,719.77,3598.85,Card
+SO-100072,2026-05-24,Larry Davis,Sta. Cruz,Coffee,Beverage,7.0,355.95,2491.65,Card
+SO-100477,2026-05-24,Randall Mcconnell,Bagong Silang,Coffee,Grocery,1.0,290.45,290.45,GCash
+SO-100270,2026-05-24,Scott Escobar,Sta. Cruz,Milk,Grocery,1.0,713.75,713.75,Card
+SO-100111,2026-05-24,Catherine Hanson,Rizal,Canned Sardines,Grocery,3.0,503.61,1510.83,Bank Transfer
+SO-100469,2026-05-24,Felicia James,Bayanihan,Canned Sardines,Grocery,4.0,924.49,3697.96,Cash
+SO-100514,2026-05-24,Elizabeth Sullivan,Magsaysay,Coffee,Personal Care,2.0,458.08,916.16,GCash
+SO-100497,2026-05-24,Jason Barrett,Del Pilar,Cooking Oil,Personal Care,3.0,511.76,1535.28,Card
+SO-100226,2026-05-24,Jennifer Cruz,San Jose,Shampoo,Beverage,3.0,874.85,2624.55,GCash
+SO-100329,2026-05-24,Michele Perry,Magsaysay,Canned Sardines,Household,5.0,668.49,3342.45,Bank Transfer
+SO-100561,2026-05-24,Danielle Key,Mabini,Rice,Personal Care,4.0,655.76,2623.04,Bank Transfer
+SO-100426,2026-05-24,Rachel Stout,Del Pilar,Canned Sardines,Household,2.0,894.13,1788.26,Card
+SO-100195,2026-05-24,Logan Brown,San Isidro,Rice,Beverage,5.0,375.47,1877.35,Card
+SO-100336,2026-05-24,Brenda Garcia,Poblacion,Canned Sardines,Beverage,6.0,251.07,1506.42,Card
+SO-100653,2026-05-24,Denise Mason,Del Pilar,Instant Noodles,Grocery,7.0,626.44,4385.08,Bank Transfer
+SO-100778,2026-05-24,Eric Sanders,Bagong Silang,Soap,Personal Care,9.0,515.03,4635.27,Bank Transfer
+SO-100028,2026-05-24,Sheila Perez,Maligaya,Soap,Personal Care,3.0,540.11,1620.33,Card
+SO-100586,2026-05-24,Aaron Rodriguez,San Isidro,Soap,Grocery,4.0,491.42,1965.68,Cash
+SO-100473,2026-05-24,Frank Olson,Sta. Cruz,Soap,Beverage,5.0,142.74,713.7,Card
+SO-100501,2026-05-24,Larry Lawson,San Miguel,Canned Sardines,Beverage,3.0,278.82,836.46,Cash
+SO-100137,2026-05-24,Joel Jackson,Mabini,Milk,Grocery,3.0,334.73,1004.19,Cash
+SO-100553,2026-05-24,Jerry Henry,Poblacion,Cooking Oil,Household,7.0,610.67,4274.69,GCash
+SO-100986,2026-05-24,Theresa Harper,San Jose,Instant Noodles,Personal Care,,,,Cash
+SO-100944,2026-05-24,Ashley Morris,Del Pilar,Cooking Oil,Household,1.0,132.38,132.38,Card
+SO-100393,2026-05-24,Andrea Jenkins,Bayanihan,Canned Sardines,Personal Care,3.0,728.66,2185.98,Bank Transfer
+SO-100382,2026-05-24,Jerry Hernandez,Bayanihan,Instant Noodles,Grocery,1.0,132.53,132.53,GCash
+SO-100271,2026-05-24,Joshua Wright,Del Pilar,Soap,Personal Care,3.0,845.89,2537.67,Bank Transfer
+SO-100778,2026-05-24,Eric Sanders,Bagong Silang,Soap,Personal Care,9.0,515.03,4635.27,Bank Transfer
+SO-100669,2026-05-24,Mary Miller,Mabini,Coffee,Grocery,4.0,462.53,1850.12,Card
+SO-100465,2026-05-24,Taylor Duarte,San Jose,Cooking Oil,Household,3.0,849.71,2549.13,GCash
+SO-100648,2026-05-24,Theresa Jackson,San Isidro,Soap,Grocery,2.0,425.7,851.4,GCash
+SO-100480,2026-05-24,Brianna Williams,Magsaysay,Shampoo,Grocery,5.0,579.32,2896.6,GCash
+SO-100328,2026-05-24,Tricia Johnson,San Jose,Coffee,Household,,,,Bank Transfer
+SO-100012,2026-05-24,Christopher Kelley,Bagong Silang,Rice,Beverage,5.0,738.78,3693.9,Cash
+SO-100602,2026-05-24,Jonathan Roberts,San Miguel,Shampoo,Personal Care,4.0,698.78,2795.12,GCash
+SO-100925,2026-05-24,Jose Perez,San Miguel,Milk,Beverage,4.0,391.05,1564.2,Bank Transfer
+SO-100206,2026-05-24,Aaron Carroll,Rizal,Soap,Grocery,2.0,514.63,1029.26,Card
+SO-100103,2026-05-24,Scott Colon,Sta. Cruz,Rice,Household,1.0,300.23,300.23,GCash
+SO-100489,2026-05-24,James Barron,Bayanihan,Milk,Beverage,3.0,401.85,1205.55,GCash
+SO-100309,2026-05-24,Ashley Jones,Bayanihan,Coffee,Household,9.0,777.48,6997.32,Bank Transfer
+SO-100516,2026-05-24,Sara Miller,Bagong Silang,Rice,Personal Care,5.0,583.07,2915.35,Cash
+SO-100222,2026-05-24,Tracey Richardson MD,Maligaya,Coffee,Personal Care,5.0,193.05,965.25,Bank Transfer
+SO-100153,2026-05-24,John Miller,Sta. Cruz,Rice,Grocery,1.0,108.68,108.68,Cash
+SO-100180,2026-05-24,Roberto Stone PhD,Del Pilar,Milk,Household,1.0,807.82,807.82,Card
+SO-100656,2026-05-24,Mary Patterson,Del Pilar,Coffee,Beverage,3.0,224.08,672.24,GCash
+SO-100182,2026-05-24,Alexa Robinson,Maligaya,Soap,Household,3.0,648.6,1945.8,Cash
+SO-100892,2026-05-24,Thomas Jones,Bayanihan,Soap,Grocery,8.0,496.26,3970.08,Bank Transfer
+SO-100331,2026-05-24,Andrea Pineda,Bagong Silang,Shampoo,Personal Care,5.0,496.69,2483.45,GCash
+SO-100582,2026-05-24,Jack Turner,Maligaya,Instant Noodles,Household,2.0,825.18,1650.36,GCash
+SO-100141,2026-05-24,Larry Russell Jr.,Poblacion,Soap,Personal Care,3.0,844.44,2533.32,GCash
+SO-100771,2026-05-24,Kristen Young,Maligaya,Cooking Oil,Personal Care,3.0,551.98,1655.94,Bank Transfer
+SO-100666,2026-05-24,Holly Adams,Poblacion,Instant Noodles,Grocery,4.0,571.26,2285.04,Bank Transfer
+SO-100785,2026-05-24,Mary Garcia,San Isidro,Rice,Personal Care,1.0,797.66,797.66,Bank Transfer
+SO-100558,2026-05-24,Charlene Howard,Sta. Cruz,Milk,Personal Care,3.0,926.69,2780.07,GCash
+SO-100611,2026-05-24,Kenneth Smith DVM,San Isidro,Shampoo,Beverage,4.0,612.74,2450.96,Bank Transfer
+SO-100716,2026-05-24,Tara Burgess,Mabini,Canned Sardines,Beverage,2.0,901.48,1802.96,GCash
+SO-100316,2026-05-24,Robert Hall,Poblacion,Rice,Household,3.0,917.1,2751.3,Bank Transfer
+SO-100415,2026-05-24,Lori Peck,Bagong Silang,Canned Sardines,Beverage,8.0,810.14,6481.12,GCash
+SO-100210,2026-05-24,Suzanne Miller,Bayanihan,Milk,Beverage,,,,Bank Transfer
+SO-100777,2026-05-24,Timothy Harris,Bagong Silang,Cooking Oil,Household,5.0,463.07,2315.35,Card
+SO-100142,2026-05-24,Kelly Mills,Bagong Silang,Instant Noodles,Household,6.0,603.01,3618.06,Cash
+SO-100002,2026-05-24,Lauren Smith,Bagong Silang,Shampoo,Grocery,5.0,278.77,1393.85,Card
+SO-100362,2026-05-24,Melissa Case,San Isidro,Canned Sardines,Household,4.0,871.21,3484.84,Cash
+SO-100004,2026-05-24,Loretta Mejia,Mabini,Instant Noodles,Household,3.0,752.13,2256.39,Cash
+SO-100044,2026-05-24,Nicole Taylor,Bayanihan,Coffee,Personal Care,3.0,848.29,2544.87,Cash
+SO-100962,2026-05-24,Wanda Thomas,San Jose,Milk,Personal Care,2.0,775.03,1550.06,GCash
+SO-100281,2026-05-24,Abigail Campbell,Bagong Silang,Shampoo,Grocery,5.0,317.87,1589.35,Cash
+SO-100689,2026-05-24,Mary Kelley,Mabini,Shampoo,Grocery,2.0,789.13,1578.26,Cash
+SO-100202,2026-05-24,Tyler Garcia,San Jose,Instant Noodles,Personal Care,1.0,779.93,779.93,Bank Transfer
+SO-100302,2026-05-24,Eric Ferrell,Sta. Cruz,Rice,Beverage,1.0,201.45,201.45,GCash
+SO-100571,2026-05-24,Patrick Griffith,San Isidro,Rice,Household,8.0,805.39,6443.12,Cash
+SO-100365,2026-05-24,Sharon Moore,San Miguel,Shampoo,Beverage,4.0,277.6,1110.4,GCash
+SO-100358,2026-05-24,Kelly Mcclure,Del Pilar,Shampoo,Beverage,1.0,350.23,350.23,Cash
+SO-100581,2026-05-24,Rebecca Mcclure,Del Pilar,Coffee,Beverage,2.0,534.86,1069.72,GCash
+SO-100527,2026-05-24,Laura Bautista,Bagong Silang,Rice,Personal Care,,,,Card
+SO-100371,2026-05-24,Jennifer Anthony,San Miguel,Cooking Oil,Beverage,,,,Bank Transfer
+SO-100606,2026-05-24,Pamela Hawkins,Poblacion,Canned Sardines,Personal Care,3.0,555.46,1666.38,GCash
+SO-100499,2026-05-24,Dorothy Ballard,Mabini,Shampoo,Personal Care,,,,Card
+SO-100598,2026-05-24,Terry Mullins,Maligaya,Shampoo,Beverage,6.0,491.66,2949.96,Cash
+SO-100237,2026-05-24,Andrew Potter,Maligaya,Canned Sardines,Household,3.0,470.79,1412.37,Cash
+SO-100273,2026-05-24,Isaiah Hill,Poblacion,Rice,Household,7.0,133.15,932.05,Card
+SO-100691,2026-05-24,Patrick Bailey,San Isidro,Canned Sardines,Household,2.0,733.8,1467.6,GCash
+SO-100194,2026-05-24,James Jones,Del Pilar,Canned Sardines,Household,5.0,630.08,3150.4,Bank Transfer
+SO-100513,2026-05-24,Dwayne Johnson,Bagong Silang,Instant Noodles,Grocery,,,,GCash
+SO-100875,2026-05-24,Aaron Christian,San Miguel,Soap,Household,6.0,172.15,1032.9,GCash
+SO-100627,2026-05-24,Alexis Mitchell,Del Pilar,Shampoo,Grocery,5.0,650.48,3252.4,Bank Transfer
+SO-100209,2026-05-24,Thomas Frank,Rizal,Instant Noodles,Grocery,4.0,53.76,215.04,Bank Transfer
+SO-100162,2026-05-24,Danielle Ramirez,San Jose,Rice,Household,5.0,297.56,1487.8,Card
+SO-100677,2026-05-24,Jerome Perez,Del Pilar,Soap,Household,2.0,740.55,1481.1,GCash
+SO-100802,2026-05-24,Scott Summers,San Miguel,Coffee,Grocery,2.0,114.18,228.36,Bank Transfer
+SO-100087,2026-05-24,Amy Richardson MD,Del Pilar,Rice,Grocery,2.0,194.32,388.64,GCash
+SO-100774,2026-05-24,Savannah Huffman,Bayanihan,Canned Sardines,Personal Care,3.0,329.24,987.72,GCash
+SO-100614,2026-05-24,Lori Moore,San Isidro,Canned Sardines,Personal Care,1.0,421.56,421.56,Bank Transfer
+SO-100190,2026-05-24,Tiffany Davis,Bagong Silang,Cooking Oil,Personal Care,3.0,916.58,2749.74,Card
+SO-100178,2026-05-24,Pamela Powell,Mabini,Coffee,Grocery,1.0,93.63,93.63,Card
+SO-100392,2026-05-24,Gary Walker,Magsaysay,Coffee,Household,3.0,272.86,818.58,Cash
+SO-100408,2026-05-24,Charles Stein,Magsaysay,Soap,Grocery,5.0,742.84,3714.2,GCash
+SO-100569,2026-05-24,Richard Freeman,San Jose,Canned Sardines,Household,2.0,905.36,1810.72,Cash
+SO-100967,2026-05-24,Cynthia Shaw,Del Pilar,Shampoo,Beverage,6.0,466.8,2800.8,Bank Transfer
+SO-100703,2026-05-24,Stacey Drake,Poblacion,Rice,Personal Care,5.0,793.06,3965.3,Card
+SO-100511,2026-05-24,Andrea Cline,Sta. Cruz,Rice,Personal Care,4.0,577.17,2308.68,Cash
+SO-100711,2026-05-24,Carol Morrow,Sta. Cruz,Soap,Grocery,1.0,542.0,542.0,GCash
+SO-100439,2026-05-24,Andrew Molina,San Miguel,Soap,Household,,,,Bank Transfer
+SO-100471,2026-05-24,Kevin Morgan,Sta. Cruz,Cooking Oil,Personal Care,4.0,638.41,2553.64,Cash
+SO-100398,2026-05-24,Jason Lee,Mabini,Shampoo,Beverage,1.0,127.79,127.79,GCash
+SO-100592,2026-05-24,Robert Black,Bagong Silang,Coffee,Personal Care,6.0,63.32,379.92,Bank Transfer
+SO-100650,2026-05-24,Matthew Morris,Sta. Cruz,Milk,Beverage,4.0,883.98,3535.92,Bank Transfer
+SO-100708,2026-05-24,Cindy Hahn,Del Pilar,Milk,Personal Care,2.0,278.57,557.14,Cash
+SO-100876,2026-05-24,Robin Castro,San Miguel,Shampoo,Household,7.0,55.15,386.05,Bank Transfer
+SO-100043,2026-05-24,Margaret Wheeler,Maligaya,Milk,Personal Care,3.0,879.19,2637.57,Bank Transfer
+SO-100261,2026-05-24,Eric Williams,Magsaysay,Coffee,Household,5.0,285.42,1427.1,Bank Transfer
+SO-100566,2026-05-24,Tina Fox,Bagong Silang,Rice,Personal Care,1.0,283.11,283.11,GCash
+SO-100429,2026-05-24,Rebecca Perez,San Isidro,Milk,Grocery,6.0,827.87,4967.22,Card
+SO-100228,2026-05-24,Kenneth Anderson,Sta. Cruz,Shampoo,Personal Care,5.0,457.58,2287.9,Bank Transfer
+SO-100005,2026-05-24,Tyler Roth,Mabini,Shampoo,Grocery,5.0,701.1,3505.5,Bank Transfer
+SO-100989,2026-05-24,Tara Johnson,Maligaya,Coffee,Personal Care,5.0,462.76,2313.8,Card
+SO-100819,2026-05-24,Jamie Hanson,Sta. Cruz,Cooking Oil,Grocery,6.0,710.58,4263.48,Cash
+SO-100318,2026-05-24,Denise Williams,Bayanihan,Shampoo,Beverage,4.0,126.92,507.68,Card
+SO-100880,2026-05-24,James Knight,Bayanihan,Coffee,Household,2.0,278.52,557.04,Card
+SO-100312,2026-05-24,Kevin Cummings,Bagong Silang,Shampoo,Personal Care,,,,Card
+SO-100075,2026-05-24,Nicholas Kelly,San Isidro,Shampoo,Beverage,4.0,105.36,421.44,Bank Transfer
+SO-100173,2026-05-24,Steve Petty,Poblacion,Shampoo,Personal Care,6.0,135.38,812.28,GCash
+SO-100841,2026-05-24,Elizabeth Smith,Poblacion,Milk,Grocery,5.0,947.28,4736.4,Bank Transfer
+SO-100051,2026-05-24,Paula Wilson,Poblacion,Shampoo,Beverage,5.0,79.38,396.9,Bank Transfer
+SO-100551,2026-05-24,Alexander Anderson,Sta. Cruz,Cooking Oil,Grocery,1.0,195.13,195.13,Bank Transfer
+SO-100796,2026-05-24,Donna Lee,Maligaya,Instant Noodles,Household,4.0,839.78,3359.12,GCash
+SO-100487,2026-05-24,Richard Davis,Maligaya,Canned Sardines,Grocery,3.0,206.87,620.61,Bank Transfer
+SO-100220,2026-05-24,Kelly Berry,Bagong Silang,Rice,Beverage,8.0,169.47,1355.76,GCash
+SO-100508,2026-05-24,Erin Fernandez,Bagong Silang,Soap,Grocery,5.0,944.34,4721.7,Bank Transfer
+SO-100585,2026-05-24,John Daniel,Poblacion,Rice,Household,11.0,613.06,6743.66,Cash
+SO-100387,2026-05-24,Mr. Jon Garcia,Bagong Silang,Coffee,Household,8.0,714.08,5712.64,Card
+SO-100093,2026-05-24,Eric Williams,Poblacion,Canned Sardines,Grocery,32.0,3956.12,12662.48,Bank Transfer
+SO-100148,2026-05-24,Patricia Davis,Bayanihan,Soap,Grocery,5.0,41.53,207.65,Card
+SO-100482,2026-05-24,Robert Smith,Poblacion,Canned Sardines,Household,3.0,720.67,2162.01,Bank Transfer
+SO-100852,2026-05-24,Amy Johnson,Bagong Silang,Coffee,Grocery,7.0,217.57,1522.99,Cash
+SO-100249,2026-05-24,Jamie Elliott,San Miguel,Soap,Beverage,2.0,686.4,1372.8,Card
+SO-100340,2026-05-24,Jeff Campbell,Bagong Silang,Soap,Household,5.0,437.56,2187.8,Cash
+SO-100808,2026-05-24,Jesse Burgess,Del Pilar,Milk,Beverage,7.0,335.09,2345.63,Bank Transfer
+SO-100200,2026-05-24,Riley Rosario,San Miguel,Cooking Oil,Grocery,6.0,796.71,4780.26,Bank Transfer
+SO-100091,2026-05-24,Robert Patterson,Mabini,Milk,Personal Care,2.0,762.52,1525.04,Bank Transfer
+SO-100540,2026-05-24,Rodney Martin,San Jose,Soap,Beverage,3.0,863.66,2590.98,Bank Transfer
+SO-100442,2026-05-24,Christina Lang,Rizal,Shampoo,Beverage,4.0,309.11,1236.44,GCash
+SO-100985,2026-05-24,Eric Nguyen,San Miguel,Shampoo,Household,9.0,656.76,5910.84,Bank Transfer
+SO-100280,2026-05-24,Jose Hughes,Bayanihan,Milk,Personal Care,,,,Card
+SO-100410,2026-05-24,Kelly Adams,Bayanihan,Rice,Grocery,2.0,494.52,989.04,Card
+SO-100864,2026-05-24,Jennifer Obrien,San Isidro,Cooking Oil,Household,4.0,469.83,1879.32,Cash
+SO-100568,2026-05-24,Anthony Perez,Poblacion,Soap,Personal Care,2.0,700.63,1401.26,Cash
+SO-100615,2026-05-24,Carolyn Blackburn,San Jose,Shampoo,Household,2.0,340.16,680.32,Bank Transfer
+SO-100926,2026-05-24,Jennifer Rivas,San Miguel,Coffee,Beverage,7.0,767.75,5374.25,Card
+SO-100335,2026-05-24,Joshua Mendoza IV,Maligaya,Coffee,Beverage,4.0,770.56,3082.24,Bank Transfer
+SO-100871,2026-05-24,Michael Chavez,Maligaya,Shampoo,Household,6.0,415.15,2490.9,GCash
+SO-100857,2026-05-24,David Graves,Maligaya,Soap,Personal Care,3.0,648.84,1946.52,Bank Transfer
+SO-100923,2026-05-24,Michelle Matthews DVM,Mabini,Shampoo,Personal Care,3.0,747.68,2243.04,Cash
+SO-100506,2026-05-24,John Lewis,San Jose,Rice,Household,3.0,366.77,1100.31,Bank Transfer
+SO-100752,2026-05-24,Cody Cooper,Rizal,Soap,Personal Care,3.0,270.99,812.97,Cash
+SO-100759,2026-05-24,Joshua Hale,Magsaysay,Shampoo,Personal Care,6.0,44.94,269.64,Card
+SO-100092,2026-05-24,Caroline Olsen,Rizal,Rice,Grocery,3.0,600.5,1801.5,Cash
+SO-100742,2026-05-24,Adam Boyd,Sta. Cruz,Milk,Household,6.0,731.94,4391.64,Card
+SO-100845,2026-05-24,Laurie Hart,Magsaysay,Shampoo,Household,5.0,573.17,2865.85,GCash
+SO-100905,2026-05-24,David Cummings,Del Pilar,Cooking Oil,Household,2.0,457.22,914.44,Card
+SO-100911,2026-05-24,Emily Rojas,Del Pilar,Coffee,Personal Care,3.0,537.69,1613.07,Bank Transfer
+SO-100575,2026-05-24,Steve Wheeler,Bayanihan,Canned Sardines,Grocery,3.0,613.69,1841.07,Cash
+SO-100573,2026-05-24,Phillip Lewis,Bagong Silang,Rice,Grocery,4.0,662.63,2650.52,Bank Transfer
+SO-100278,2026-05-24,James Brennan,Bagong Silang,Cooking Oil,Household,3.0,813.57,2440.71,Bank Transfer
+SO-100279,2026-05-24,Chelsey Burnett,Maligaya,Canned Sardines,Grocery,4.0,663.39,2653.56,Card
+SO-100337,2026-05-24,Greg Barrera,Rizal,Canned Sardines,Beverage,3.0,531.77,1595.31,GCash
+SO-100227,2026-05-24,Cathy Jarvis,Mabini,Cooking Oil,Personal Care,1.0,930.62,930.62,Bank Transfer
+SO-100008,2026-05-24,Mr. Christopher Garcia,San Jose,Canned Sardines,Grocery,3.0,774.08,2322.24,Card
+SO-100085,2026-05-24,Patrick Cardenas,Magsaysay,Coffee,Grocery,5.0,883.42,4417.1,Card
+SO-100903,2026-05-24,Steven Foster,Sta. Cruz,Coffee,Personal Care,5.0,488.12,2440.6,Card
+SO-100616,2026-05-24,Theresa Gomez,Rizal,Coffee,Personal Care,4.0,748.71,2994.84,Card
+SO-100810,2026-05-24,Billy Farley,Bagong Silang,Canned Sardines,Personal Care,7.0,306.88,2148.16,Card
+SO-100840,2026-05-24,Ashley Jordan,San Jose,Soap,Grocery,1.0,919.37,919.37,GCash
+SO-100096,2026-05-24,John Miller,Bayanihan,Milk,Household,,,,Bank Transfer
+SO-100341,2026-05-24,Lynn Martinez,Sta. Cruz,Coffee,Beverage,2.0,542.02,1084.04,Card
+SO-100121,2026-05-24,Joshua Hernandez,Maligaya,Instant Noodles,Household,2.0,893.94,1787.88,GCash
+SO-100156,2026-05-24,Morgan Wiggins,Sta. Cruz,Instant Noodles,Grocery,3.0,840.76,2522.28,Cash
+SO-100751,2026-05-24,James Hodge,Mabini,Coffee,Personal Care,1.0,708.81,708.81,Card
+SO-100754,2026-05-24,Sara Sanders,San Isidro,Soap,Household,2.0,161.41,322.82,Card
+SO-100681,2026-05-24,Jason Morgan,Magsaysay,Canned Sardines,Beverage,3.0,839.63,2518.89,GCash
+SO-100470,2026-05-24,April Roy,Bayanihan,Canned Sardines,Personal Care,6.0,530.03,3180.18,Card
+SO-100557,2026-05-24,James Sparks,Bagong Silang,Milk,Personal Care,32.0,3956.12,12662.48,GCash
+SO-100293,2026-05-24,Michael Abbott,Mabini,Rice,Grocery,4.0,622.89,2491.56,Cash
+SO-100822,2026-05-24,Anthony Parker,Sta. Cruz,Shampoo,Grocery,4.0,675.26,2701.04,GCash
+SO-100745,2026-05-24,Kelly Vasquez,San Isidro,Canned Sardines,Household,4.0,521.89,2087.56,Card
+SO-100164,2026-05-24,Joe Dunn,San Jose,Cooking Oil,Household,3.0,78.71,236.13,GCash
+SO-100746,2026-05-24,Robin Brown,Sta. Cruz,Instant Noodles,Grocery,1.0,667.39,667.39,Card
+SO-100282,2026-05-24,Michael Newton,Mabini,Instant Noodles,Grocery,3.0,126.41,379.23,GCash
+SO-100364,2026-05-24,Robin Page,Maligaya,Milk,Grocery,1.0,867.7,867.7,Bank Transfer
+SO-100310,2026-05-24,Jill Bush,San Miguel,Milk,Grocery,3.0,640.75,1922.25,Card
+SO-100510,2026-05-24,Alexander Hill,Magsaysay,Shampoo,Household,1.0,123.9,123.9,Card
+SO-100179,2026-05-24,Derrick Vargas,Poblacion,Canned Sardines,Grocery,2.0,613.69,1227.38,Cash
+SO-100069,2026-05-24,Steven Campbell,San Isidro,Rice,Grocery,6.0,812.6,4875.6,Card
+SO-100934,2026-05-24,Tracey Foley,Poblacion,Shampoo,Grocery,6.0,308.56,1851.36,Bank Transfer
+SO-100895,2026-05-24,Matthew Fox,San Isidro,Cooking Oil,Grocery,5.0,253.01,1265.05,Cash
+SO-100687,2026-05-24,Veronica Nelson,Magsaysay,Instant Noodles,Beverage,,,,Bank Transfer
+SO-100960,2026-05-24,Natalie Stephens,Mabini,Canned Sardines,Household,2.0,350.06,700.12,GCash
+SO-100058,2026-05-24,Annette Rowland,Bagong Silang,Soap,Grocery,3.0,948.38,2845.14,Bank Transfer
+SO-100884,2026-05-24,Brian Marshall,Mabini,Canned Sardines,Beverage,3.0,542.5,1627.5,Cash
+SO-100999,2026-05-24,Austin Hall,Poblacion,Cooking Oil,Household,4.0,809.12,3236.48,Cash
+SO-100956,2026-05-24,Kimberly Jones,San Jose,Rice,Personal Care,6.0,558.57,3351.42,Cash
+SO-100265,2026-05-24,Jason Welch,Sta. Cruz,Soap,Household,2.0,759.81,1519.62,GCash
+SO-100768,2026-05-24,Jordan Cruz DDS,Sta. Cruz,Canned Sardines,Beverage,4.0,260.08,1040.32,Bank Transfer
+SO-100800,2026-05-24,Natalie Ross,Sta. Cruz,Cooking Oil,Household,2.0,129.54,259.08,Cash
+SO-100380,2026-05-24,Michael Wright,Bagong Silang,Rice,Household,4.0,568.88,2275.52,Card
+SO-100604,2026-05-24,Jennifer Moore,San Jose,Milk,Grocery,3.0,161.36,484.08,Bank Transfer
+SO-100684,2026-05-24,Kenneth Gray,San Jose,Instant Noodles,Personal Care,1.0,635.01,635.01,Bank Transfer
+SO-100794,2026-05-24,Joseph Johnson,San Isidro,Shampoo,Personal Care,5.0,577.43,2887.15,Cash
+SO-100729,2026-05-24,Cynthia Farley,Sta. Cruz,Milk,Beverage,1.0,775.14,775.14,GCash
+SO-100147,2026-05-24,Nicholas Kaiser,Bayanihan,Canned Sardines,Household,5.0,293.24,1466.2,GCash
+SO-100251,2026-05-24,Karen Walton,Mabini,Coffee,Beverage,7.0,705.9,4941.3,Card
+SO-100646,2026-05-24,Robert Reed,Del Pilar,Instant Noodles,Household,3.0,847.28,2541.84,GCash
+SO-100902,2026-05-24,Lisa Manning,Bagong Silang,Cooking Oil,Beverage,,,,Bank Transfer
+SO-100212,2026-05-24,Anita Lee,Magsaysay,Canned Sardines,Personal Care,3.0,176.24,528.72,Card
+SO-100440,2026-05-24,Stephanie Johns,Del Pilar,Soap,Beverage,2.0,580.44,1160.88,Cash
+SO-100878,2026-05-24,David Garcia,San Isidro,Rice,Grocery,4.0,95.37,381.48,GCash
+SO-100330,2026-05-24,Frank Phelps,Poblacion,Rice,Grocery,4.0,688.43,2753.72,Bank Transfer
+SO-100781,2026-05-24,Ann Kelly,Bayanihan,Instant Noodles,Personal Care,7.0,398.43,2789.01,GCash
+SO-100276,2026-05-24,Christopher Mckay,San Jose,Cooking Oil,Beverage,2.0,825.01,1650.02,Bank Transfer
+SO-100801,2026-05-24,Jody Gould,Maligaya,Canned Sardines,Beverage,7.0,569.99,3989.93,Cash
+SO-100787,2026-05-24,Susan Kim,Rizal,Instant Noodles,Grocery,6.0,559.36,3356.16,Cash
+SO-100667,2026-05-24,Amy Clarke,Poblacion,Milk,Grocery,7.0,696.59,4876.13,Bank Transfer
+SO-100693,2026-05-24,Melinda Williams,Rizal,Cooking Oil,Personal Care,2.0,631.98,1263.96,GCash
+SO-100448,2026-05-24,Andrea Allen,San Jose,Canned Sardines,Beverage,6.0,133.31,799.86,Card
+SO-100170,2026-05-24,Christopher Graves,San Jose,Milk,Beverage,3.0,159.87,479.61,GCash
+SO-100821,2026-05-24,John Miller,Bagong Silang,Shampoo,Grocery,4.0,375.69,1502.76,Card
+SO-100524,2026-05-24,Dustin Bennett,San Jose,Shampoo,Grocery,1.0,559.22,559.22,Card
+SO-100303,2026-05-24,Mr. Joseph Wallace,San Jose,Cooking Oil,Beverage,5.0,424.33,2121.65,Card
+SO-100487,2026-05-24,Richard Davis,Maligaya,Canned Sardines,Grocery,3.0,206.87,620.61,Bank Transfer
+SO-100737,2026-05-24,Jeremy Li,Bayanihan,Rice,Personal Care,,,,GCash
+SO-100832,2026-05-24,Grace Simmons,Mabini,Milk,Grocery,5.0,92.82,464.1,GCash
+SO-100019,2026-05-24,Alicia Parker,Magsaysay,Coffee,Personal Care,3.0,516.1,1548.3,Bank Transfer
+SO-100324,2026-05-24,Seth Herrera,Sta. Cruz,Canned Sardines,Beverage,3.0,255.63,766.89,GCash
+SO-100260,2026-05-24,Christopher Black,Maligaya,Coffee,Beverage,3.0,180.11,540.33,Card
+SO-100847,2026-05-24,Carrie Mason,Maligaya,Canned Sardines,Grocery,2.0,650.62,1301.24,Cash
+SO-100409,2026-05-24,Matthew Sanchez,Bagong Silang,Instant Noodles,Grocery,4.0,352.47,1409.88,Card
+SO-100400,2026-05-24,Kayla Hart,Maligaya,Soap,Household,3.0,741.38,2224.14,Card
+SO-100216,2026-05-24,Cheryl Brown,Magsaysay,Rice,Beverage,3.0,196.48,589.44,Bank Transfer
+SO-100054,2026-05-24,Jared Lynch,Rizal,Cooking Oil,Personal Care,6.0,656.45,3938.7,GCash
+SO-100888,2026-05-24,Natalie Medina,Del Pilar,Milk,Beverage,5.0,898.26,4491.3,Bank Transfer
+SO-100150,2026-05-24,Kathleen Arroyo,Del Pilar,Rice,Beverage,2.0,912.61,1825.22,GCash
+SO-100696,2026-05-24,Hunter Brown,Rizal,Shampoo,Household,7.0,552.16,3865.12,Card
+SO-100877,2026-05-24,Joanna Jones,Bagong Silang,Soap,Household,3.0,876.07,2628.21,Card
+SO-100717,2026-05-24,Joseph Anderson,Bayanihan,Coffee,Personal Care,3.0,620.47,1861.41,Bank Transfer
+SO-100704,2026-05-24,Luis Riddle,Magsaysay,Soap,Household,5.0,334.96,1674.8,Card
+SO-100106,2026-05-24,Samuel Wilson,Poblacion,Rice,Grocery,3.0,381.17,1143.51,GCash
+SO-100724,2026-05-24,Heather Smith,Mabini,Cooking Oil,Household,5.0,384.26,1921.3,Cash
+SO-100024,2026-05-24,Beverly Ferguson,Magsaysay,Shampoo,Personal Care,4.0,526.83,2107.32,GCash
+SO-100915,2026-05-24,Jesse Cruz,San Isidro,Rice,Beverage,2.0,642.56,1285.12,Cash
+SO-100533,2026-05-24,Bruce Boone,Maligaya,Instant Noodles,Grocery,5.0,806.49,4032.45,Bank Transfer
+SO-100817,2026-05-24,Christopher Simmons,Sta. Cruz,Shampoo,Beverage,3.0,571.03,1713.09,Card
+SO-100082,2026-05-24,Daniel Monroe,San Jose,Shampoo,Grocery,3.0,703.26,2109.78,Cash
+SO-100842,2026-05-24,Jennifer Mays,Magsaysay,Coffee,Beverage,4.0,482.21,1928.84,Cash
+SO-100861,2026-05-24,Mary Ryan,Del Pilar,Instant Noodles,Grocery,3.0,68.59,205.77,Bank Transfer
+SO-100613,2026-05-24,Timothy Schroeder,Poblacion,Milk,Grocery,2.0,241.63,483.26,GCash
+SO-100379,2026-05-24,Jamie Johnson,Bayanihan,Coffee,Beverage,4.0,422.47,1689.88,Card
+SO-100076,2026-05-24,Steven Howard,Sta. Cruz,Soap,Grocery,,,,Bank Transfer
+SO-100388,2026-05-24,Christopher Anderson,Poblacion,Shampoo,Beverage,1.0,321.63,321.63,GCash
+SO-100406,2026-05-24,Dustin Davis,Magsaysay,Shampoo,Beverage,7.0,776.69,5436.83,GCash
+SO-100291,2026-05-24,Mark Wilson,San Jose,Coffee,Personal Care,5.0,689.31,3446.55,Card
+SO-100110,2026-05-24,Brian Mcintosh,San Miguel,Instant Noodles,Beverage,8.0,896.92,7175.36,Bank Transfer
+SO-100624,2026-05-24,Riley Burns,Bagong Silang,Soap,Household,5.0,548.12,2740.6,Cash
+SO-100793,2026-05-24,John Tapia,San Isidro,Instant Noodles,Grocery,3.0,782.31,2346.93,Card
+SO-100772,2026-05-24,Jennifer Romero,San Jose,Milk,Grocery,4.0,287.11,1148.44,GCash
+SO-100246,2026-05-24,Heather Hall,San Miguel,Instant Noodles,Household,5.0,407.11,2035.55,Cash
+SO-100145,2026-05-24,Michael Bernard,San Jose,Coffee,Personal Care,6.0,182.65,1095.9,Cash
+SO-100128,2026-05-24,Jamie Johnson,San Isidro,Instant Noodles,Personal Care,4.0,501.12,2004.48,Card
+SO-100851,2026-05-24,Michael Crawford,Magsaysay,Cooking Oil,Grocery,2.0,119.69,239.38,Bank Transfer
+SO-100622,2026-05-24,Bruce Phillips,Rizal,Rice,Beverage,6.0,591.41,3548.46,Card
+SO-100975,2026-05-24,Carlos Dixon,Poblacion,Soap,Grocery,6.0,660.66,3963.96,GCash
+SO-100945,2026-05-24,Zoe Arnold,Mabini,Rice,Personal Care,5.0,274.03,1370.15,Card
+SO-100486,2026-05-24,Gregory Santiago,Maligaya,Rice,Grocery,6.0,307.08,1842.48,Card
+SO-100908,2026-05-24,Rebecca Lee,Rizal,Shampoo,Household,3.0,830.99,2492.97,Cash
+SO-100090,2026-05-24,Dana Jones,Bagong Silang,Rice,Grocery,1.0,372.65,372.65,GCash
+SO-100205,2026-05-24,Reginald Richardson,Rizal,Rice,Household,4.0,181.05,724.2,GCash
+SO-100979,2026-05-24,Meghan Saunders,Sta. Cruz,Cooking Oil,Grocery,4.0,925.67,3702.68,Card
+SO-100170,2026-05-24,Christopher Graves,San Jose,Milk,Beverage,3.0,159.87,479.61,GCash
+SO-100918,2026-05-24,Blake Gross,Del Pilar,Instant Noodles,Grocery,3.0,453.54,1360.62,GCash
+SO-100056,2026-05-24,Cheryl Cabrera,San Jose,Coffee,Personal Care,4.0,59.2,236.8,Bank Transfer
+SO-100404,2026-05-24,Mr. Blake Osborn,San Jose,Rice,Beverage,3.0,112.99,338.97,Card
+SO-100241,2026-05-24,Calvin Reynolds,Sta. Cruz,Coffee,Beverage,5.0,199.73,998.65,Card
+SO-100599,2026-05-24,Breanna Ruiz,Mabini,Milk,Beverage,7.0,577.16,4040.12,Cash
+SO-100346,2026-05-24,Wendy Perry,Del Pilar,Instant Noodles,Household,,,,GCash
+SO-100097,2026-05-24,Audrey Parker,Sta. Cruz,Cooking Oil,Beverage,2.0,493.99,987.98,Cash
+SO-100116,2026-05-24,Jonathan Moore,Del Pilar,Soap,Beverage,5.0,801.86,4009.3,GCash
+SO-100201,2026-05-24,John Schultz,Rizal,Instant Noodles,Grocery,7.0,775.96,5431.72,Card
+SO-100887,2026-05-24,Michael Drake MD,Rizal,Instant Noodles,Grocery,4.0,227.7,910.8,Card
+SO-100479,2026-05-24,Craig Yoder,Rizal,Milk,Personal Care,5.0,215.44,1077.2,GCash
+SO-100323,2026-05-24,Mary Williams,Magsaysay,Cooking Oil,Beverage,2.0,97.91,195.82,GCash
+SO-100193,2026-05-24,Abigail Davis,Del Pilar,Shampoo,Grocery,4.0,801.4,3205.6,Card
+SO-100443,2026-05-24,Mindy Schwartz,Magsaysay,Shampoo,Beverage,8.0,719.6,5756.8,Cash
+SO-100815,2026-05-24,Katelyn Carroll,Del Pilar,Shampoo,Personal Care,6.0,744.14,4464.84,Cash
+SO-100454,2026-05-24,Christine Meza,Mabini,Instant Noodles,Grocery,2.0,436.22,872.44,Bank Transfer
+SO-100528,2026-05-24,Ernest Sawyer,Del Pilar,Instant Noodles,Personal Care,3.0,853.75,2561.25,Card
+SO-100805,2026-05-24,Yvette Arnold,Magsaysay,Shampoo,Personal Care,5.0,619.39,3096.95,Bank Transfer
+SO-100550,2026-05-24,Alex Adams,Bayanihan,Rice,Personal Care,6.0,698.34,4190.04,GCash
+SO-100818,2026-05-24,Stephanie Edwards,Del Pilar,Cooking Oil,Beverage,3.0,494.51,1483.53,Card
+SO-100542,2026-05-24,Denise Hamilton,Sta. Cruz,Coffee,Personal Care,5.0,819.53,4097.65,Cash
+SO-100993,2026-05-24,Daniel Morales,Sta. Cruz,Instant Noodles,Beverage,2.0,712.6,1425.2,Cash
+SO-100296,2026-05-24,Joseph Wright,Bayanihan,Cooking Oil,Household,4.0,274.74,1098.96,Card
+SO-100893,2026-05-24,Lori Miller,San Isidro,Milk,Personal Care,4.0,474.25,1897.0,Cash
+SO-100601,2026-05-24,Lindsay Barnes,San Isidro,Shampoo,Grocery,,,,Cash
+SO-100824,2026-05-24,Joshua Watkins,Poblacion,Coffee,Personal Care,8.0,117.82,942.56,Bank Transfer
+SO-100395,2026-05-24,Jacob Jones,Mabini,Soap,Household,3.0,689.48,2068.44,GCash
+SO-100426,2026-05-24,Rachel Stout,Del Pilar,Canned Sardines,Household,2.0,894.13,1788.26,Card
+SO-100820,2026-05-24,Jacqueline Atkins,Bagong Silang,Rice,Household,5.0,289.31,1446.55,Card
+SO-100559,2026-05-24,Nicole Wilson,Poblacion,Instant Noodles,Personal Care,7.0,757.46,5302.22,Card
+SO-100525,2026-05-24,Michelle Cox,Bagong Silang,Cooking Oil,Grocery,7.0,39.56,276.92,Cash
+SO-100969,2026-05-24,Philip Bush,Sta. Cruz,Canned Sardines,Household,5.0,210.04,1050.2,Cash
+SO-100014,2026-05-24,Kenneth Harris,Poblacion,Shampoo,Personal Care,6.0,647.01,3882.06,Bank Transfer
+SO-100252,2026-05-24,Andrew Martinez,Maligaya,Rice,Beverage,5.0,385.85,1929.25,GCash
+SO-100238,2026-05-24,Alexander Anderson,San Miguel,Rice,Beverage,5.0,940.4,4702.0,Cash
+SO-100120,2026-05-24,Erica Choi,Poblacion,Shampoo,Personal Care,1.0,577.06,577.06,Cash
+SO-100285,2026-05-24,Michael Rivera,Mabini,Rice,Household,3.0,490.12,1470.36,Cash
+SO-100554,2026-05-24,Steven Young,Bayanihan,Milk,Grocery,4.0,559.73,2238.92,GCash
+SO-100196,2026-05-24,Michael Duncan,Bagong Silang,Shampoo,Beverage,4.0,196.22,784.88,Card
+SO-100345,2026-05-24,Tiffany Kennedy,Magsaysay,Instant Noodles,Grocery,2.0,268.03,536.06,Bank Transfer
+SO-100545,2026-05-24,Justin Garcia,San Isidro,Coffee,Household,1.0,782.75,782.75,Cash
+SO-100250,2026-05-24,Melissa Jones,Rizal,Canned Sardines,Beverage,32.0,3956.12,12662.48,GCash
+SO-100933,2026-05-24,Martin Gomez,Magsaysay,Soap,Household,2.0,624.22,1248.44,GCash
+SO-100645,2026-05-24,Dr. Daniel Scott,San Miguel,Milk,Household,6.0,163.3,979.8,Bank Transfer
+SO-100829,2026-05-24,Susan Smith,Bagong Silang,Milk,Personal Care,3.0,231.41,694.23,GCash
+SO-100412,2026-05-24,Debra Kent,Mabini,Shampoo,Personal Care,6.0,197.14,1182.84,Card
+SO-100485,2026-05-24,Anne Davis,Poblacion,Instant Noodles,Grocery,4.0,211.15,844.6,Cash
+SO-100430,2026-05-24,Ashley Nelson,Maligaya,Cooking Oil,Grocery,6.0,182.47,1094.82,Bank Transfer
+SO-100792,2026-05-24,Sharon Foley,Poblacion,Instant Noodles,Beverage,2.0,376.85,753.7,Card
+SO-100766,2026-05-24,Jennifer Ramirez,Del Pilar,Soap,Beverage,4.0,216.62,866.48,GCash
+SO-100290,2026-05-24,Tammie Wang,Sta. Cruz,Milk,Beverage,2.0,431.71,863.42,Cash
+SO-100016,2026-05-24,Destiny Nguyen,Del Pilar,Instant Noodles,Personal Care,4.0,228.74,914.96,GCash
+SO-100158,2026-05-24,Diana Ruiz,San Jose,Cooking Oil,Beverage,7.0,492.34,3446.38,GCash
+SO-100243,2026-05-24,Frances Archer,Poblacion,Instant Noodles,Household,1.0,632.23,632.23,GCash
+SO-100066,2026-05-24,Jennifer Walker,Sta. Cruz,Shampoo,Grocery,5.0,161.34,806.7,Bank Transfer
+SO-100924,2026-05-24,Jeffrey Lane,Maligaya,Coffee,Personal Care,,,,Bank Transfer
+SO-100359,2026-05-24,Martha Ellis,San Jose,Soap,Grocery,5.0,215.01,1075.05,Card
+SO-100952,2026-05-24,Scott Chavez,Bayanihan,Instant Noodles,Personal Care,5.0,823.66,4118.3,Bank Transfer
+SO-100631,2026-05-24,Tony Thomas,San Miguel,Instant Noodles,Household,3.0,346.66,1039.98,Cash
+SO-100504,2026-05-24,Kristine Jensen,San Miguel,Canned Sardines,Beverage,2.0,436.34,872.68,GCash
+SO-100472,2026-05-24,Chelsea Reid,Sta. Cruz,Instant Noodles,Grocery,2.0,460.23,920.46,GCash
+SO-100963,2026-05-24,Michael Brown,San Jose,Shampoo,Beverage,6.0,404.07,2424.42,Bank Transfer
+SO-100577,2026-05-24,Jennifer Martinez,Mabini,Shampoo,Personal Care,6.0,588.67,3532.02,Bank Transfer
+SO-100981,2026-05-24,James Matthews,Del Pilar,Cooking Oil,Beverage,4.0,601.73,2406.92,Card
+SO-100521,2026-05-24,Sheryl Vega,Rizal,Coffee,Personal Care,,,,Bank Transfer
+SO-100874,2026-05-24,Alexis Price,San Isidro,Shampoo,Household,3.0,938.23,2814.69,Bank Transfer
+SO-100530,2026-05-24,Vanessa Solomon,Poblacion,Rice,Personal Care,3.0,154.27,462.81,GCash
+SO-100408,2026-05-24,Charles Stein,Magsaysay,Soap,Grocery,5.0,742.84,3714.2,GCash
+SO-100665,2026-05-24,Victor Anderson,Magsaysay,Coffee,Personal Care,5.0,297.28,1486.4,Cash
+SO-100872,2026-05-24,Jacob Davis,Rizal,Coffee,Beverage,3.0,515.97,1547.91,Card
+SO-100432,2026-05-24,William Walker,Rizal,Instant Noodles,Grocery,4.0,390.38,1561.52,Bank Transfer
+SO-100431,2026-05-24,Amber Brown,Rizal,Cooking Oil,Personal Care,8.0,553.74,4429.92,Cash
+SO-100484,2026-05-24,Wendy Martin,Bayanihan,Rice,Personal Care,1.0,844.94,844.94,Bank Transfer
+SO-100151,2026-05-24,Victor Coffey,San Jose,Canned Sardines,Household,6.0,877.78,5266.68,GCash
+SO-100327,2026-05-24,Sean Small,Bayanihan,Rice,Grocery,1.0,293.53,293.53,Bank Transfer
+SO-100256,2026-05-24,Sarah Larson,San Miguel,Instant Noodles,Beverage,2.0,161.98,323.96,Card
+SO-100311,2026-05-24,Alexis Scott,San Isidro,Canned Sardines,Beverage,4.0,586.42,2345.68,Cash
+SO-100804,2026-05-24,Amber Bass,Rizal,Instant Noodles,Personal Care,4.0,830.78,3323.12,Card
+SO-100304,2026-05-24,Ashley Hoffman,Del Pilar,Canned Sardines,Household,5.0,604.43,3022.15,Bank Transfer
+SO-100784,2026-05-24,Sheila Rogers,Sta. Cruz,Canned Sardines,Grocery,2.0,407.08,814.16,Cash
+SO-100413,2026-05-24,Tiffany Olson,San Isidro,Instant Noodles,Grocery,3.0,152.36,457.08,GCash
+SO-100133,2026-05-24,Heather Perkins,Bagong Silang,Canned Sardines,Beverage,4.0,149.02,596.08,GCash
+SO-100031,2026-05-24,David Patterson,San Isidro,Coffee,Personal Care,8.0,117.2,937.6,Bank Transfer
+SO-100765,2026-05-24,Michelle Marshall,Mabini,Soap,Personal Care,4.0,220.75,883.0,Card
+SO-100782,2026-05-24,Jonathan Riley,Bayanihan,Milk,Personal Care,7.0,74.17,519.19,Bank Transfer
+SO-100458,2026-05-24,Leslie Lowe,San Isidro,Coffee,Beverage,3.0,66.5,199.5,Cash
+SO-100161,2026-05-24,Brittney Taylor,Del Pilar,Instant Noodles,Beverage,6.0,355.85,2135.1,Cash
+SO-100339,2026-05-24,Julia Short,Bagong Silang,Rice,Personal Care,2.0,64.07,128.14,Cash
+SO-100286,2026-05-24,Brian Golden,San Miguel,Soap,Personal Care,5.0,388.85,1944.25,Bank Transfer
+SO-100248,2026-05-24,Corey Cantrell,Maligaya,Coffee,Grocery,1.0,492.96,492.96,Bank Transfer
+SO-100939,2026-05-24,Scott Proctor,San Miguel,Cooking Oil,Grocery,4.0,381.94,1527.76,GCash
+SO-100579,2026-05-24,David Rivera,Mabini,Milk,Beverage,2.0,211.3,422.6,GCash
+SO-100836,2026-05-24,Ashlee Day,Bayanihan,Milk,Beverage,5.0,82.97,414.85,Cash
+SO-100936,2026-05-24,Adrian Lucas,Poblacion,Shampoo,Beverage,1.0,166.85,166.85,Cash
+SO-100001,2026-05-24,Nathan Jenkins,Poblacion,Canned Sardines,Grocery,5.0,91.92,459.6,Bank Transfer
+SO-100736,2026-05-24,John Vaughn,Maligaya,Soap,Household,1.0,550.22,550.22,Card
+SO-100207,2026-05-24,Nicole Anderson,San Miguel,Shampoo,Personal Care,1.0,295.98,295.98,Bank Transfer
+SO-100629,2026-05-24,Kevin Webb,Del Pilar,Instant Noodles,Beverage,4.0,437.46,1749.84,Card
+SO-100932,2026-05-24,Johnny Hendricks,Rizal,Milk,Personal Care,4.0,922.47,3689.88,Card
+SO-100850,2026-05-24,Melissa Welch,San Isidro,Soap,Personal Care,2.0,936.01,1872.02,Cash
+SO-100897,2026-05-24,Julia Jackson,Mabini,Cooking Oil,Personal Care,6.0,147.24,883.44,Bank Transfer
+SO-100264,2026-05-24,Margaret Dennis,Poblacion,Instant Noodles,Personal Care,3.0,117.69,353.07,Bank Transfer
+SO-100274,2026-05-24,Angel Pineda,San Jose,Coffee,Grocery,2.0,661.32,1322.64,Bank Transfer
+SO-100070,2026-05-24,Jordan Hansen,San Jose,Instant Noodles,Grocery,6.0,938.89,5633.34,Bank Transfer
+SO-100640,2026-05-24,Olivia Sampson,Mabini,Canned Sardines,Grocery,2.0,518.81,1037.62,Card
+SO-100444,2026-05-24,Eric Fitzgerald,Mabini,Instant Noodles,Household,5.0,907.19,4535.95,GCash
+SO-100846,2026-05-24,Jessica Young,San Jose,Milk,Beverage,3.0,899.48,2698.44,Cash
+SO-100098,2026-05-24,Terry Williams,Rizal,Instant Noodles,Personal Care,5.0,876.9,4384.5,Cash
+SO-100865,2026-05-24,Alicia Rogers,Del Pilar,Milk,Grocery,5.0,562.2,2811.0,Card
+SO-100021,2026-05-24,Theresa Cochran,Bayanihan,Milk,Grocery,4.0,212.9,851.6,Card
+SO-100705,2026-05-24,Paul Gonzales,San Isidro,Cooking Oil,Grocery,7.0,444.44,3111.08,Bank Transfer
+SO-100414,2026-05-24,Patrick Wright,Sta. Cruz,Coffee,Grocery,6.0,744.13,4464.78,Bank Transfer
+SO-100517,2026-05-24,Mr. James Howard,San Miguel,Soap,Personal Care,3.0,161.16,483.48,GCash
+SO-100149,2026-05-24,Kelly Edwards,Maligaya,Shampoo,Personal Care,2.0,470.23,940.46,GCash
+SO-100647,2026-05-24,Daisy Hughes,Magsaysay,Rice,Beverage,6.0,706.5,4239.0,Card
+SO-100354,2026-05-24,Kimberly Wells,San Isidro,Coffee,Personal Care,3.0,186.67,560.01,Card
+SO-100950,2026-05-24,Jennifer Holmes,Bayanihan,Shampoo,Grocery,6.0,67.59,405.54,Card
+SO-100052,2026-05-24,Russell Reed,San Isidro,Rice,Personal Care,6.0,397.21,2383.26,Cash
+SO-100198,2026-05-24,Carol Ruiz,Poblacion,Cooking Oil,Personal Care,,,,Cash
+SO-100122,2026-05-24,Beth Mayer,Sta. Cruz,Coffee,Household,2.0,569.5,1139.0,Card
+SO-100203,2026-05-24,Ashley Benitez,Bagong Silang,Cooking Oil,Beverage,5.0,894.23,4471.15,Cash
+SO-100067,2026-05-24,Kimberly Lowe,San Isidro,Soap,Household,6.0,576.92,3461.52,Cash
+SO-100223,2026-05-24,Daniel Buchanan DVM,Bagong Silang,Canned Sardines,Grocery,3.0,915.08,2745.24,Bank Transfer
+SO-100127,2026-05-24,Michael Reynolds,San Miguel,Canned Sardines,Household,5.0,852.64,4263.2,Bank Transfer
+SO-100655,2026-05-24,Sandy Price,Sta. Cruz,Instant Noodles,Household,6.0,817.27,4903.62,Cash
+SO-100139,2026-05-24,Andrew Burton,Mabini,Shampoo,Grocery,,,,Bank Transfer
+SO-100417,2026-05-24,Roger Hogan,Magsaysay,Instant Noodles,Beverage,4.0,301.87,1207.48,Bank Transfer
+SO-100218,2026-05-24,Virginia Watson,Del Pilar,Milk,Grocery,1.0,57.15,57.15,Cash
+SO-100546,2026-05-24,Christopher Carter,Del Pilar,Soap,Personal Care,3.0,93.55,280.65,Cash
+SO-100157,2026-05-24,Lisa Evans,Bagong Silang,Shampoo,Household,2.0,381.66,763.32,Bank Transfer
+SO-100094,2026-05-24,Erika Williams,Sta. Cruz,Coffee,Personal Care,6.0,729.2,4375.2,Bank Transfer
+SO-100255,2026-05-24,Scott Patterson,Maligaya,Soap,Grocery,1.0,586.66,586.66,Card
+SO-100987,2026-05-24,Anthony Castro,Mabini,Canned Sardines,Personal Care,5.0,122.47,612.35,Cash
+SO-100643,2026-05-24,Joseph Yoder,Rizal,Coffee,Beverage,4.0,352.27,1409.08,GCash
+SO-100738,2026-05-24,Justin Parker,San Miguel,Coffee,Household,2.0,664.97,1329.94,Bank Transfer
+SO-100039,2026-05-24,Janet Moore,Magsaysay,Cooking Oil,Household,4.0,184.11,736.44,Cash
+SO-100130,2026-05-24,Douglas Nguyen,Rizal,Milk,Household,1.0,940.92,940.92,Card
+SO-100094,2026-05-24,Erika Williams,Sta. Cruz,Coffee,Personal Care,6.0,729.2,4375.2,Bank Transfer
+SO-100189,2026-05-24,Margaret Bell,Del Pilar,Shampoo,Household,8.0,168.44,1347.52,Bank Transfer
+SO-100959,2026-05-24,Heather Park,Bayanihan,Rice,Grocery,3.0,409.83,1229.49,GCash
+SO-100589,2026-05-24,Amanda Donaldson,Bayanihan,Cooking Oil,Personal Care,5.0,657.97,3289.85,Bank Transfer
+SO-100402,2026-05-24,Joseph Mayer,Poblacion,Soap,Personal Care,2.0,243.86,487.72,Bank Transfer
+SO-100760,2026-05-24,Mary Olsen,San Jose,Coffee,Grocery,4.0,510.12,2040.48,Card
+SO-100038,2026-05-24,Kyle Jones,Maligaya,Coffee,Grocery,7.0,173.16,1212.12,Card
+SO-100242,2026-05-24,Michael Clarke,Sta. Cruz,Shampoo,Grocery,5.0,781.67,3908.35,Cash
+SO-100353,2026-05-24,James Brown,San Miguel,Soap,Household,3.0,233.58,700.74,GCash
+SO-100620,2026-05-24,Amy Edwards,San Miguel,Instant Noodles,Personal Care,2.0,204.44,408.88,Card
+SO-100650,2026-05-24,Matthew Morris,Sta. Cruz,Milk,Beverage,4.0,883.98,3535.92,Bank Transfer
+SO-100534,2026-05-24,David Ford,Magsaysay,Canned Sardines,Grocery,3.0,791.02,2373.06,Cash
+SO-100503,2026-05-24,Jennifer Howard,Bayanihan,Coffee,Personal Care,9.0,450.59,4055.31,Bank Transfer
+SO-100159,2026-05-24,James Palmer,San Miguel,Cooking Oil,Personal Care,2.0,573.46,1146.92,GCash
+SO-100394,2026-05-24,Joshua Mccoy,San Isidro,Rice,Grocery,4.0,612.73,2450.92,GCash
+SO-100537,2026-05-24,David Johnson,Del Pilar,Rice,Household,3.0,300.65,901.95,Cash
+SO-100695,2026-05-24,William Garcia,San Isidro,Shampoo,Personal Care,4.0,710.75,2843.0,Cash
+SO-100240,2026-05-24,Susan Harper,San Miguel,Instant Noodles,Personal Care,5.0,603.31,3016.55,Card
+SO-100013,2026-05-24,Kaitlin Nash,Bayanihan,Canned Sardines,Household,7.0,347.33,2431.31,Card
+SO-100657,2026-05-24,Jose Robertson,Magsaysay,Soap,Beverage,6.0,380.59,2283.54,GCash
+SO-100475,2026-05-24,Daniel Anderson,Bagong Silang,Cooking Oil,Household,4.0,130.05,520.2,Card
+SO-100912,2026-05-24,Robert Shelton,San Isidro,Shampoo,Beverage,3.0,766.92,2300.76,GCash
+SO-100883,2026-05-24,Joseph Smith,Bagong Silang,Canned Sardines,Personal Care,,,,Card
+SO-100314,2026-05-24,Lori Martinez,Bagong Silang,Shampoo,Grocery,2.0,319.09,638.18,Card
+SO-100361,2026-05-24,David Evans,San Isidro,Rice,Personal Care,4.0,802.27,3209.08,Card
+SO-100590,2026-05-24,Tiffany Harris,Bayanihan,Shampoo,Beverage,5.0,847.37,4236.85,Bank Transfer
+SO-100320,2026-05-24,Christine Zamora,San Jose,Coffee,Beverage,2.0,426.89,853.78,Bank Transfer
+SO-100921,2026-05-24,Amanda Caldwell,San Isidro,Shampoo,Personal Care,3.0,318.75,956.25,GCash
+SO-100886,2026-05-24,Carol Mann,San Isidro,Cooking Oil,Beverage,3.0,475.43,1426.29,GCash
+SO-100672,2026-05-24,Jose Terry,Bayanihan,Coffee,Household,3.0,864.08,2592.24,GCash
+SO-100564,2026-05-24,Jennifer Wright,Magsaysay,Cooking Oil,Personal Care,2.0,398.46,796.92,Card
+SO-100355,2026-05-24,Jason Daniel,San Miguel,Milk,Beverage,4.0,273.71,1094.84,Cash
+SO-100034,2026-05-24,Brandy Lamb,Del Pilar,Milk,Household,1.0,667.8,667.8,GCash
+SO-100334,2026-05-24,Johnny Black,San Isidro,Instant Noodles,Household,2.0,789.06,1578.12,Card
+SO-100688,2026-05-24,Brooke Cooper,Sta. Cruz,Coffee,Household,6.0,821.24,4927.44,Cash
+SO-100376,2026-05-24,Jason Wilson,Sta. Cruz,Instant Noodles,Beverage,5.0,454.18,2270.9,Card
+SO-100184,2026-05-24,Rebecca Ramos,Bagong Silang,Coffee,Grocery,6.0,510.44,3062.64,Card
+SO-100823,2026-05-24,Alexander Maldonado,Sta. Cruz,Coffee,Beverage,1.0,455.13,455.13,Bank Transfer
+SO-100423,2026-05-24,Meghan Banks,Sta. Cruz,Shampoo,Personal Care,7.0,640.21,4481.47,GCash
+SO-100325,2026-05-24,John Parker,Sta. Cruz,Canned Sardines,Beverage,6.0,391.55,2349.3,Card
+SO-100187,2026-05-24,Amanda Foley,Poblacion,Milk,Personal Care,4.0,828.58,3314.32,Cash
+SO-100284,2026-05-24,Miranda Sanchez,San Isidro,Rice,Household,4.0,385.31,1541.24,GCash
+SO-100391,2026-05-24,Alan Cline,Sta. Cruz,Shampoo,Household,7.0,398.28,2787.96,Cash
+SO-100974,2026-05-24,Denise Smith DDS,Mabini,Instant Noodles,Household,,,,GCash
+SO-100165,2026-05-24,Nicholas Bell,Poblacion,Instant Noodles,Household,2.0,366.25,732.5,Card
+SO-100347,2026-05-24,Shane Odonnell,Maligaya,Soap,Grocery,4.0,469.98,1879.92,Card
+SO-100298,2026-05-24,Ivan Lambert,Sta. Cruz,Soap,Grocery,4.0,745.93,2983.72,Card
+SO-100535,2026-05-24,Sara Holloway,Del Pilar,Shampoo,Beverage,32.0,3956.12,12662.48,GCash
+SO-100229,2026-05-24,Wanda Fox,Bayanihan,Cooking Oil,Beverage,8.0,201.8,1614.4,Card
+SO-100859,2026-05-24,Gregory Underwood,Magsaysay,Soap,Grocery,,,,Bank Transfer
+SO-100827,2026-05-24,Charlene Brady,Poblacion,Instant Noodles,Beverage,3.0,540.22,1620.66,Card
+SO-100694,2026-05-24,Monica Osborne,San Miguel,Instant Noodles,Household,3.0,331.11,993.33,Bank Transfer
+SO-100855,2026-05-24,Emily Torres,Poblacion,Shampoo,Grocery,6.0,394.54,2367.24,Bank Transfer
+SO-100041,2026-05-24,Scott Harrell,Maligaya,Instant Noodles,Personal Care,3.0,823.05,2469.15,Card
+SO-100868,2026-05-24,Wesley Martin,Sta. Cruz,Canned Sardines,Grocery,1.0,660.36,660.36,Cash
+SO-100748,2026-05-24,Tyler Rivera,Maligaya,Canned Sardines,Household,6.0,348.02,2088.12,Card
+SO-100938,2026-05-24,Samuel House,Poblacion,Shampoo,Grocery,,,,Card
+SO-100862,2026-05-24,Kim Nelson,Mabini,Shampoo,Grocery,5.0,774.88,3874.4,Cash
+SO-100587,2026-05-24,William Wells,Mabini,Coffee,Household,4.0,634.77,2539.08,Cash
+SO-100543,2026-05-24,Erin Peterson,Sta. Cruz,Milk,Beverage,3.0,666.3,1998.9,Bank Transfer
+SO-100446,2026-05-24,Edward Patterson,San Isidro,Rice,Personal Care,3.0,538.43,1615.29,Card
+SO-100447,2026-05-24,Heather Mcdonald,Bagong Silang,Instant Noodles,Personal Care,3.0,930.82,2792.46,Bank Transfer
+SO-100349,2026-05-24,Michelle Terrell,Rizal,Shampoo,Beverage,2.0,568.88,1137.76,Card
+SO-100045,2026-05-24,Scott Lopez,Magsaysay,Instant Noodles,Personal Care,7.0,56.43,395.01,Bank Transfer
+SO-100980,2026-05-24,Amber Mcfarland,Mabini,Canned Sardines,Household,2.0,220.79,441.58,Card
+SO-100108,2026-05-24,Mrs. Amanda House,Bagong Silang,Shampoo,Grocery,5.0,287.79,1438.95,Card
+SO-100617,2026-05-24,Dr. Heather Clark,Magsaysay,Rice,Personal Care,1.0,716.91,716.91,Cash
+SO-100661,2026-05-24,Dr. Kenneth Reid,Maligaya,Milk,Household,9.0,851.82,7666.38,GCash
+SO-100029,2026-05-24,Barbara Wright,Mabini,Cooking Oil,Grocery,6.0,127.51,765.06,Card
+SO-100181,2026-05-24,Tyler Green,Poblacion,Shampoo,Grocery,5.0,489.17,2445.85,Bank Transfer
+SO-100621,2026-05-24,Lisa Davis,Maligaya,Cooking Oil,Beverage,,,,Card
+SO-100419,2026-05-24,Laura Pena,Del Pilar,Coffee,Beverage,3.0,549.29,1647.87,Card
+SO-100634,2026-05-24,Gregory Jackson,San Miguel,Cooking Oil,Personal Care,4.0,560.06,2240.24,Card
+SO-100984,2026-05-24,Lori Carney,Maligaya,Instant Noodles,Beverage,1.0,273.68,273.68,Cash
+SO-100104,2026-05-24,Cody Todd,San Miguel,Canned Sardines,Beverage,8.0,333.05,2664.4,Card
+SO-100060,2026-05-24,Ellen Flores,Mabini,Shampoo,Grocery,3.0,917.25,2751.75,Cash
+SO-100658,2026-05-24,Evelyn Horton,Del Pilar,Canned Sardines,Beverage,5.0,901.56,4507.8,GCash
+SO-100083,2026-05-24,Ray Martin,Maligaya,Canned Sardines,Beverage,4.0,866.69,3466.76,GCash
+SO-100490,2026-05-24,Chelsea Lynch,San Miguel,Coffee,Beverage,3.0,215.34,646.02,Bank Transfer
+SO-100315,2026-05-24,Manuel Scott,Del Pilar,Instant Noodles,Grocery,3.0,513.17,1539.51,Cash
+SO-100450,2026-05-24,Molly Oconnor,San Miguel,Soap,Grocery,3.0,838.37,2515.11,Cash
+SO-100381,2026-05-24,Rhonda Erickson,San Jose,Canned Sardines,Personal Care,5.0,696.07,3480.35,Card
+SO-100422,2026-05-24,Michael Carey III,Magsaysay,Cooking Oil,Beverage,3.0,508.7,1526.1,GCash
+SO-100496,2026-05-24,James Meyer,Bayanihan,Rice,Beverage,4.0,731.42,2925.68,Card
+SO-100965,2026-05-24,Robert Bishop,San Isidro,Cooking Oil,Grocery,4.0,404.91,1619.64,GCash
+SO-100739,2026-05-24,Kevin Kidd,Bagong Silang,Coffee,Grocery,2.0,602.55,1205.1,Cash
+SO-100523,2026-05-24,Jason Patrick,Rizal,Shampoo,Grocery,5.0,699.99,3499.95,GCash
+SO-100445,2026-05-24,Mark Collins,San Jose,Coffee,Grocery,4.0,441.62,1766.48,GCash
+SO-100663,2026-05-24,Christina Hawkins,Maligaya,Shampoo,Personal Care,3.0,277.33,831.99,Bank Transfer
+SO-100000,2026-05-24,Jesse Woods,Sta. Cruz,Canned Sardines,Beverage,5.0,748.5,3742.5,Card
+SO-100779,2026-05-24,Derrick Palmer,Mabini,Cooking Oil,Grocery,4.0,456.71,1826.84,Bank Transfer
+SO-100990,2026-05-24,Herbert Moss,Poblacion,Shampoo,Personal Care,1.0,402.3,402.3,GCash
+SO-100626,2026-05-24,Jonathan Harrison,Maligaya,Rice,Grocery,,,,Bank Transfer
+SO-100457,2026-05-24,Gerald Ryan,Mabini,Milk,Household,2.0,214.69,429.38,Cash
+SO-100488,2026-05-24,Andrew Ellis,Bayanihan,Shampoo,Personal Care,4.0,939.37,3757.48,Bank Transfer
+SO-100088,2026-05-24,Carlos Randall,Mabini,Cooking Oil,Personal Care,3.0,432.21,1296.63,Bank Transfer
+SO-100483,2026-05-24,Taylor Guzman,San Miguel,Instant Noodles,Personal Care,2.0,634.39,1268.78,Card
+SO-100460,2026-05-24,Barbara Cruz,Poblacion,Milk,Personal Care,5.0,451.08,2255.4,Bank Transfer
+SO-100077,2026-05-24,Sheryl White,Bagong Silang,Soap,Household,4.0,469.72,1878.88,Cash
+SO-100268,2026-05-24,Steven Pearson,Poblacion,Coffee,Grocery,4.0,518.54,2074.16,Cash
+SO-100929,2026-05-24,Betty Zamora,Rizal,Rice,Beverage,2.0,57.89,115.78,Bank Transfer
+SO-100123,2026-05-24,Jennifer Stokes,Magsaysay,Shampoo,Grocery,2.0,705.4,1410.8,Cash
+SO-100297,2026-05-24,Anthony Garrett,San Miguel,Shampoo,Household,4.0,196.37,785.48,GCash
+SO-100881,2026-05-24,Anna Rangel,Rizal,Soap,Grocery,3.0,551.76,1655.28,Bank Transfer
+SO-100095,2026-05-24,Peggy Wilson,Bayanihan,Coffee,Beverage,2.0,435.12,870.24,Bank Transfer
+SO-100733,2026-05-24,Veronica Taylor,San Miguel,Soap,Beverage,2.0,842.16,1684.32,Cash
+SO-100011,2026-05-24,Brenda Romero,Del Pilar,Cooking Oil,Household,2.0,157.55,315.1,Card
+SO-100114,2026-05-24,Dustin Perez,Bayanihan,Coffee,Household,3.0,138.75,416.25,Cash
+SO-100843,2026-05-24,Philip Schultz,San Jose,Milk,Household,3.0,189.73,569.19,Bank Transfer
+SO-100428,2026-05-24,Trevor Marquez,Bagong Silang,Coffee,Personal Care,8.0,930.49,7443.92,Bank Transfer
+SO-100257,2026-05-24,Mrs. Robin Singh MD,Poblacion,Shampoo,Household,3.0,584.65,1753.95,Bank Transfer
+SO-100731,2026-05-24,Rachel Bailey,Poblacion,Soap,Household,4.0,907.53,3630.12,Cash
+SO-100949,2026-05-24,David Macdonald,San Jose,Instant Noodles,Beverage,4.0,517.53,2070.12,Cash
+SO-100764,2026-05-24,Amanda Crawford,San Jose,Milk,Household,2.0,740.31,1480.62,Bank Transfer
+SO-100352,2026-05-24,Melinda Good,San Miguel,Soap,Grocery,1.0,943.61,943.61,GCash
+SO-100994,2026-05-24,Pamela Lopez,Magsaysay,Coffee,Personal Care,6.0,525.5,3153.0,Card
+SO-100773,2026-05-24,Troy Gray,Rizal,Soap,Grocery,8.0,306.29,2450.32,Bank Transfer
+SO-100955,2026-05-24,Stephanie Coleman,Maligaya,Soap,Personal Care,4.0,347.43,1389.72,GCash
+SO-100690,2026-05-24,Helen Swanson,San Jose,Instant Noodles,Personal Care,3.0,294.15,882.45,Card
+SO-100922,2026-05-24,Joseph Smith,Maligaya,Coffee,Grocery,5.0,280.95,1404.75,Cash
+SO-100790,2026-05-24,Amy Foster MD,Magsaysay,Instant Noodles,Beverage,5.0,249.41,1247.05,Cash
+SO-100531,2026-05-24,Alison Petersen,Maligaya,Cooking Oil,Personal Care,5.0,647.13,3235.65,Bank Transfer
+SO-100867,2026-05-24,James Adams,San Isidro,Milk,Grocery,3.0,591.16,1773.48,Cash
+SO-100169,2026-05-24,Nicholas Guerra,Sta. Cruz,Milk,Beverage,1.0,173.91,173.91,Card
+SO-100239,2026-05-24,Brian Nelson,San Miguel,Canned Sardines,Beverage,4.0,646.07,2584.28,GCash
+SO-100277,2026-05-24,Larry Mejia,Sta. Cruz,Instant Noodles,Beverage,,,,Cash
+SO-100160,2026-05-24,Christina Gomez,Del Pilar,Soap,Household,3.0,832.19,2496.57,Card
+SO-100073,2026-05-24,Nathan Kelly,Maligaya,Rice,Beverage,3.0,89.89,269.67,Cash
+SO-100529,2026-05-24,Mr. Jeffrey Daniels DVM,Bagong Silang,Cooking Oil,Beverage,1.0,936.18,936.18,Card
+SO-100062,2026-05-24,Dylan White,Magsaysay,Instant Noodles,Personal Care,3.0,280.1,840.3,Card
+SO-100761,2026-05-24,Kevin Pitts,Mabini,Instant Noodles,Personal Care,,,,GCash
+SO-100492,2026-05-24,Darren Tran,Poblacion,Rice,Beverage,1.0,470.8,470.8,Cash
+SO-100740,2026-05-24,Wayne Martinez,Poblacion,Rice,Beverage,,,,GCash
+SO-100750,2026-05-24,Melanie Thompson,Bagong Silang,Soap,Grocery,2.0,220.77,441.54,Bank Transfer
+SO-100741,2026-05-24,Timothy Lee,Maligaya,Instant Noodles,Grocery,3.0,125.99,377.97,GCash
+SO-100830,2026-05-24,Bonnie Bailey,San Isidro,Milk,Grocery,7.0,450.71,3154.97,GCash
+SO-100795,2026-05-24,David Bennett,San Miguel,Instant Noodles,Grocery,6.0,469.8,2818.8,Bank Transfer
+SO-100047,2026-05-24,Ricky Morgan,Rizal,Shampoo,Personal Care,3.0,326.5,979.5,Bank Transfer
+SO-100762,2026-05-24,Timothy Johnson,Mabini,Soap,Household,4.0,936.7,3746.8,Card
+SO-100591,2026-05-24,Seth Lewis,Bayanihan,Canned Sardines,Grocery,7.0,239.77,1678.39,GCash
+SO-100807,2026-05-24,Patricia Harrison,San Jose,Cooking Oil,Household,5.0,695.31,3476.55,Card
+SO-100334,2026-05-24,Johnny Black,San Isidro,Instant Noodles,Household,2.0,789.06,1578.12,Card
+SO-100505,2026-05-24,Linda Raymond,Del Pilar,Instant Noodles,Personal Care,8.0,850.01,6800.08,GCash
+SO-100020,2026-05-24,Roy Nunez,Rizal,Cooking Oil,Grocery,3.0,906.74,2720.22,GCash
+SO-100968,2026-05-24,Kevin Haynes,San Isidro,Shampoo,Grocery,4.0,606.67,2426.68,Card
+SO-100424,2026-05-24,Laura Hunt,Mabini,Cooking Oil,Beverage,2.0,925.13,1850.26,Bank Transfer
+SO-100652,2026-05-24,Casey Baker,Rizal,Coffee,Beverage,7.0,181.6,1271.2,Card
+SO-100192,2026-05-24,Brian Mueller,San Isidro,Cooking Oil,Household,10.0,352.42,3524.2,Bank Transfer
+SO-100642,2026-05-24,Alicia Webb,San Jose,Rice,Beverage,2.0,461.02,922.04,GCash
+SO-100215,2026-05-24,Darrell Martin,Maligaya,Milk,Personal Care,3.0,70.11,210.33,Bank Transfer
+SO-100244,2026-05-24,Spencer Wheeler,Mabini,Milk,Grocery,6.0,264.74,1588.44,Cash
+SO-100363,2026-05-24,Jimmy Oneal,Bagong Silang,Cooking Oil,Beverage,6.0,812.85,4877.1,Bank Transfer
+SO-100998,2026-05-24,Desiree Stephens,San Miguel,Milk,Personal Care,10.0,99.82,998.2,Bank Transfer
+SO-100059,2026-05-24,Shelby Arnold,Bayanihan,Cooking Oil,Household,,,,Cash
+SO-100221,2026-05-24,Lisa Shaw,Bagong Silang,Cooking Oil,Personal Care,4.0,206.81,827.24,Bank Transfer
+SO-100176,2026-05-24,Christopher Bradford,Magsaysay,Milk,Beverage,2.0,346.28,692.56,Card
+SO-100449,2026-05-24,Erin Hall,San Jose,Coffee,Household,32.0,3956.12,12662.48,Cash
+SO-100055,2026-05-24,Jean Hernandez,Bagong Silang,Milk,Beverage,3.0,710.72,2132.16,GCash
+SO-100803,2026-05-24,Jared Hansen,Sta. Cruz,Rice,Household,4.0,261.32,1045.28,Bank Transfer
+SO-100254,2026-05-24,Zachary Mooney,San Jose,Soap,Personal Care,5.0,253.15,1265.75,Card
+SO-100919,2026-05-24,Jonathan Gilbert,San Jose,Rice,Grocery,6.0,169.45,1016.7,Bank Transfer
+SO-100385,2026-05-24,Elizabeth Smith,San Isidro,Rice,Personal Care,7.0,180.36,1262.52,GCash
+SO-100948,2026-05-24,Jonathan Newman,Maligaya,Instant Noodles,Personal Care,6.0,600.31,3601.86,Bank Transfer
+SO-100197,2026-05-24,Teresa Brady,Del Pilar,Instant Noodles,Personal Care,2.0,631.43,1262.86,Cash
+SO-100068,2026-05-24,Oscar Miller,Del Pilar,Rice,Personal Care,3.0,117.09,351.27,GCash
+SO-100722,2026-05-24,Justin Smith,Magsaysay,Coffee,Beverage,5.0,73.37,366.85,GCash
+SO-100744,2026-05-24,Peter Johnson,Maligaya,Shampoo,Personal Care,4.0,874.18,3496.72,GCash
+SO-100713,2026-05-24,Amanda Smith,San Miguel,Soap,Household,4.0,659.94,2639.76,Bank Transfer
+SO-100168,2026-05-24,Angel Washington,San Isidro,Instant Noodles,Personal Care,4.0,682.46,2729.84,Bank Transfer
+SO-100185,2026-05-24,Evelyn Stevens,Mabini,Soap,Beverage,4.0,884.69,3538.76,GCash
+SO-100035,2026-05-24,Eric Medina,Sta. Cruz,Canned Sardines,Household,2.0,425.34,850.68,Cash
+SO-100641,2026-05-24,John Sanchez,Rizal,Milk,Personal Care,2.0,770.51,1541.02,Card

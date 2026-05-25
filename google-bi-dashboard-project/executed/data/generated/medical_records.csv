@@ -1,0 +1,1021 @@
+visit_id,visit_date,patient_name,age,sex,barangay,diagnosis,temperature_c,cholesterol_mgdl,weight_kg
+MED-200383,2025-06-06,Andrew Marshall,62.0,Female,Del Pilar,Infection,36.9,169.0,42.2
+MED-200775,2025-02-23,Mr. Brian Navarro,41.0,Male,Mabini,Asthma,37.6,244.0,65.6
+MED-200791,2024-07-06,Lawrence Fuentes,49.0,Female,Mabini,Diabetes,37.2,179.0,38.0
+MED-200131,2026-05-04,Jessica Dennis,90.0,Male,Magsaysay,Infection,35.8,217.0,55.5
+MED-200464,2025-09-22,Nicole Knight,49.0,Male,Mabini,Asthma,35.6,232.0,79.2
+MED-200588,2024-09-07,Jose Mercado,44.0,Female,San Isidro,Asthma,36.8,214.0,51.5
+MED-200953,2025-07-07,Stanley Morales,20.0,Male,San Miguel,Checkup,36.8,176.0,73.1
+MED-200837,2024-08-17,Daniel Delgado,,Female,Mabini,Checkup,,,
+MED-200456,2024-06-28,Kevin Perez,22.0,Female,Rizal,Hypertension,38.1,229.0,36.1
+MED-200024,2025-12-11,Sheri Fischer,22.0,Female,San Miguel,Checkup,36.3,215.0,60.7
+MED-200003,2025-02-25,Amy Walters,37.0,Female,San Jose,Hypertension,36.0,176.0,60.7
+MED-200421,2024-09-21,Wendy Thomas,67.0,Female,San Isidro,Fever,36.5,118.0,75.4
+MED-200991,2025-07-26,Chloe Thompson,54.0,Male,Del Pilar,Diabetes,37.6,209.0,72.2
+MED-200259,2024-11-09,Jessica Hines,75.0,Female,Del Pilar,Asthma,37.3,189.0,92.4
+MED-200427,2025-06-06,Michael Waller,7.0,Male,Mabini,Hypertension,36.8,237.0,54.5
+MED-200816,2025-12-11,Jennifer Rivera,29.0,Female,Mabini,Fever,37.6,154.0,51.0
+MED-200258,2025-07-11,Thomas Woods,47.0,Female,San Miguel,Fever,36.6,195.0,74.7
+MED-200433,2025-08-11,Joseph Garcia,60.0,Male,San Miguel,Hypertension,36.8,236.0,70.3
+MED-200271,2024-09-23,Matthew Munoz,38.0,Female,Bagong Silang,Hypertension,38.3,131.0,63.7
+MED-200236,2024-06-01,Carl Alexander,31.0,Male,Poblacion,Hypertension,37.7,297.0,73.2
+MED-200946,2024-11-08,Mr. James Fletcher,43.0,Male,Del Pilar,Checkup,36.6,195.0,60.3
+MED-200074,2025-01-09,Steven Lopez,75.0,Male,San Isidro,Asthma,37.2,238.0,89.0
+MED-200086,2025-06-29,Sandra Torres,50.0,Female,Del Pilar,Fever,36.9,126.0,38.5
+MED-200835,2025-12-23,Cynthia Bishop,20.0,Male,Bayanihan,Asthma,37.6,161.0,64.7
+MED-200022,2024-06-11,Richard Morales,14.0,Male,San Miguel,Infection,36.6,235.0,77.4
+MED-200718,2025-11-04,Linda Johnson,29.0,Male,Magsaysay,Diabetes,38.1,158.0,39.3
+MED-200295,2024-12-10,Christopher Garner,29.0,Male,San Jose,Diabetes,37.0,197.0,74.3
+MED-200812,2025-05-27,Robert Tyler,23.0,Male,Bagong Silang,Fever,36.8,164.0,58.6
+MED-200152,2025-08-12,James Baker,56.0,Male,San Miguel,Hypertension,36.5,275.0,53.8
+MED-200536,2024-06-04,Samantha Cole,52.0,Female,San Isidro,Infection,36.8,182.0,73.5
+MED-200437,2026-04-09,Connor Hicks,20.0,Female,Magsaysay,Diabetes,37.1,115.0,84.2
+MED-200997,2025-12-21,Jessica Park,57.0,Male,Maligaya,Infection,35.8,148.0,80.0
+MED-200776,2024-12-01,Diana Gonzales,49.0,Male,Sta. Cruz,Hypertension,37.7,274.0,49.4
+MED-200308,2025-02-13,Brooke Martinez,35.0,Female,Poblacion,Fever,36.7,197.0,57.9
+MED-200368,2026-03-19,Hunter Garner,17.0,Female,Poblacion,Fever,36.2,245.0,78.5
+MED-200603,2026-02-09,Hannah Dunn,46.0,Male,San Jose,Hypertension,37.0,211.0,81.4
+MED-200154,2026-01-25,Jesse Peterson,21.0,Male,San Isidro,Asthma,36.5,210.0,73.4
+MED-200942,2025-01-26,Clinton Cooley,40.0,Female,San Miguel,Checkup,36.4,178.0,64.1
+MED-200789,2025-11-03,Adrian Kemp,40.0,Male,Bagong Silang,Fever,38.4,242.0,36.7
+MED-200253,2025-12-18,Mark Bowen,32.0,Male,San Isidro,Hypertension,37.1,173.0,48.5
+MED-200572,2026-05-13,Tracy Owens,31.0,Male,Mabini,Checkup,36.4,253.0,66.0
+MED-200996,2026-04-03,Sarah Ingram,49.0,Female,Mabini,Fever,36.1,186.0,40.8
+MED-200494,2026-03-14,Tiffany Morris,36.0,Male,Sta. Cruz,Fever,36.7,179.0,54.9
+MED-200651,2025-04-26,Gary Sullivan,24.0,Male,Maligaya,Asthma,36.8,213.0,57.8
+MED-200466,2024-06-19,Justin Gray,30.0,Male,San Jose,Fever,36.9,146.0,70.1
+MED-200050,2025-08-21,Laurie Hamilton,25.0,Male,San Isidro,Fever,36.9,198.0,70.7
+MED-200518,2025-04-27,Andrea Wilson,32.0,Male,Bayanihan,Checkup,38.1,200.0,66.6
+MED-200366,2024-07-19,John Werner,10.0,Male,Bayanihan,Fever,36.6,169.0,58.7
+MED-200332,2024-09-27,Helen Walker,2.0,Female,Rizal,Diabetes,37.7,94.0,61.4
+MED-200307,2025-06-04,David Davis,76.0,Male,Magsaysay,Infection,36.8,184.0,56.1
+MED-200831,2025-08-26,Richard Holmes,31.0,Female,Bayanihan,Checkup,37.6,200.0,63.3
+MED-200707,2025-06-26,Sydney Novak,39.0,Male,San Jose,Hypertension,37.7,159.0,70.8
+MED-200799,2026-01-15,Brittany Brown,19.0,Male,Bagong Silang,Checkup,35.5,198.0,77.5
+MED-200978,2024-10-16,Amy Wolfe,43.0,Female,San Jose,Infection,35.5,150.0,87.1
+MED-200386,2024-11-27,Elizabeth Davis,67.0,Male,Sta. Cruz,Diabetes,37.3,284.0,92.8
+MED-200138,2024-06-11,Deborah Werner,13.0,Female,Bayanihan,Diabetes,36.4,155.0,76.9
+MED-200126,2026-02-12,Rhonda Ashley,26.0,Female,Magsaysay,Hypertension,35.6,141.0,41.4
+MED-200377,2025-06-28,Catherine Macdonald,36.0,Female,San Miguel,Hypertension,35.7,145.0,79.1
+MED-200910,2025-10-03,Sabrina Miller,78.0,Male,San Miguel,Fever,37.3,214.0,75.6
+MED-200825,2025-11-18,Yvonne Wheeler,30.0,Female,Magsaysay,Diabetes,36.5,177.0,57.2
+MED-200046,2025-04-03,Amanda Hall,58.0,Male,Magsaysay,Asthma,37.4,115.0,47.3
+MED-200441,2024-09-10,Mike Perry,54.0,Female,Sta. Cruz,Asthma,36.7,146.0,62.9
+MED-200389,2025-10-13,Jimmy Browning,86.0,Female,Bagong Silang,Infection,36.5,313.0,61.8
+MED-200372,2025-02-13,Heather Bradshaw,44.0,Female,Bagong Silang,Fever,36.9,151.0,53.7
+MED-200390,2025-11-13,Jordan Sheppard,52.0,Female,Magsaysay,Checkup,36.5,131.0,42.9
+MED-200109,2024-12-12,Lacey Oconnell,47.0,Male,Sta. Cruz,Asthma,38.6,258.0,66.1
+MED-200539,2025-10-09,Kristin Garrett,58.0,Male,San Jose,Infection,37.2,271.0,65.5
+MED-200726,2024-10-16,Danielle Williams,49.0,Female,Sta. Cruz,Asthma,36.9,224.0,81.5
+MED-200136,2024-11-29,Angel White,,Male,Del Pilar,Asthma,,,
+MED-200940,2024-07-13,Briana Hicks,40.0,Male,San Miguel,Hypertension,36.3,150.0,66.7
+MED-200630,2025-01-11,Lorraine Schneider,50.0,Female,Bagong Silang,Infection,37.8,220.0,58.7
+MED-200129,2025-04-21,Regina Fisher,28.0,Male,Poblacion,Fever,37.4,207.0,40.7
+MED-200425,2026-01-21,Jesse Benjamin,71.0,Male,Maligaya,Asthma,37.3,227.0,82.6
+MED-200416,2024-07-28,Natalie Schmidt,21.0,Male,Bagong Silang,Hypertension,36.5,181.0,35.0
+MED-200369,2024-06-30,Nicole Poole MD,33.0,Male,Rizal,Infection,37.4,180.0,47.0
+MED-200107,2025-08-17,John Morales,288.0,Male,Bagong Silang,Infection,295.2,1508.0,492.4
+MED-200399,2025-12-17,Hannah Miller,15.0,Female,Mabini,Checkup,37.9,262.0,64.3
+MED-200904,2024-11-01,Anthony Simmons,46.0,Female,Bayanihan,Hypertension,36.6,159.0,49.6
+MED-200544,2025-01-17,Drew Finley,42.0,Male,Maligaya,Hypertension,37.1,225.0,35.0
+MED-200100,2025-09-19,Wendy Morrow,43.0,Male,San Isidro,Checkup,36.6,253.0,55.4
+MED-200848,2026-05-21,Gregory White,22.0,Male,Bagong Silang,Hypertension,37.9,248.0,67.5
+MED-200941,2025-09-14,Adam Church,36.0,Male,Poblacion,Checkup,37.6,236.0,98.1
+MED-200977,2024-12-04,Felicia Johnson,22.0,Female,Mabini,Hypertension,37.2,165.0,56.8
+MED-200219,2024-08-31,Ashley King,42.0,Female,Magsaysay,Infection,36.2,193.0,57.5
+MED-200113,2026-03-01,Steve Martin,32.0,Male,Rizal,Hypertension,37.1,190.0,46.7
+MED-200623,2024-07-31,Max Little,25.0,Female,Sta. Cruz,Asthma,38.0,196.0,51.3
+MED-200177,2025-12-14,Kristen Jones,24.0,Female,Bayanihan,Diabetes,36.0,298.0,48.1
+MED-200294,2025-08-26,Christopher Rose,58.0,Female,Poblacion,Infection,36.0,228.0,55.9
+MED-200048,2026-03-11,Christopher Shannon,24.0,Female,Sta. Cruz,Hypertension,37.3,238.0,79.6
+MED-200275,2025-05-27,Manuel Peters,4.0,Female,Bagong Silang,Checkup,36.8,173.0,48.9
+MED-200995,2025-07-05,Joseph Gates,15.0,Male,Magsaysay,Infection,36.8,205.0,47.7
+MED-200405,2025-09-17,Erin Chase,51.0,Male,San Jose,Hypertension,37.1,208.0,66.3
+MED-200712,2026-04-30,Alex Murphy,36.0,Female,Bagong Silang,Hypertension,36.5,180.0,62.7
+MED-200844,2024-07-22,Lucas Ferguson,41.0,Male,Magsaysay,Fever,37.1,197.0,82.2
+MED-200057,2025-07-07,Mark Ferguson,57.0,Male,San Isidro,Asthma,37.9,182.0,36.7
+MED-200811,2025-08-16,Willie Frank,,Female,Maligaya,Checkup,,,
+MED-200674,2025-10-30,Elizabeth Espinoza,288.0,Male,San Isidro,Checkup,295.2,1508.0,492.4
+MED-200498,2025-09-09,Rachel Brown,46.0,Female,Sta. Cruz,Hypertension,36.8,244.0,54.8
+MED-200920,2025-01-25,Joanne Carter,28.0,Female,Del Pilar,Diabetes,36.9,193.0,62.3
+MED-200343,2024-12-13,Jason Marquez,32.0,Male,San Miguel,Asthma,36.7,231.0,53.7
+MED-200885,2025-12-07,Thomas Ferguson,41.0,Female,Magsaysay,Asthma,38.4,209.0,60.5
+MED-200605,2024-07-01,Albert Dominguez,32.0,Male,San Jose,Asthma,36.8,201.0,60.4
+MED-200927,2024-05-28,Melissa Stephens,46.0,Male,Del Pilar,Fever,37.2,199.0,59.9
+MED-200124,2026-01-18,Christopher Lopez,18.0,Female,San Jose,Checkup,37.6,133.0,66.5
+MED-200858,2026-03-15,Joseph Craig,28.0,Male,Rizal,Fever,37.7,197.0,82.5
+MED-200670,2025-10-23,Lisa Harris,34.0,Male,Maligaya,Diabetes,36.2,203.0,73.1
+MED-200584,2024-12-01,Lori Yang,,Female,Del Pilar,Checkup,,,
+MED-200225,2025-01-30,Jacob Vasquez,25.0,Male,San Jose,Diabetes,36.8,210.0,58.8
+MED-200172,2025-04-19,Alan Payne,48.0,Male,Mabini,Infection,37.8,190.0,48.8
+MED-200267,2025-04-10,Danielle Wallace,24.0,Female,San Isidro,Fever,35.9,161.0,70.4
+MED-200245,2024-07-06,Kirsten Williams,43.0,Male,San Isidro,Fever,37.6,149.0,57.6
+MED-200435,2025-10-09,Jorge Hill,69.0,Male,Del Pilar,Diabetes,36.5,153.0,37.8
+MED-200983,2025-05-19,George Rodriguez,16.0,Female,Bayanihan,Fever,36.3,189.0,72.1
+MED-200373,2025-06-22,Mrs. Sheila Moon,27.0,Female,Bagong Silang,Diabetes,36.3,213.0,73.6
+MED-200084,2025-04-20,Jordan Butler,53.0,Female,San Isidro,Diabetes,37.9,213.0,72.2
+MED-200917,2026-03-08,Mark Jones,46.0,Male,Poblacion,Checkup,37.6,138.0,61.9
+MED-200692,2026-01-24,Alice Morton,16.0,Female,Mabini,Checkup,35.5,186.0,47.3
+MED-200699,2026-05-23,Brandon Mcgee,48.0,Male,Mabini,Hypertension,37.6,242.0,50.0
+MED-200348,2025-10-18,Joshua Jackson,45.0,Female,Bagong Silang,Fever,35.9,283.0,69.6
+MED-200930,2026-02-08,Samuel Cervantes,57.0,Male,Sta. Cruz,Asthma,37.2,197.0,73.1
+MED-200570,2024-09-25,Anthony Bright DDS,15.0,Male,Magsaysay,Infection,36.7,177.0,49.8
+MED-200063,2026-03-20,Heather Howell,55.0,Female,Rizal,Asthma,36.5,210.0,64.5
+MED-200171,2025-09-29,Jennifer Griffin,27.0,Male,Magsaysay,Fever,37.4,176.0,58.2
+MED-200455,2026-01-23,Tiffany Henson,25.0,Male,Magsaysay,Checkup,37.1,197.0,57.7
+MED-200769,2025-07-24,Kimberly Jones,59.0,Male,Sta. Cruz,Checkup,36.7,200.0,43.4
+MED-200607,2026-03-09,Tara Hill,52.0,Female,Bagong Silang,Asthma,37.5,214.0,66.5
+MED-200976,2025-02-01,Carl Wyatt,60.0,Female,Sta. Cruz,Asthma,37.9,171.0,95.9
+MED-200143,2024-08-29,Tammy Adams,37.0,Female,Mabini,Checkup,37.5,213.0,35.0
+MED-200269,2025-03-11,Cindy Flowers,38.0,Male,Del Pilar,Hypertension,37.5,217.0,71.0
+MED-200723,2025-12-18,Bruce Simmons,30.0,Female,Bagong Silang,Fever,36.6,161.0,69.1
+MED-200532,2025-06-23,Kevin Gill,38.0,Male,Sta. Cruz,Asthma,37.0,165.0,76.4
+MED-200833,2024-05-30,Samuel Collins,48.0,Male,Magsaysay,Hypertension,35.5,183.0,77.4
+MED-200230,2025-07-02,Matthew Becker DDS,44.0,Female,San Jose,Diabetes,37.4,163.0,46.4
+MED-200519,2026-03-14,Miss Gina Sparks,59.0,Female,Magsaysay,Checkup,36.6,216.0,59.8
+MED-200563,2025-12-07,Kelly Johnson,18.0,Female,San Miguel,Asthma,36.1,208.0,57.8
+MED-200610,2024-11-11,Geoffrey Gamble,20.0,Male,Bayanihan,Hypertension,38.2,244.0,76.2
+MED-200863,2025-01-26,Kaitlin Peters,0.0,Male,San Miguel,Hypertension,37.5,167.0,77.5
+MED-200064,2024-10-02,Sara Ortiz,23.0,Female,Poblacion,Hypertension,36.8,168.0,60.4
+MED-200132,2024-08-21,Michelle Simpson,25.0,Male,Mabini,Diabetes,36.7,235.0,65.2
+MED-200612,2026-04-30,Jaime Blanchard,56.0,Female,Bagong Silang,Asthma,35.8,172.0,62.9
+MED-200317,2025-04-29,Kelly Berg,25.0,Female,Del Pilar,Infection,37.5,144.0,54.3
+MED-200664,2026-01-08,Mr. Jerry Dennis II,7.0,Female,Del Pilar,Diabetes,35.6,217.0,62.0
+MED-200081,2026-03-14,Joshua Sharp,39.0,Male,Rizal,Infection,36.0,131.0,57.7
+MED-200961,2024-11-21,Edward Page,29.0,Male,Magsaysay,Hypertension,38.1,248.0,62.1
+MED-200214,2026-01-19,David Elliott,28.0,Female,Poblacion,Infection,36.6,131.0,53.0
+MED-200115,2025-10-30,Harold Greer,48.0,Male,Sta. Cruz,Checkup,36.4,155.0,50.4
+MED-200411,2026-03-03,Charles Lee,,Male,Del Pilar,Checkup,,,
+MED-200476,2024-09-28,Amy Mcintosh,29.0,Female,Mabini,Hypertension,36.9,168.0,47.2
+MED-200735,2026-03-10,Joan Doyle,29.0,Male,San Isidro,Checkup,36.3,192.0,54.9
+MED-200943,2025-01-10,Carrie Bradley,15.0,Female,San Miguel,Infection,35.7,188.0,52.1
+MED-200812,2025-05-27,Robert Tyler,23.0,Male,Bagong Silang,Fever,36.8,164.0,58.6
+MED-200288,2024-09-02,Hannah Miles,42.0,Female,Bagong Silang,Hypertension,35.3,146.0,69.2
+MED-200300,2025-08-14,Amanda Thompson,288.0,Male,Bayanihan,Checkup,295.2,1508.0,492.4
+MED-200879,2026-05-23,Cassandra Jones,32.0,Male,San Jose,Checkup,36.9,223.0,69.1
+MED-200628,2025-07-22,Michelle Jackson,31.0,Male,Bagong Silang,Hypertension,37.2,163.0,63.0
+MED-200453,2026-01-26,Paul Hill,76.0,Male,Del Pilar,Diabetes,37.7,124.0,68.0
+MED-200167,2024-11-08,Jeffrey Carter,25.0,Female,Maligaya,Infection,36.3,225.0,45.5
+MED-200757,2024-09-03,Kimberly Ewing,19.0,Female,Poblacion,Diabetes,36.6,233.0,65.8
+MED-200906,2025-06-14,Devin George,52.0,Male,Del Pilar,Hypertension,36.7,138.0,69.9
+MED-200679,2026-04-15,Isabella Keith,74.0,Female,Maligaya,Checkup,37.1,218.0,55.0
+MED-200006,2026-04-10,Robert Ortiz,37.0,Male,San Jose,Diabetes,35.7,244.0,62.8
+MED-200721,2025-03-10,Patricia Donovan,38.0,Male,San Isidro,Diabetes,37.3,163.0,61.9
+MED-200556,2026-04-16,Nancy Sanchez,49.0,Female,Magsaysay,Hypertension,37.1,224.0,76.9
+MED-200384,2026-03-14,Jacob Smith,39.0,Male,San Jose,Asthma,36.1,175.0,51.3
+MED-200900,2025-02-17,Steven Schaefer,39.0,Female,San Isidro,Asthma,37.1,215.0,38.9
+MED-200040,2025-08-06,Steven Pruitt,59.0,Female,Poblacion,Checkup,36.8,175.0,41.5
+MED-200783,2025-03-07,Tara Garcia,5.0,Male,San Isidro,Fever,36.4,80.0,74.7
+MED-200512,2026-04-13,Destiny Mckee,49.0,Male,San Jose,Hypertension,37.6,240.0,62.1
+MED-200662,2024-06-29,Amanda Baker,15.0,Female,Poblacion,Asthma,36.6,207.0,65.3
+MED-200017,2025-05-09,Aaron Hill,57.0,Female,Rizal,Fever,38.2,153.0,62.9
+MED-200396,2026-01-25,Amy Williamson,29.0,Male,San Miguel,Hypertension,37.1,197.0,64.1
+MED-200720,2025-03-09,Michelle Lane,2.0,Female,Poblacion,Hypertension,36.9,110.0,46.3
+MED-200838,2026-03-24,Ryan Johnson,34.0,Female,Poblacion,Asthma,37.0,200.0,64.9
+MED-200502,2024-06-30,Gina Holden,53.0,Male,Magsaysay,Checkup,37.0,172.0,53.6
+MED-200683,2024-07-03,Kevin Doyle,22.0,Male,Sta. Cruz,Fever,37.3,181.0,85.8
+MED-200356,2024-06-19,Laura Hull,11.0,Female,Del Pilar,Asthma,36.7,242.0,76.0
+MED-200802,2025-06-28,Rachel Norris,42.0,Female,Rizal,Hypertension,37.5,246.0,73.6
+MED-200434,2025-12-29,Joel Wilson,52.0,Male,Sta. Cruz,Hypertension,36.9,173.0,57.8
+MED-200676,2026-02-02,Kelly Robertson,25.0,Female,Poblacion,Hypertension,37.0,259.0,64.9
+MED-200928,2026-02-12,Michael Lewis,25.0,Male,Sta. Cruz,Diabetes,36.2,262.0,65.1
+MED-200018,2025-01-04,Theresa Hoover,47.0,Female,Poblacion,Fever,37.4,153.0,77.3
+MED-200032,2026-03-01,Steven Marshall,30.0,Female,Mabini,Diabetes,35.4,257.0,44.5
+MED-200053,2025-03-03,Carol Torres,6.0,Male,Mabini,Infection,37.2,218.0,70.2
+MED-200213,2025-03-06,Gloria Cruz,22.0,Female,Magsaysay,Fever,36.7,168.0,74.3
+MED-200849,2024-08-10,Mary Washington,37.0,Female,Bagong Silang,Checkup,36.0,177.0,57.2
+MED-200730,2026-03-08,Lisa Mendoza,65.0,Female,San Miguel,Asthma,36.7,224.0,56.2
+MED-200526,2024-08-05,Laura Walker,31.0,Male,San Isidro,Asthma,36.0,175.0,65.9
+MED-200191,2025-01-26,Kristen Rivera,42.0,Female,Maligaya,Fever,37.8,156.0,83.7
+MED-200283,2025-06-23,Jason Miles,47.0,Female,Maligaya,Fever,37.4,187.0,64.5
+MED-200913,2024-11-13,Mrs. Deborah Fitzgerald DVM,8.0,Male,San Jose,Fever,37.5,114.0,61.8
+MED-200078,2025-06-28,Jonathan Valdez,51.0,Male,Mabini,Infection,36.6,153.0,55.1
+MED-200600,2026-03-01,Joshua Duarte,45.0,Female,Rizal,Fever,35.9,263.0,42.1
+MED-200576,2026-01-04,Adam Calderon,54.0,Male,San Jose,Infection,36.4,266.0,62.1
+MED-200042,2025-05-25,Lawrence Ryan,12.0,Male,San Miguel,Hypertension,35.7,88.0,71.8
+MED-200597,2025-05-03,Edward Moss,16.0,Female,Poblacion,Diabetes,37.8,246.0,48.5
+MED-200574,2026-05-15,Melissa Woods,54.0,Male,Sta. Cruz,Fever,37.0,176.0,70.0
+MED-200027,2024-09-12,Kristy Smith,20.0,Male,Maligaya,Infection,38.8,144.0,65.9
+MED-200272,2025-07-18,Allison Clark,20.0,Female,Magsaysay,Diabetes,36.7,231.0,35.0
+MED-200326,2025-10-29,John Sanders,10.0,Male,San Isidro,Diabetes,36.8,182.0,58.6
+MED-200567,2024-07-08,Angela Simpson,33.0,Male,Magsaysay,Asthma,37.5,205.0,69.4
+MED-200025,2024-09-25,Karen Hudson,63.0,Male,Rizal,Checkup,37.3,159.0,80.0
+MED-200208,2024-12-26,Shawn Hicks,61.0,Female,Magsaysay,Checkup,36.9,169.0,56.4
+MED-200916,2026-01-28,Kayla Fleming,36.0,Female,Maligaya,Fever,38.9,176.0,58.8
+MED-200030,2026-01-28,Marisa Sampson,55.0,Female,Rizal,Infection,37.9,183.0,76.9
+MED-200292,2024-06-20,Stanley Vang,49.0,Male,Maligaya,Infection,37.3,222.0,82.4
+MED-200287,2026-04-22,Brett Wood,47.0,Male,San Jose,Asthma,37.8,170.0,38.5
+MED-200224,2024-06-17,Justin Hill,14.0,Male,Bayanihan,Hypertension,36.2,207.0,45.6
+MED-200637,2024-09-26,Robin Carr MD,9.0,Female,Rizal,Hypertension,38.2,214.0,35.0
+MED-200357,2025-02-21,Paul Collins,64.0,Male,Poblacion,Diabetes,36.4,199.0,60.8
+MED-200266,2026-05-07,Mary Acosta,29.0,Male,Bayanihan,Hypertension,36.1,158.0,46.5
+MED-200134,2025-02-07,Donald Black,4.0,Female,Bayanihan,Hypertension,37.2,146.0,71.3
+MED-200105,2024-12-31,Bryan Burns MD,48.0,Male,Maligaya,Asthma,36.8,153.0,80.5
+MED-200007,2025-02-12,David Yates,19.0,Male,Maligaya,Asthma,37.3,180.0,89.0
+MED-200125,2026-03-07,Charles Parker,48.0,Male,Maligaya,Checkup,36.3,174.0,52.2
+MED-200593,2025-11-16,David Kirby,73.0,Male,Rizal,Hypertension,37.4,183.0,73.8
+MED-200988,2025-03-21,Amanda Warner,71.0,Male,Mabini,Hypertension,36.5,126.0,60.5
+MED-200958,2026-02-14,Debra Barron,37.0,Female,Sta. Cruz,Checkup,36.8,186.0,66.7
+MED-200509,2025-01-16,Lucas Manning,24.0,Female,San Miguel,Fever,37.0,174.0,52.7
+MED-200378,2025-03-23,Corey Clements,0.0,Female,Sta. Cruz,Checkup,36.5,211.0,62.3
+MED-200700,2025-06-08,Daniel Bowen,36.0,Male,Sta. Cruz,Infection,37.2,173.0,58.4
+MED-200608,2025-09-25,Adam Fischer,46.0,Male,San Jose,Diabetes,36.8,261.0,68.3
+MED-200797,2024-06-01,Donald West,34.0,Female,Sta. Cruz,Fever,37.2,241.0,83.4
+MED-200596,2024-10-10,Beth Cain,53.0,Female,San Miguel,Diabetes,37.4,230.0,61.5
+MED-200555,2025-01-29,Eric Miller,64.0,Male,Magsaysay,Asthma,38.3,225.0,67.8
+MED-200199,2026-04-18,Philip Gallagher,20.0,Male,San Isidro,Fever,36.9,134.0,42.5
+MED-200678,2025-04-30,David Maldonado,,Male,Bagong Silang,Fever,,,
+MED-200548,2024-12-23,Kari Garza,34.0,Male,Mabini,Diabetes,36.0,185.0,72.7
+MED-200973,2026-05-04,Jorge Andrews,,Female,Sta. Cruz,Hypertension,,,
+MED-200839,2025-08-28,Dr. Jeffrey Jones PhD,18.0,Female,Del Pilar,Infection,37.7,171.0,84.2
+MED-200119,2024-11-06,John Sanders,57.0,Female,San Jose,Checkup,37.7,166.0,60.8
+MED-200452,2025-04-20,Michele Knight,41.0,Male,San Jose,Hypertension,37.8,185.0,80.8
+MED-200080,2026-03-21,Jay Allen,30.0,Male,Bayanihan,Asthma,37.0,264.0,53.8
+MED-200914,2024-08-11,Craig Lee,74.0,Female,San Miguel,Diabetes,36.2,165.0,83.5
+MED-200982,2026-02-02,Wendy Simmons,29.0,Male,San Isidro,Checkup,38.2,223.0,38.3
+MED-200709,2026-02-10,Erin Olson,19.0,Male,San Miguel,Diabetes,36.4,192.0,40.2
+MED-200301,2024-09-27,Kathleen Dillon,67.0,Male,Magsaysay,Checkup,36.9,234.0,62.4
+MED-200211,2024-06-26,Margaret Alvarez,54.0,Female,Bagong Silang,Infection,37.3,136.0,72.7
+MED-200698,2025-03-16,Andrew Hill,7.0,Female,Rizal,Infection,36.0,221.0,72.6
+MED-200671,2024-11-05,Marissa Conrad,33.0,Female,Mabini,Diabetes,37.0,220.0,45.0
+MED-200734,2026-01-18,Jerry Holt,50.0,Male,Rizal,Hypertension,37.0,212.0,57.1
+MED-200882,2025-03-04,Paul Sexton,30.0,Female,Sta. Cruz,Infection,35.1,143.0,71.1
+MED-200697,2025-08-07,Michael Parker,20.0,Female,Poblacion,Diabetes,37.5,176.0,68.8
+MED-200809,2024-07-13,Kevin Chaney,81.0,Female,Bayanihan,Diabetes,37.2,165.0,38.8
+MED-200913,2024-11-13,Mrs. Deborah Fitzgerald DVM,8.0,Male,San Jose,Fever,37.5,114.0,61.8
+MED-200767,2025-05-15,Diana Flores MD,18.0,Female,San Isidro,Fever,37.2,137.0,76.6
+MED-200403,2025-04-07,Ryan Fuller,52.0,Female,Poblacion,Infection,37.2,134.0,72.8
+MED-200763,2025-01-26,Kelly Bradford,55.0,Female,Maligaya,Asthma,36.9,227.0,48.3
+MED-200654,2025-06-22,Mrs. Donna Watson,24.0,Male,Bagong Silang,Asthma,37.2,166.0,35.0
+MED-200706,2025-02-14,Deborah Richardson,54.0,Female,Bayanihan,Asthma,37.4,160.0,67.1
+MED-200495,2024-08-24,Nicholas Caldwell MD,55.0,Female,Sta. Cruz,Infection,37.7,143.0,72.4
+MED-200538,2024-07-26,Brianna Ballard,24.0,Female,Mabini,Checkup,35.9,177.0,58.8
+MED-200015,2025-10-03,Tamara Hernandez,55.0,Male,Maligaya,Diabetes,35.9,198.0,75.9
+MED-200834,2025-11-17,Jack Hatfield,47.0,Female,Mabini,Infection,36.9,242.0,45.9
+MED-200931,2025-01-19,Mindy Horton,46.0,Male,San Isidro,Hypertension,37.4,270.0,56.6
+MED-200436,2024-07-25,Gregory Lee,34.0,Male,Del Pilar,Fever,37.5,213.0,57.3
+MED-200101,2026-01-03,Susan Payne,,Male,San Miguel,Diabetes,,,
+MED-200374,2025-09-02,Beth Mcdonald,288.0,Male,San Isidro,Checkup,295.2,1508.0,492.4
+MED-200451,2025-11-04,Michael Simpson,64.0,Male,Mabini,Checkup,36.9,209.0,91.8
+MED-200541,2026-05-04,Jodi Allison,68.0,Female,Sta. Cruz,Hypertension,36.9,157.0,60.4
+MED-200299,2025-03-01,Alexis Wright,,Male,Bagong Silang,Diabetes,,,
+MED-200891,2025-01-05,Dana Moore,36.0,Male,Maligaya,Hypertension,37.2,215.0,47.9
+MED-200262,2025-08-24,Sandra Anderson,288.0,Female,Poblacion,Asthma,295.2,1508.0,492.4
+MED-200725,2025-04-20,Steven Miller DDS,59.0,Female,Magsaysay,Diabetes,37.8,206.0,66.2
+MED-200828,2024-10-30,Daniel White,66.0,Female,Mabini,Diabetes,36.4,166.0,56.3
+MED-200174,2025-12-31,Kari Abbott,,Female,Rizal,Hypertension,,,
+MED-200467,2026-02-24,Amanda Roberts,43.0,Male,Bagong Silang,Diabetes,37.5,182.0,70.7
+MED-200896,2026-04-02,Mrs. Jessica Massey,29.0,Female,Del Pilar,Hypertension,37.3,163.0,59.5
+MED-200459,2026-05-02,Mrs. Ashley Mullen MD,53.0,Female,Bayanihan,Infection,38.1,201.0,64.9
+MED-200344,2026-03-29,Gregory Rodriguez,11.0,Male,San Isidro,Hypertension,36.9,131.0,52.5
+MED-200753,2025-10-05,Rachel Douglas,33.0,Female,Mabini,Infection,37.0,193.0,37.2
+MED-200468,2024-07-03,James Johnston,15.0,Male,Del Pilar,Checkup,37.5,188.0,93.0
+MED-200798,2025-02-19,Stacy Griffin,21.0,Female,Maligaya,Diabetes,37.0,201.0,70.2
+MED-200966,2025-05-03,Nicole Young,24.0,Female,San Miguel,Infection,38.0,179.0,42.8
+MED-200619,2026-04-07,Jennifer Jones,29.0,Male,Del Pilar,Infection,38.0,227.0,64.7
+MED-200715,2025-05-21,John Lopez,52.0,Male,Del Pilar,Fever,36.1,161.0,84.4
+MED-200909,2024-08-13,Robert Taylor,50.0,Female,San Isidro,Diabetes,37.6,298.0,62.2
+MED-200453,2026-01-26,Paul Hill,76.0,Male,Del Pilar,Diabetes,37.7,124.0,68.0
+MED-200886,2025-12-21,Neil Byrd,20.0,Female,Sta. Cruz,Asthma,36.7,242.0,56.5
+MED-200786,2025-06-21,Robert Blake,73.0,Male,Sta. Cruz,Diabetes,37.1,150.0,76.7
+MED-200639,2024-12-11,Ashley Maxwell,33.0,Female,Bagong Silang,Hypertension,36.7,239.0,50.5
+MED-200659,2024-10-19,Abigail Smith,0.0,Male,Magsaysay,Diabetes,36.8,183.0,41.4
+MED-200507,2024-11-06,Carl Pennington,3.0,Male,Sta. Cruz,Hypertension,36.6,120.0,75.8
+MED-200638,2026-03-06,Alexander Dunn,37.0,Male,Bayanihan,Diabetes,36.3,234.0,48.5
+MED-200813,2025-08-07,Patricia Lee,20.0,Female,Magsaysay,Checkup,36.8,231.0,67.3
+MED-200866,2025-10-29,Elizabeth Lopez,13.0,Female,San Jose,Checkup,36.2,253.0,62.5
+MED-200826,2025-03-21,Robert Ramirez,46.0,Male,Mabini,Diabetes,37.6,197.0,70.4
+MED-200747,2026-04-19,Miranda Wilcox,54.0,Female,Bayanihan,Checkup,37.1,174.0,69.5
+MED-200780,2025-08-22,Christine Bowman,54.0,Female,Del Pilar,Checkup,36.0,230.0,41.0
+MED-200743,2024-06-28,Victoria Jackson,23.0,Male,San Isidro,Infection,36.3,123.0,35.9
+MED-200727,2024-08-19,Anthony Williams,42.0,Male,Bayanihan,Checkup,36.6,169.0,47.7
+MED-200710,2025-04-01,Chase Gonzalez,40.0,Male,Bagong Silang,Hypertension,36.4,104.0,61.8
+MED-200951,2025-06-06,Joseph Ross,17.0,Female,San Isidro,Hypertension,36.7,201.0,71.3
+MED-200869,2026-05-09,Eric Rodriguez,16.0,Male,Mabini,Fever,37.1,147.0,45.7
+MED-200135,2025-04-26,Geoffrey Ramos,38.0,Female,Maligaya,Fever,37.4,144.0,76.9
+MED-200636,2025-04-22,John Martinez,,Female,San Isidro,Asthma,,,
+MED-200788,2025-02-27,Sharon Pace,40.0,Male,San Isidro,Diabetes,38.3,134.0,60.0
+MED-200247,2024-11-01,Patricia Ramirez,23.0,Male,Magsaysay,Hypertension,36.3,193.0,54.5
+MED-200319,2025-01-20,Nicole Mccoy,,Female,San Miguel,Hypertension,,,
+MED-200305,2025-12-18,Zachary Kennedy,59.0,Female,Mabini,Diabetes,36.9,231.0,43.3
+MED-200375,2026-05-20,Theresa Franklin,25.0,Male,Del Pilar,Infection,37.4,176.0,50.9
+MED-200856,2025-12-31,Sarah Joseph,19.0,Male,Poblacion,Checkup,35.8,274.0,80.8
+MED-200972,2026-05-15,Dr. Paul Richards,53.0,Female,Magsaysay,Asthma,36.5,172.0,51.9
+MED-200542,2024-10-09,Elizabeth Jones,31.0,Male,Rizal,Checkup,37.7,168.0,69.6
+MED-200675,2025-03-16,Nicholas Dawson,21.0,Female,San Isidro,Fever,37.1,182.0,68.5
+MED-200755,2025-03-05,Maria Gilbert,33.0,Male,Bayanihan,Asthma,36.1,196.0,74.6
+MED-200625,2024-12-17,Anna Davis,50.0,Male,San Jose,Diabetes,37.0,199.0,68.8
+MED-200397,2025-11-15,Rodney Marshall,39.0,Female,Maligaya,Hypertension,37.3,135.0,87.4
+MED-200146,2024-10-16,Kristen Herring,58.0,Male,Magsaysay,Asthma,35.8,260.0,43.0
+MED-200633,2024-12-18,Anthony Alexander,0.0,Male,Magsaysay,Hypertension,36.9,178.0,80.5
+MED-200814,2025-07-20,Cole Harris,52.0,Female,Sta. Cruz,Asthma,38.0,207.0,69.4
+MED-200461,2024-11-14,Danielle Molina,24.0,Female,Maligaya,Hypertension,36.3,206.0,50.3
+MED-200595,2024-11-13,Craig Mendoza,53.0,Male,Bagong Silang,Diabetes,37.7,175.0,81.3
+MED-200140,2026-03-10,Tina Jenkins,45.0,Male,Del Pilar,Hypertension,36.8,184.0,47.0
+MED-200901,2024-07-29,Travis Edwards,,Female,San Isidro,Diabetes,,,
+MED-200957,2026-01-30,Mary Hall,38.0,Female,Bagong Silang,Infection,37.5,228.0,69.5
+MED-200702,2024-10-18,George Kelly,54.0,Female,Poblacion,Infection,35.2,166.0,68.5
+MED-200749,2026-05-04,Kelly White,61.0,Female,Rizal,Asthma,35.9,270.0,96.4
+MED-200954,2025-07-20,Veronica Carey,40.0,Male,Bagong Silang,Diabetes,36.8,173.0,53.0
+MED-200026,2026-04-24,Allen Newton,6.0,Female,San Miguel,Infection,37.1,263.0,72.2
+MED-200155,2026-01-16,Michaela Thomas,14.0,Female,Magsaysay,Asthma,36.9,165.0,53.1
+MED-200889,2025-11-15,Todd Wilkins,50.0,Male,Rizal,Checkup,35.6,171.0,57.4
+MED-200580,2026-02-24,James Wiggins,43.0,Female,Bayanihan,Checkup,37.1,177.0,85.0
+MED-200682,2026-04-28,Vincent Reynolds,24.0,Male,San Miguel,Fever,37.0,154.0,64.3
+MED-200685,2024-09-14,Monica Brown,20.0,Male,Sta. Cruz,Infection,37.7,171.0,86.4
+MED-200649,2025-10-04,April Gonzalez,31.0,Male,Sta. Cruz,Diabetes,36.7,143.0,60.7
+MED-200515,2025-04-19,Dawn Snow,30.0,Female,Maligaya,Asthma,36.8,207.0,83.1
+MED-200578,2026-03-19,Bryan Fowler,44.0,Female,San Isidro,Infection,36.3,181.0,85.9
+MED-200099,2026-05-13,Rodney Montgomery,32.0,Male,San Jose,Checkup,36.4,145.0,55.7
+MED-200853,2026-05-04,Nancy Gregory,59.0,Female,San Miguel,Hypertension,37.3,194.0,58.9
+MED-200898,2026-04-07,David Garcia,23.0,Female,San Isidro,Infection,38.2,288.0,57.2
+MED-200166,2024-11-05,William Vega,23.0,Female,San Jose,Infection,38.5,198.0,60.0
+MED-200873,2026-04-27,Omar Rhodes,25.0,Male,Mabini,Asthma,36.4,183.0,50.4
+MED-200023,2025-06-13,James Taylor,47.0,Female,Magsaysay,Checkup,36.8,184.0,56.8
+MED-200552,2025-09-06,Jessica Schmidt,52.0,Female,San Miguel,Checkup,36.2,109.0,74.1
+MED-200204,2025-06-22,Alexander Sanchez,22.0,Female,Sta. Cruz,Checkup,37.0,209.0,66.6
+MED-200033,2025-10-29,Donald Jennings,0.0,Male,San Isidro,Checkup,35.6,267.0,62.9
+MED-200242,2025-01-05,Maria Wallace,9.0,Male,Bayanihan,Hypertension,38.1,254.0,64.3
+MED-200565,2024-08-11,Judy Brown,35.0,Female,San Jose,Checkup,36.1,188.0,59.4
+MED-200370,2026-02-06,Charles Thomas,,Male,Mabini,Infection,,,
+MED-200635,2026-05-10,John Mclaughlin,32.0,Male,Poblacion,Asthma,36.0,216.0,74.1
+MED-200947,2025-10-05,Ashley Wilson,,Female,San Isidro,Hypertension,,,
+MED-200660,2025-05-22,Dana Duncan,,Male,Bayanihan,Hypertension,,,
+MED-200009,2026-04-26,Cynthia Smith,28.0,Female,San Isidro,Checkup,35.5,113.0,47.5
+MED-200010,2024-09-13,Christopher Chavez,34.0,Female,Maligaya,Asthma,36.4,187.0,80.7
+MED-200079,2025-03-31,Rodney Norton,40.0,Female,Rizal,Checkup,37.4,217.0,78.2
+MED-200964,2025-11-04,Connie Parks,0.0,Female,Maligaya,Diabetes,36.9,235.0,35.0
+MED-200350,2026-01-06,Vincent Smith,43.0,Male,Bagong Silang,Diabetes,36.3,228.0,84.9
+MED-200118,2024-08-30,Mrs. Heather Yoder,45.0,Male,San Jose,Checkup,37.5,175.0,54.9
+MED-200935,2025-10-09,Debra Garcia,26.0,Male,Rizal,Hypertension,36.4,184.0,47.4
+MED-200234,2024-08-20,William Peters,35.0,Male,Del Pilar,Hypertension,36.4,129.0,74.1
+MED-200520,2024-10-02,Gregory Wilson,51.0,Female,Mabini,Asthma,37.4,80.0,70.3
+MED-200907,2026-03-06,James Hendrix,18.0,Male,Sta. Cruz,Checkup,37.2,230.0,61.3
+MED-200289,2025-02-25,Allison Nash,45.0,Male,Del Pilar,Hypertension,36.4,157.0,47.5
+MED-200216,2024-06-04,Ana Rojas,19.0,Male,San Jose,Fever,36.5,121.0,38.4
+MED-200049,2024-08-26,Kevin Harris,46.0,Male,San Miguel,Checkup,37.5,261.0,67.7
+MED-200500,2026-04-14,Jasmine Ward,50.0,Female,Bayanihan,Hypertension,37.7,211.0,61.9
+MED-200930,2026-02-08,Samuel Cervantes,57.0,Male,Sta. Cruz,Asthma,37.2,197.0,73.1
+MED-200894,2025-06-22,Nicole Thomas,21.0,Male,Maligaya,Fever,36.9,166.0,73.3
+MED-200493,2025-10-29,Alexandra Edwards,33.0,Female,San Miguel,Infection,37.8,168.0,77.0
+MED-200609,2026-04-04,Nathan Kelly,23.0,Female,Poblacion,Checkup,37.0,212.0,78.8
+MED-200144,2025-04-09,Robert Mitchell,33.0,Female,San Jose,Diabetes,35.3,210.0,51.2
+MED-200474,2025-02-25,Amanda Bell,37.0,Female,Poblacion,Fever,36.2,184.0,48.8
+MED-200686,2024-10-17,Robert Miranda,32.0,Male,Magsaysay,Asthma,37.7,199.0,45.3
+MED-200992,2026-01-04,Rachel Barnett,24.0,Male,Rizal,Infection,36.5,184.0,47.6
+MED-200333,2025-02-26,Kari Bird,13.0,Female,San Jose,Fever,37.5,256.0,35.0
+MED-200112,2025-09-11,Gary Harris,26.0,Female,Bagong Silang,Hypertension,37.8,118.0,76.8
+MED-200732,2024-06-14,Ricky Stone MD,31.0,Male,San Jose,Fever,36.4,174.0,41.9
+MED-200549,2025-07-18,Michael Edwards,,Female,San Isidro,Asthma,,,
+MED-200360,2025-03-16,Dorothy Barnes,31.0,Female,San Isidro,Diabetes,38.1,191.0,59.8
+MED-200668,2025-08-31,Omar Boyer,51.0,Female,Sta. Cruz,Diabetes,36.7,114.0,62.3
+MED-200407,2026-01-17,Charles Griffith,5.0,Female,Sta. Cruz,Diabetes,36.4,231.0,59.1
+MED-200338,2025-12-01,Michael Freeman,37.0,Female,San Jose,Checkup,37.4,200.0,66.9
+MED-200701,2025-11-11,Cassie Garcia,49.0,Female,Bayanihan,Diabetes,36.3,176.0,57.9
+MED-200937,2026-04-30,Alexandra Christian,19.0,Female,Del Pilar,Diabetes,36.8,228.0,42.5
+MED-200644,2026-02-03,Rebecca Curtis,57.0,Male,Mabini,Asthma,37.3,219.0,39.6
+MED-200594,2024-07-26,Troy Cole,28.0,Male,Poblacion,Fever,37.8,223.0,49.7
+MED-200351,2024-08-16,Amber Williamson,52.0,Female,San Miguel,Hypertension,37.4,149.0,61.8
+MED-200673,2025-03-28,Yvonne Robinson,29.0,Male,Poblacion,Infection,35.8,152.0,68.9
+MED-200463,2024-08-17,Brianna Lin,49.0,Male,Mabini,Hypertension,36.8,187.0,44.4
+MED-200462,2025-12-29,Heather Guzman,33.0,Female,Del Pilar,Hypertension,35.9,80.0,59.3
+MED-200420,2024-05-29,Justin Maldonado,18.0,Male,Poblacion,Diabetes,37.0,127.0,43.8
+MED-200618,2026-03-01,James King,24.0,Male,Bagong Silang,Checkup,36.8,214.0,75.1
+MED-200322,2025-07-10,Cynthia Johnson,44.0,Female,Sta. Cruz,Checkup,37.9,118.0,55.8
+MED-200728,2025-09-28,Megan Washington,13.0,Female,Rizal,Hypertension,36.8,163.0,43.3
+MED-200438,2025-09-18,Tom Velasquez,49.0,Female,Maligaya,Hypertension,36.1,144.0,77.0
+MED-200854,2025-08-07,Michael Downs,58.0,Female,Bagong Silang,Infection,37.6,247.0,39.3
+MED-200183,2024-10-05,Michael Morris,27.0,Female,Rizal,Checkup,36.3,197.0,77.4
+MED-200367,2025-09-02,Anthony Ray,27.0,Male,San Miguel,Asthma,36.8,160.0,64.0
+MED-200890,2026-05-15,Emily Gordon,32.0,Male,Bayanihan,Fever,37.2,242.0,52.5
+MED-200342,2026-01-14,Mark Phillips,38.0,Female,San Isidro,Fever,36.5,253.0,51.0
+MED-200306,2025-06-04,Michael Carter,40.0,Female,Bagong Silang,Infection,37.7,213.0,43.9
+MED-200217,2026-05-23,Ashlee Hall,47.0,Male,Bayanihan,Infection,36.4,172.0,61.4
+MED-200970,2026-03-18,Michael Petersen,11.0,Male,Rizal,Hypertension,36.1,159.0,49.1
+MED-200037,2025-03-18,Ashley Roberts,45.0,Female,Bagong Silang,Diabetes,37.6,195.0,65.5
+MED-200313,2025-10-26,Christy Kane,48.0,Female,Bagong Silang,Checkup,37.7,215.0,67.1
+MED-200583,2024-06-02,Jessica Bailey,25.0,Female,Del Pilar,Fever,36.5,102.0,59.0
+MED-200188,2025-06-23,Alexander Mcpherson,50.0,Male,Bayanihan,Fever,35.4,226.0,53.8
+MED-200481,2025-09-02,Sarah Miller,30.0,Male,Bayanihan,Checkup,37.4,80.0,92.3
+MED-200036,2025-02-07,Heather Brown,40.0,Female,San Isidro,Asthma,37.1,208.0,56.9
+MED-200899,2026-01-17,Adam Graham,,Female,Maligaya,Infection,,,
+MED-200770,2025-02-26,Howard Anderson,47.0,Male,San Miguel,Infection,36.9,252.0,45.6
+MED-200870,2025-01-12,Darlene Moore,35.0,Female,Sta. Cruz,Hypertension,37.5,133.0,60.7
+MED-200522,2025-11-03,Anthony Cunningham MD,27.0,Male,Bagong Silang,Checkup,37.0,162.0,54.8
+MED-200478,2025-01-10,Christian Thompson,29.0,Male,Sta. Cruz,Checkup,36.9,250.0,63.6
+MED-200233,2026-01-26,Victoria Gallagher,60.0,Female,Mabini,Hypertension,37.2,187.0,46.0
+MED-200102,2025-05-25,Debbie Roberts,3.0,Male,Poblacion,Fever,36.6,197.0,81.9
+MED-200756,2025-07-12,Michael Rodriguez,25.0,Male,Mabini,Hypertension,37.3,152.0,64.7
+MED-200758,2026-04-07,Jeremy Chen,34.0,Female,Rizal,Hypertension,36.5,238.0,82.4
+MED-200719,2025-10-28,Erica Washington,17.0,Female,San Miguel,Asthma,35.8,134.0,52.8
+MED-200065,2026-01-04,Alexandra Olson,41.0,Female,San Isidro,Checkup,37.1,161.0,61.3
+MED-200418,2025-10-27,Gary Adams,33.0,Male,San Jose,Fever,36.5,190.0,65.2
+MED-200163,2024-10-19,Jeffrey Shepherd,34.0,Male,Poblacion,Hypertension,37.2,131.0,35.0
+MED-200263,2025-02-20,John Brown,23.0,Female,Bagong Silang,Hypertension,37.2,137.0,52.5
+MED-200231,2025-02-27,James Oconnor,13.0,Female,Bayanihan,Asthma,36.9,220.0,59.0
+MED-200560,2024-12-11,Charles Hartman,46.0,Female,Sta. Cruz,Fever,37.7,145.0,35.0
+MED-200235,2025-07-16,Joseph Carroll,,Female,San Miguel,Diabetes,,,
+MED-200491,2024-07-16,Thomas Cook,15.0,Female,Maligaya,Fever,38.1,251.0,53.3
+MED-200175,2026-04-14,Evelyn Mckenzie,34.0,Female,Bagong Silang,Hypertension,37.3,80.0,92.5
+MED-200806,2025-08-08,Logan Glenn,59.0,Female,Magsaysay,Asthma,36.4,175.0,62.1
+MED-200860,2025-01-10,Ann Martinez,20.0,Male,Bayanihan,Asthma,36.7,218.0,56.7
+MED-200071,2025-03-12,Jacqueline Harvey,15.0,Female,Bagong Silang,Diabetes,36.9,187.0,36.2
+MED-200125,2026-03-07,Charles Parker,48.0,Male,Maligaya,Checkup,36.3,174.0,52.2
+MED-200089,2024-06-25,Anne Garcia,74.0,Female,Maligaya,Hypertension,36.4,127.0,42.9
+MED-200117,2024-06-18,Yvette Sharp,31.0,Female,Poblacion,Asthma,37.4,123.0,61.3
+MED-200321,2026-02-20,Alexis Jones,42.0,Female,Maligaya,Infection,36.1,192.0,67.2
+MED-200632,2024-10-24,Natalie Chen,80.0,Male,San Miguel,Infection,36.3,209.0,65.7
+MED-200971,2026-01-05,Jordan Haas,31.0,Female,Magsaysay,Fever,36.7,166.0,85.4
+MED-200547,2024-06-11,Melinda Russell,38.0,Female,Magsaysay,Fever,37.2,208.0,57.7
+MED-200061,2025-04-04,Michelle Strong,27.0,Female,Poblacion,Infection,36.7,263.0,71.8
+MED-200714,2025-04-11,Jillian Holden,53.0,Male,San Isidro,Diabetes,38.1,105.0,43.2
+MED-200186,2025-01-26,Rachel Lopez,2.0,Female,Bayanihan,Checkup,38.6,242.0,68.9
+MED-200680,2024-10-25,Monica Macias,28.0,Male,Bagong Silang,Infection,37.2,207.0,61.8
+MED-200401,2024-08-28,Kevin Watson,39.0,Male,San Miguel,Infection,37.1,205.0,42.7
+MED-200232,2024-09-02,Joshua Allen,32.0,Male,San Isidro,Diabetes,38.3,108.0,53.8
+MED-200562,2025-03-22,Mark Garner,60.0,Male,Bayanihan,Fever,35.7,154.0,65.6
+MED-200072,2025-08-07,Juan Roman,44.0,Female,Mabini,Infection,36.4,163.0,53.3
+MED-200477,2025-10-08,David Becker,26.0,Female,Magsaysay,Infection,37.0,153.0,53.7
+MED-200270,2024-12-03,Tommy Bowen,56.0,Female,San Isidro,Diabetes,37.1,127.0,78.2
+MED-200111,2026-03-22,Daniel Singh II,47.0,Male,San Jose,Asthma,36.4,228.0,80.4
+MED-200469,2025-08-04,Oscar Harris,0.0,Female,Maligaya,Fever,37.3,259.0,50.3
+MED-200514,2026-02-10,Christopher Bryant,29.0,Female,Poblacion,Diabetes,36.8,232.0,43.7
+MED-200497,2025-08-28,Daniel Harris,71.0,Male,San Isidro,Checkup,38.6,204.0,64.1
+MED-200226,2024-06-24,Jeffrey Montoya,73.0,Male,Del Pilar,Fever,37.5,119.0,67.7
+MED-200329,2024-10-28,Samantha Avila,49.0,Male,San Isidro,Asthma,37.7,199.0,47.9
+MED-200561,2024-06-10,Jim Walker,36.0,Male,San Jose,Asthma,36.1,167.0,51.8
+MED-200426,2026-03-15,Julie Jacobs,31.0,Female,Mabini,Checkup,37.3,224.0,73.8
+MED-200195,2024-09-04,Elizabeth Meadows,26.0,Male,Mabini,Diabetes,37.4,179.0,40.6
+MED-200336,2025-01-07,Sarah Chase,36.0,Male,San Miguel,Hypertension,37.8,175.0,38.1
+MED-200653,2025-11-20,Bailey Davis,39.0,Female,San Miguel,Hypertension,36.6,170.0,64.7
+MED-200778,2026-04-07,Kevin Roth,28.0,Male,Del Pilar,Hypertension,36.2,149.0,67.8
+MED-200028,2025-01-16,Carlos Maldonado,38.0,Male,Bagong Silang,Hypertension,36.1,140.0,63.7
+MED-200586,2025-05-30,Dennis West,21.0,Female,Maligaya,Asthma,36.8,118.0,52.9
+MED-200473,2024-09-17,Anthony Bailey,30.0,Male,Bayanihan,Checkup,36.4,187.0,77.1
+MED-200501,2026-04-12,Sue Massey,25.0,Female,Poblacion,Hypertension,36.2,139.0,67.9
+MED-200137,2025-11-22,Nathan Gordon,18.0,Female,Rizal,Checkup,35.9,206.0,73.9
+MED-200553,2024-08-08,John Phillips,25.0,Female,Maligaya,Diabetes,36.4,199.0,76.4
+MED-200986,2025-10-10,Gabrielle Mccann,,Male,San Isidro,Hypertension,,,
+MED-200944,2024-10-30,Donald Gonzalez,34.0,Male,San Jose,Hypertension,37.8,205.0,67.3
+MED-200393,2024-12-06,Shannon Craig,17.0,Female,Poblacion,Diabetes,36.8,283.0,35.0
+MED-200382,2025-04-24,Lauren Luna,34.0,Female,Bayanihan,Checkup,37.2,133.0,80.2
+MED-200271,2024-09-23,Matthew Munoz,38.0,Female,Bagong Silang,Hypertension,38.3,131.0,63.7
+MED-200778,2026-04-07,Kevin Roth,28.0,Male,Del Pilar,Hypertension,36.2,149.0,67.8
+MED-200669,2025-04-10,Carrie Ellison,78.0,Male,Maligaya,Fever,37.6,131.0,42.9
+MED-200465,2025-12-19,Janet Dixon,9.0,Female,Bagong Silang,Infection,37.7,173.0,41.2
+MED-200648,2025-09-22,Dana Robles,7.0,Female,Sta. Cruz,Diabetes,36.1,155.0,58.8
+MED-200480,2025-10-14,Eric Graves,32.0,Female,San Jose,Diabetes,36.0,223.0,47.3
+MED-200328,2024-08-11,Jessica Shaw,,Male,Del Pilar,Hypertension,,,
+MED-200012,2024-10-24,Diane Cox,21.0,Male,Bayanihan,Asthma,36.2,217.0,73.8
+MED-200602,2025-12-26,Debra Fields,34.0,Female,Bagong Silang,Asthma,37.8,206.0,50.5
+MED-200925,2024-09-11,Christopher Bell,40.0,Female,Maligaya,Checkup,37.4,199.0,50.6
+MED-200206,2025-01-02,James Rush,28.0,Male,Bagong Silang,Fever,36.9,80.0,83.3
+MED-200103,2024-09-21,Alyssa Wolfe,45.0,Female,San Miguel,Diabetes,37.1,223.0,78.0
+MED-200489,2026-03-11,Rebecca Walker,44.0,Male,Rizal,Fever,37.1,185.0,35.1
+MED-200309,2026-05-01,Anthony Harrington,52.0,Male,San Jose,Asthma,38.4,155.0,59.4
+MED-200516,2025-01-02,Diane Hayes,30.0,Female,San Isidro,Hypertension,36.3,217.0,75.8
+MED-200222,2025-12-30,Sean Stephenson,57.0,Male,Bagong Silang,Diabetes,37.0,199.0,53.9
+MED-200153,2026-01-18,Meagan Mccoy,45.0,Male,San Miguel,Fever,37.2,184.0,62.8
+MED-200180,2025-07-20,Thomas Kirk,42.0,Male,Mabini,Fever,36.5,138.0,58.0
+MED-200656,2025-01-12,Melissa Newman,19.0,Male,San Isidro,Asthma,36.8,125.0,60.9
+MED-200182,2025-06-09,Shannon Bailey,50.0,Female,San Miguel,Infection,36.1,150.0,35.0
+MED-200892,2025-03-05,Carolyn Shea,38.0,Male,San Jose,Infection,36.3,156.0,71.3
+MED-200331,2026-03-24,Christopher Shepherd,55.0,Female,Maligaya,Asthma,35.7,245.0,53.2
+MED-200582,2024-11-10,Karen Munoz,0.0,Male,Del Pilar,Fever,37.5,227.0,77.5
+MED-200141,2025-11-01,Allen Grant,77.0,Male,Rizal,Asthma,37.2,189.0,78.6
+MED-200771,2025-04-25,Patrick Velazquez,12.0,Female,San Miguel,Hypertension,37.2,279.0,65.4
+MED-200666,2025-03-24,Ricky May,87.0,Male,Rizal,Checkup,37.2,83.0,53.6
+MED-200785,2025-01-22,Jeffrey Guzman,32.0,Female,Poblacion,Diabetes,35.9,127.0,65.7
+MED-200558,2025-11-08,Robert Martinez,62.0,Male,Bayanihan,Hypertension,37.6,210.0,52.7
+MED-200611,2024-06-11,Mr. Rodney Miller,66.0,Male,Magsaysay,Asthma,36.9,141.0,65.1
+MED-200716,2026-03-06,Virginia Gonzalez,4.0,Female,Maligaya,Hypertension,37.2,220.0,75.4
+MED-200316,2025-06-15,Jennifer Smith,24.0,Male,Mabini,Infection,36.6,245.0,68.7
+MED-200415,2024-08-06,Monica Jacobs,52.0,Female,Mabini,Checkup,37.3,205.0,63.1
+MED-200210,2025-09-10,Jennifer Perez,,Female,Del Pilar,Diabetes,,,
+MED-200777,2025-06-21,Nathaniel Singleton,49.0,Male,Bayanihan,Hypertension,37.8,249.0,40.5
+MED-200142,2024-12-02,Joshua Melendez,32.0,Female,San Isidro,Fever,37.5,108.0,54.4
+MED-200002,2025-08-08,Krista Hughes,41.0,Female,Maligaya,Diabetes,38.0,148.0,61.0
+MED-200362,2025-09-19,Kevin Roy,10.0,Female,Poblacion,Checkup,35.6,164.0,67.1
+MED-200004,2025-06-10,David Hawkins,42.0,Male,Bagong Silang,Fever,36.8,143.0,80.7
+MED-200044,2024-06-25,Charles Willis,36.0,Male,Maligaya,Checkup,36.2,165.0,51.4
+MED-200962,2025-10-17,Joshua Wilson,22.0,Male,Sta. Cruz,Fever,38.8,245.0,58.0
+MED-200281,2025-03-11,David Pennington MD,39.0,Female,San Isidro,Asthma,37.5,176.0,47.2
+MED-200689,2024-11-27,Scott Jones,31.0,Male,San Miguel,Hypertension,35.7,255.0,64.3
+MED-200202,2025-11-15,Jennifer Young,0.0,Female,Bagong Silang,Fever,37.7,193.0,47.6
+MED-200302,2024-08-12,Todd Garner,28.0,Male,Poblacion,Diabetes,35.8,219.0,39.8
+MED-200571,2025-11-28,Ashley Jacobs,42.0,Female,Rizal,Fever,37.3,248.0,49.5
+MED-200365,2025-07-05,Christopher Garcia,28.0,Female,Poblacion,Hypertension,37.2,206.0,69.6
+MED-200358,2026-04-23,Julia Ramos,33.0,Male,San Isidro,Fever,37.2,202.0,85.3
+MED-200581,2026-03-23,Daniel Miller,46.0,Female,Poblacion,Infection,35.5,185.0,59.3
+MED-200527,2026-03-06,Corey Pittman,,Female,Bagong Silang,Checkup,,,
+MED-200371,2024-12-31,Nicholas Mills,,Female,Magsaysay,Infection,,,
+MED-200606,2024-08-15,Emily Cooley,28.0,Female,Del Pilar,Checkup,36.8,150.0,75.5
+MED-200499,2026-04-08,Krista Mann,,Male,Rizal,Diabetes,,,
+MED-200598,2026-05-04,Kelly Gilbert,42.0,Male,Magsaysay,Hypertension,38.0,165.0,87.2
+MED-200237,2026-05-10,Jeremy Watson,42.0,Male,San Jose,Asthma,36.9,216.0,91.0
+MED-200273,2025-01-26,Alvin Kim,27.0,Female,Del Pilar,Asthma,37.7,198.0,49.8
+MED-200691,2025-08-13,Laurie Ross,34.0,Female,Del Pilar,Hypertension,36.2,152.0,60.9
+MED-200194,2024-12-14,Julie Michael,30.0,Male,Magsaysay,Asthma,37.5,175.0,63.9
+MED-200513,2025-03-08,Jesse Pierce,,Female,San Jose,Asthma,,,
+MED-200875,2025-01-20,Natasha Newton,56.0,Female,Mabini,Fever,36.2,221.0,60.3
+MED-200627,2026-02-10,Christina Patterson,29.0,Female,Mabini,Checkup,36.4,186.0,77.4
+MED-200209,2025-03-04,Mrs. Hannah Adkins,5.0,Female,San Isidro,Fever,38.3,272.0,40.9
+MED-200162,2025-03-17,Autumn Jones,16.0,Female,San Isidro,Hypertension,37.3,109.0,64.1
+MED-200677,2024-06-27,Antonio Kelly PhD,64.0,Female,Del Pilar,Fever,35.8,187.0,67.3
+MED-200802,2025-06-28,Rachel Norris,42.0,Female,Rizal,Hypertension,37.5,246.0,73.6
+MED-200087,2025-01-24,Manuel Johnson,41.0,Male,San Isidro,Infection,35.7,178.0,59.8
+MED-200774,2025-04-24,Joseph Martin,29.0,Male,Maligaya,Infection,36.2,192.0,55.3
+MED-200614,2024-09-10,Christine Mcdonald,57.0,Male,Del Pilar,Fever,38.2,145.0,35.0
+MED-200190,2025-03-04,Darren Gutierrez,65.0,Male,Maligaya,Asthma,37.2,171.0,70.6
+MED-200178,2025-07-26,Daniel Lowery,71.0,Female,Poblacion,Fever,36.1,195.0,84.3
+MED-200392,2025-08-18,Victoria Miller,43.0,Male,Rizal,Asthma,36.7,141.0,64.6
+MED-200408,2025-08-24,Katherine James,9.0,Female,Maligaya,Infection,37.1,191.0,43.0
+MED-200569,2025-10-09,Sara Miller,15.0,Female,Del Pilar,Infection,37.2,231.0,36.1
+MED-200967,2024-08-10,Tina Anderson,17.0,Female,Mabini,Hypertension,37.7,185.0,63.3
+MED-200703,2025-03-31,Chelsea Hunt,33.0,Male,Sta. Cruz,Fever,36.7,126.0,68.8
+MED-200511,2025-12-21,Leonard Thompson,36.0,Male,Poblacion,Checkup,36.9,125.0,72.1
+MED-200711,2025-06-16,Chad Ochoa,26.0,Male,San Miguel,Asthma,36.2,226.0,84.7
+MED-200439,2026-05-17,Beth Harris,,Female,Poblacion,Diabetes,,,
+MED-200471,2024-10-26,Crystal Smith,32.0,Female,San Isidro,Fever,36.7,193.0,58.5
+MED-200398,2024-11-19,Randy Robinson,24.0,Male,Sta. Cruz,Checkup,37.1,259.0,55.7
+MED-200592,2024-05-30,Jackie Hunt,50.0,Female,San Isidro,Hypertension,36.9,173.0,66.9
+MED-200650,2025-07-03,Samantha Jones,90.0,Male,Rizal,Diabetes,36.3,149.0,61.8
+MED-200708,2025-11-28,William Simpson,55.0,Female,Bagong Silang,Asthma,36.1,153.0,69.3
+MED-200876,2026-04-09,Kathleen Brown,16.0,Female,San Jose,Fever,36.6,171.0,66.4
+MED-200043,2024-10-29,Amanda Howard,59.0,Female,Del Pilar,Fever,37.2,114.0,49.3
+MED-200261,2025-04-09,Joyce Fernandez,21.0,Female,San Jose,Asthma,36.6,239.0,42.5
+MED-200566,2025-05-30,Joanna Newton,40.0,Male,San Isidro,Hypertension,36.3,115.0,66.3
+MED-200429,2025-04-14,Melissa Romero,31.0,Male,San Jose,Hypertension,37.0,150.0,59.6
+MED-200228,2024-12-11,Dr. Matthew Reyes,56.0,Male,Poblacion,Checkup,38.0,184.0,35.6
+MED-200005,2026-03-24,Nathan Smith,41.0,Female,Maligaya,Fever,37.0,121.0,67.8
+MED-200989,2024-12-14,Christian Johnson,25.0,Male,San Miguel,Infection,36.0,274.0,54.5
+MED-200819,2025-11-22,Rachel Anderson,29.0,Female,San Isidro,Diabetes,37.4,153.0,44.9
+MED-200318,2024-09-14,Kenneth Richards,14.0,Female,Bayanihan,Asthma,36.4,194.0,43.3
+MED-200880,2025-10-28,Alexander Haynes,49.0,Male,San Isidro,Hypertension,37.6,154.0,48.9
+MED-200312,2026-01-04,Lisa Anderson,,Male,San Jose,Asthma,,,
+MED-200075,2025-05-12,Mr. Nicholas Mack,53.0,Male,Bagong Silang,Fever,35.4,270.0,35.0
+MED-200173,2024-08-06,Brittney Buchanan,8.0,Female,Poblacion,Hypertension,37.5,154.0,57.0
+MED-200841,2024-08-29,Chris Bryant,28.0,Male,San Miguel,Hypertension,36.9,256.0,58.2
+MED-200051,2025-01-23,Francisco Malone,29.0,Male,Magsaysay,Checkup,37.1,107.0,77.7
+MED-200551,2024-12-31,Caitlin Hicks,50.0,Male,Sta. Cruz,Checkup,37.2,87.0,78.5
+MED-200796,2026-02-26,Charles Delacruz,37.0,Female,Poblacion,Checkup,36.1,151.0,57.8
+MED-200487,2025-12-26,Laura Hampton,13.0,Male,Sta. Cruz,Fever,35.8,125.0,59.5
+MED-200220,2024-07-07,Jonathan Williams,46.0,Female,Bayanihan,Fever,37.7,135.0,60.4
+MED-200508,2025-12-31,Lauren Wilson,51.0,Male,Sta. Cruz,Diabetes,36.7,165.0,59.2
+MED-200585,2025-02-17,Jessica Adams,20.0,Female,San Miguel,Diabetes,37.7,165.0,74.5
+MED-200387,2025-11-18,Hannah Stone,24.0,Female,San Miguel,Hypertension,38.1,144.0,78.2
+MED-200093,2026-01-01,Stacy Rice,288.0,Female,Bagong Silang,Fever,295.2,1508.0,492.4
+MED-200148,2024-12-10,Michael Adams,28.0,Female,San Jose,Asthma,37.3,258.0,55.8
+MED-200482,2025-12-03,Heidi Woods,20.0,Female,San Isidro,Hypertension,37.8,193.0,71.1
+MED-200852,2024-06-22,Kendra Williams,37.0,Female,Rizal,Infection,35.7,221.0,98.5
+MED-200249,2026-01-28,Megan Sandoval,71.0,Male,Magsaysay,Infection,36.8,80.0,46.1
+MED-200340,2024-06-30,Dr. William Francis,35.0,Female,Maligaya,Hypertension,38.2,164.0,75.9
+MED-200808,2025-01-04,Brandon Soto,70.0,Male,San Miguel,Checkup,37.8,133.0,81.1
+MED-200200,2026-01-01,Joyce Palmer,45.0,Male,Bagong Silang,Diabetes,37.0,135.0,71.0
+MED-200091,2025-12-17,Daniel Edwards,7.0,Male,Magsaysay,Checkup,36.6,279.0,55.4
+MED-200540,2026-04-16,Bradley Lopez,32.0,Female,Poblacion,Fever,37.2,193.0,77.4
+MED-200442,2024-06-10,James Hernandez,42.0,Male,San Miguel,Checkup,36.9,129.0,46.6
+MED-200985,2024-10-25,Robert Scott,32.0,Female,Poblacion,Infection,37.1,222.0,56.9
+MED-200280,2026-02-27,Andrea Day,,Female,Mabini,Infection,,,
+MED-200410,2026-01-24,Joanne Hensley,49.0,Male,San Miguel,Infection,37.3,140.0,55.7
+MED-200864,2025-12-18,Raymond Newman,39.0,Male,Sta. Cruz,Checkup,36.8,149.0,82.6
+MED-200568,2025-04-04,Barbara Castillo,51.0,Male,Magsaysay,Asthma,37.6,170.0,83.6
+MED-200615,2025-09-28,Connor Patel,14.0,Male,Bagong Silang,Infection,36.5,110.0,63.3
+MED-200926,2025-11-07,David King,31.0,Female,Del Pilar,Fever,37.6,118.0,35.0
+MED-200335,2025-11-02,Stephanie Olsen,47.0,Female,Bagong Silang,Infection,37.5,195.0,65.5
+MED-200871,2025-04-11,Carrie Cooper,44.0,Male,Sta. Cruz,Infection,37.0,177.0,38.4
+MED-200857,2025-04-25,Kimberly Bridges,47.0,Male,Rizal,Asthma,37.7,150.0,61.3
+MED-200923,2025-02-17,Michael Edwards,18.0,Female,Maligaya,Hypertension,37.1,198.0,63.9
+MED-200506,2024-11-07,Ian Cross,29.0,Male,Del Pilar,Checkup,37.0,248.0,76.1
+MED-200752,2025-01-22,Angelica Sanchez,39.0,Female,Poblacion,Infection,37.0,189.0,61.0
+MED-200759,2024-11-24,Steven Kelly,26.0,Male,Rizal,Infection,36.8,202.0,63.7
+MED-200092,2024-12-17,Kaitlin Holt,17.0,Female,San Isidro,Fever,35.9,293.0,58.2
+MED-200742,2024-11-23,Tracey Cortez,25.0,Female,Poblacion,Hypertension,36.8,168.0,70.0
+MED-200845,2024-09-13,Lisa Downs,47.0,Female,Magsaysay,Fever,38.1,139.0,37.7
+MED-200905,2025-04-08,Michael Smith,50.0,Male,San Jose,Fever,37.6,189.0,48.4
+MED-200911,2024-11-30,Andrew Peters Jr.,0.0,Female,San Isidro,Checkup,36.5,158.0,54.5
+MED-200575,2024-08-25,Susan Mueller,34.0,Female,Sta. Cruz,Fever,38.0,213.0,47.9
+MED-200573,2025-09-12,Mark Carr,18.0,Female,Rizal,Asthma,36.0,158.0,44.2
+MED-200278,2024-09-23,Lori Kim,36.0,Female,Mabini,Infection,37.7,264.0,53.3
+MED-200279,2025-10-10,April Brown,36.0,Male,Del Pilar,Diabetes,36.5,206.0,65.0
+MED-200337,2026-04-27,Mr. Chad Harvey,48.0,Male,Mabini,Diabetes,36.9,185.0,72.4
+MED-200227,2025-08-20,Brandon Good,0.0,Male,Maligaya,Checkup,36.2,188.0,67.5
+MED-200008,2025-04-20,Wayne Jones,17.0,Female,Del Pilar,Fever,36.8,150.0,81.0
+MED-200085,2025-11-25,Molly Mills,45.0,Male,Magsaysay,Diabetes,38.0,161.0,84.5
+MED-200903,2026-03-26,Frances Long,27.0,Female,Maligaya,Asthma,35.4,186.0,50.2
+MED-200616,2025-10-15,Lisa Orr,24.0,Male,Magsaysay,Diabetes,35.9,135.0,59.9
+MED-200810,2025-03-26,Gina Harris,29.0,Female,Sta. Cruz,Fever,37.7,242.0,47.5
+MED-200840,2025-01-12,James Compton,31.0,Male,Bagong Silang,Diabetes,36.6,159.0,50.7
+MED-200096,2025-06-15,Wendy Smith,,Female,Maligaya,Infection,,,
+MED-200341,2026-05-10,Janice Kelley,42.0,Male,Bagong Silang,Diabetes,36.9,184.0,57.6
+MED-200121,2025-02-08,Justin Davis,22.0,Female,Bagong Silang,Fever,37.3,193.0,68.9
+MED-200156,2024-06-08,Janet Bowen,30.0,Male,Rizal,Infection,37.2,174.0,36.1
+MED-200751,2025-08-22,Kristina White,47.0,Female,San Isidro,Hypertension,36.6,258.0,76.0
+MED-200754,2024-07-16,Julia Ruiz,70.0,Male,Maligaya,Diabetes,38.0,212.0,95.5
+MED-200681,2025-02-23,Maria Buckley,31.0,Female,San Miguel,Infection,37.7,290.0,62.8
+MED-200470,2025-03-31,Michael Le,62.0,Female,Rizal,Fever,36.9,269.0,72.4
+MED-200557,2025-02-25,Lisa Tate,288.0,Male,Poblacion,Asthma,295.2,1508.0,492.4
+MED-200293,2024-11-28,Stacey Turner,18.0,Male,Poblacion,Hypertension,36.8,147.0,76.6
+MED-200822,2024-07-28,Judy Glover,16.0,Female,Poblacion,Checkup,37.2,236.0,57.1
+MED-200745,2025-03-03,Lisa Hernandez,37.0,Female,Sta. Cruz,Checkup,36.9,139.0,66.9
+MED-200164,2024-06-19,James Stout,9.0,Male,San Miguel,Fever,37.7,173.0,66.9
+MED-200746,2024-09-15,Nancy Gibson,64.0,Male,Maligaya,Diabetes,37.1,189.0,67.6
+MED-200282,2025-08-04,James Rodriguez,11.0,Female,Rizal,Hypertension,36.5,235.0,66.1
+MED-200364,2026-02-24,Richard Gray,36.0,Female,Rizal,Fever,35.6,139.0,39.6
+MED-200310,2025-07-19,Katherine Wilson,14.0,Male,Bagong Silang,Hypertension,37.8,153.0,83.0
+MED-200510,2024-10-28,Mark Adams,29.0,Male,San Jose,Checkup,37.4,248.0,50.4
+MED-200179,2025-10-21,Alexandra Williams,19.0,Male,Magsaysay,Checkup,37.4,138.0,45.7
+MED-200069,2025-02-24,William Nash,82.0,Female,Maligaya,Checkup,37.1,171.0,83.9
+MED-200934,2026-02-17,Madison Carpenter,26.0,Male,San Isidro,Hypertension,36.5,185.0,82.3
+MED-200895,2024-07-06,Robert Hurst,61.0,Male,Maligaya,Hypertension,37.7,195.0,70.6
+MED-200687,2025-02-22,James Khan,,Male,San Jose,Infection,,,
+MED-200960,2026-03-14,Tyler Solomon,40.0,Female,Bagong Silang,Hypertension,36.5,191.0,68.4
+MED-200058,2024-06-05,Brittany Johnson,49.0,Female,Bayanihan,Infection,36.6,96.0,67.8
+MED-200884,2025-01-29,Patrick Green,39.0,Male,Maligaya,Fever,36.3,207.0,54.1
+MED-200999,2025-07-10,Chad Avila,33.0,Female,Rizal,Checkup,37.0,111.0,47.5
+MED-200956,2025-02-08,Lauren Bright,35.0,Male,Maligaya,Checkup,38.1,218.0,43.6
+MED-200265,2025-08-12,Robin Jefferson,57.0,Male,Mabini,Infection,37.3,162.0,46.9
+MED-200768,2025-02-18,Calvin Holland,32.0,Male,Bayanihan,Infection,35.9,221.0,73.2
+MED-200800,2024-10-11,James Boyd,4.0,Male,Sta. Cruz,Diabetes,35.7,197.0,79.5
+MED-200380,2025-07-01,Jason Hernandez,46.0,Female,Maligaya,Asthma,36.7,175.0,48.5
+MED-200604,2025-11-25,Kevin Hurst,36.0,Female,Del Pilar,Checkup,37.5,167.0,57.3
+MED-200684,2024-11-04,Jimmy Mayer,17.0,Female,Sta. Cruz,Asthma,37.8,91.0,42.8
+MED-200794,2024-11-08,Joyce Lee,37.0,Female,Maligaya,Infection,38.3,254.0,58.5
+MED-200729,2025-12-06,Ryan Hooper,45.0,Female,Mabini,Infection,36.9,216.0,50.8
+MED-200147,2025-04-19,Lisa Mccoy,54.0,Male,Poblacion,Hypertension,37.2,235.0,47.1
+MED-200251,2024-11-20,Kristina Barnes,18.0,Male,Bagong Silang,Hypertension,36.3,234.0,46.2
+MED-200646,2025-08-02,Heather Sampson,39.0,Male,Poblacion,Asthma,36.7,277.0,75.5
+MED-200902,2025-04-19,Jonathan Cruz MD,,Female,Rizal,Infection,,,
+MED-200212,2024-12-18,Tamara Mcpherson,46.0,Male,Magsaysay,Hypertension,37.8,155.0,54.9
+MED-200440,2026-04-09,Alexandra Charles,42.0,Female,Bayanihan,Fever,36.7,235.0,83.0
+MED-200878,2025-11-24,Clayton Jacobs,53.0,Male,Mabini,Fever,35.6,181.0,61.3
+MED-200330,2025-10-14,Natalie Coleman,13.0,Male,Del Pilar,Asthma,37.4,224.0,61.8
+MED-200781,2025-01-28,Roger Reid,32.0,Female,San Jose,Diabetes,35.8,80.0,73.8
+MED-200276,2024-07-30,Colin Byrd,60.0,Female,Sta. Cruz,Checkup,38.4,193.0,54.3
+MED-200801,2024-08-19,Kayla Strickland,56.0,Male,Magsaysay,Asthma,37.2,124.0,84.6
+MED-200787,2026-05-05,Cindy Rose,47.0,Female,San Miguel,Fever,38.2,195.0,74.2
+MED-200667,2026-03-22,Sean Harper,38.0,Female,Del Pilar,Asthma,37.2,205.0,58.1
+MED-200693,2025-11-04,Heather Ponce,45.0,Female,San Miguel,Fever,36.7,225.0,71.6
+MED-200448,2025-04-27,Gregory Cole,29.0,Female,San Jose,Fever,36.1,161.0,71.9
+MED-200170,2024-08-22,Diane Davis,31.0,Female,San Isidro,Fever,37.4,216.0,61.2
+MED-200821,2025-09-11,Nichole Fox,24.0,Male,San Jose,Checkup,37.2,224.0,62.1
+MED-200524,2025-10-09,Gabriella Murphy,40.0,Male,Bayanihan,Hypertension,37.8,147.0,75.4
+MED-200303,2025-04-14,Austin Wade,18.0,Male,Del Pilar,Fever,35.8,247.0,52.8
+MED-200487,2025-12-26,Laura Hampton,13.0,Male,Sta. Cruz,Fever,35.8,125.0,59.5
+MED-200737,2024-12-20,David Brown,,Female,Sta. Cruz,Hypertension,,,
+MED-200832,2024-07-29,Amanda Davis,27.0,Male,San Isidro,Infection,36.6,161.0,35.0
+MED-200019,2024-07-29,Scott Henson,59.0,Male,San Miguel,Asthma,37.2,252.0,69.0
+MED-200324,2025-01-28,Brittany Robinson,58.0,Male,Bagong Silang,Hypertension,36.8,139.0,39.9
+MED-200260,2025-07-04,Hayley Palmer,31.0,Female,Del Pilar,Diabetes,36.3,121.0,60.3
+MED-200847,2024-08-23,Wanda Martinez,44.0,Female,San Jose,Checkup,37.1,174.0,44.5
+MED-200409,2025-08-01,Sarah Massey,31.0,Female,San Miguel,Hypertension,35.7,274.0,62.3
+MED-200400,2025-03-03,Kristina Rodriguez,34.0,Male,Bayanihan,Infection,37.0,212.0,62.9
+MED-200216,2024-06-04,Ana Rojas,19.0,Male,San Jose,Fever,36.5,121.0,38.4
+MED-200054,2025-08-15,Katrina Chavez,56.0,Male,Magsaysay,Checkup,36.4,193.0,49.9
+MED-200888,2024-12-21,Bethany Delgado,76.0,Female,Maligaya,Infection,36.2,136.0,55.4
+MED-200150,2024-11-06,Jacob Perkins,12.0,Male,Mabini,Fever,36.5,186.0,61.8
+MED-200696,2026-03-08,David Scott,21.0,Female,Mabini,Diabetes,38.2,195.0,47.0
+MED-200877,2025-10-30,Glenn Petersen,62.0,Male,San Miguel,Checkup,35.8,159.0,91.0
+MED-200717,2025-07-08,Patricia Anderson,45.0,Female,Mabini,Asthma,34.9,259.0,53.8
+MED-200704,2025-12-10,Jerry Bartlett,28.0,Male,Del Pilar,Diabetes,36.8,185.0,52.9
+MED-200106,2025-11-07,Laura Green,42.0,Female,Magsaysay,Hypertension,37.7,233.0,53.9
+MED-200724,2024-10-26,Terrence Logan,41.0,Male,Bagong Silang,Diabetes,36.5,206.0,81.9
+MED-200024,2025-12-11,Sheri Fischer,22.0,Female,San Miguel,Checkup,36.3,215.0,60.7
+MED-200915,2026-05-20,Erika Brown,32.0,Male,Magsaysay,Checkup,37.2,145.0,61.8
+MED-200533,2026-01-24,Shannon Morales,43.0,Female,San Jose,Hypertension,35.1,177.0,61.8
+MED-200817,2025-05-31,Michael Mitchell,82.0,Female,San Miguel,Infection,37.1,181.0,35.0
+MED-200082,2024-06-29,Kimberly Haney,37.0,Female,Mabini,Hypertension,36.2,142.0,63.4
+MED-200842,2025-03-03,Dorothy Johnson,16.0,Male,Sta. Cruz,Fever,37.1,311.0,50.1
+MED-200861,2025-10-08,Kara Russell,14.0,Male,Rizal,Asthma,36.0,188.0,53.1
+MED-200613,2024-12-19,Dawn Mendoza,47.0,Female,Poblacion,Infection,37.0,213.0,74.6
+MED-200379,2024-09-22,Cindy Miller,46.0,Male,San Jose,Asthma,36.7,123.0,47.8
+MED-200076,2025-09-28,Johnny Lewis,,Female,Rizal,Fever,,,
+MED-200388,2025-11-25,Cindy Moore,13.0,Male,Magsaysay,Hypertension,36.8,186.0,64.9
+MED-200406,2024-07-08,Alexis Johnson,23.0,Female,Bagong Silang,Asthma,36.3,156.0,70.6
+MED-200291,2025-11-25,Casey Wagner,49.0,Male,Mabini,Diabetes,37.9,209.0,57.6
+MED-200110,2025-06-25,Jill Conner,47.0,Male,Maligaya,Hypertension,36.6,228.0,59.2
+MED-200624,2024-09-08,Justin Smith,2.0,Male,Sta. Cruz,Hypertension,36.7,110.0,85.6
+MED-200793,2025-08-03,Angela Stephens,30.0,Male,Maligaya,Hypertension,37.6,161.0,56.7
+MED-200772,2025-05-16,Paul Jones,0.0,Female,Poblacion,Asthma,36.8,124.0,62.7
+MED-200246,2025-09-20,Candice Browning,32.0,Male,Del Pilar,Asthma,37.0,189.0,84.5
+MED-200145,2025-04-02,Richard Barnes,72.0,Male,Poblacion,Fever,35.5,201.0,67.6
+MED-200128,2024-07-09,Amy Parker,30.0,Male,Del Pilar,Asthma,36.5,218.0,41.6
+MED-200851,2024-11-08,Victoria Clark,33.0,Male,Bagong Silang,Diabetes,37.2,140.0,81.6
+MED-200622,2025-03-18,Nicholas Fletcher,25.0,Male,Del Pilar,Asthma,37.0,147.0,65.8
+MED-200975,2025-02-20,Michelle Jones,44.0,Female,Magsaysay,Hypertension,36.5,251.0,73.7
+MED-200945,2025-09-30,Tony Proctor,40.0,Female,San Miguel,Fever,37.8,230.0,43.5
+MED-200486,2025-11-13,Michael Castro,52.0,Female,Bagong Silang,Fever,35.6,203.0,69.1
+MED-200908,2024-09-29,Steven Thomas,43.0,Male,Del Pilar,Fever,37.4,131.0,69.9
+MED-200090,2026-02-07,Bethany Gomez,33.0,Male,Sta. Cruz,Hypertension,37.8,218.0,64.3
+MED-200205,2026-03-12,Jordan Johnson,35.0,Female,Magsaysay,Fever,36.0,243.0,55.0
+MED-200979,2025-05-12,Tammie Miller,36.0,Male,San Jose,Diabetes,37.9,270.0,68.3
+MED-200170,2024-08-22,Diane Davis,31.0,Female,San Isidro,Fever,37.4,216.0,61.2
+MED-200918,2025-12-27,Martha Johnson,11.0,Female,Magsaysay,Hypertension,36.7,162.0,57.1
+MED-200056,2026-05-22,Matthew Brown,28.0,Male,Bayanihan,Fever,36.8,160.0,60.6
+MED-200404,2026-03-30,Stephanie White,50.0,Male,Sta. Cruz,Diabetes,36.7,123.0,80.6
+MED-200241,2025-07-08,Catherine Moore,7.0,Female,Rizal,Checkup,37.8,242.0,53.6
+MED-200599,2024-06-21,Denise Brown,59.0,Female,Maligaya,Hypertension,36.8,138.0,55.6
+MED-200346,2025-04-13,Megan Richardson,,Male,San Isidro,Diabetes,,,
+MED-200097,2025-12-30,Ellen Richard,50.0,Male,Poblacion,Diabetes,36.2,237.0,65.4
+MED-200116,2026-01-09,Justin Castro,63.0,Male,San Jose,Infection,37.7,169.0,69.7
+MED-200201,2024-11-26,Todd Garcia,2.0,Female,San Miguel,Asthma,37.1,206.0,60.5
+MED-200887,2025-04-17,Jacob Price,47.0,Male,Del Pilar,Asthma,36.5,138.0,57.1
+MED-200479,2026-04-10,Mr. Jordan Johnson,43.0,Female,Poblacion,Infection,36.8,158.0,64.2
+MED-200323,2025-02-01,Christopher Wade,43.0,Male,San Jose,Hypertension,36.8,127.0,69.7
+MED-200193,2025-05-17,Jill Conrad,47.0,Female,Bagong Silang,Fever,37.2,162.0,51.9
+MED-200443,2025-05-04,Katie Taylor,23.0,Female,San Jose,Checkup,37.1,168.0,73.1
+MED-200815,2024-12-13,Manuel Johnson,43.0,Female,Del Pilar,Fever,37.9,119.0,63.9
+MED-200454,2024-07-09,Tammy Delgado,63.0,Male,Magsaysay,Fever,35.9,196.0,76.6
+MED-200528,2024-09-13,Peter Stokes,31.0,Female,San Jose,Infection,37.3,156.0,56.5
+MED-200805,2025-11-16,Eric Harrington,24.0,Female,Maligaya,Checkup,37.1,184.0,63.4
+MED-200550,2024-10-28,Deborah Hudson,56.0,Female,San Miguel,Hypertension,37.2,284.0,61.8
+MED-200818,2025-03-05,Lisa Porter,36.0,Female,Rizal,Infection,36.6,236.0,50.3
+MED-200542,2024-10-09,Elizabeth Jones,31.0,Male,Rizal,Checkup,37.7,168.0,69.6
+MED-200993,2026-03-19,Carol Hall,58.0,Female,San Isidro,Hypertension,36.9,208.0,49.2
+MED-200296,2025-02-21,Tanner Murray,41.0,Male,Del Pilar,Fever,37.6,87.0,41.0
+MED-200893,2024-06-07,William Kelley,20.0,Male,Rizal,Hypertension,36.2,179.0,50.9
+MED-200601,2024-12-22,Amanda Lewis,,Male,Maligaya,Diabetes,,,
+MED-200824,2025-10-06,Nathan Cochran,39.0,Male,San Isidro,Asthma,36.7,145.0,40.2
+MED-200395,2025-10-28,Nathan Bond,38.0,Male,Sta. Cruz,Fever,36.7,159.0,57.5
+MED-200426,2026-03-15,Julie Jacobs,31.0,Female,Mabini,Checkup,37.3,224.0,73.8
+MED-200820,2024-12-18,Lauren Smith,69.0,Male,Sta. Cruz,Asthma,35.0,188.0,60.5
+MED-200559,2026-05-15,Nicole Armstrong,38.0,Female,Mabini,Fever,36.9,144.0,65.3
+MED-200525,2024-12-07,Katherine Davis,67.0,Male,San Jose,Asthma,36.6,192.0,48.7
+MED-200969,2025-06-05,Steven Lewis,42.0,Female,Poblacion,Checkup,37.2,167.0,58.0
+MED-200014,2025-02-22,Ernest Dillon,38.0,Female,Bayanihan,Infection,37.6,173.0,40.3
+MED-200252,2026-03-14,Linda Baker,41.0,Female,Bagong Silang,Asthma,37.3,213.0,35.0
+MED-200238,2025-10-14,Eric Woods,37.0,Male,Bayanihan,Asthma,36.3,274.0,75.4
+MED-200120,2025-10-14,James Andrews,36.0,Female,Bagong Silang,Fever,37.7,171.0,58.0
+MED-200285,2025-08-10,Donald Acosta,28.0,Male,Bagong Silang,Checkup,36.6,187.0,59.7
+MED-200554,2025-02-14,Brandi West,30.0,Male,Bayanihan,Hypertension,38.3,238.0,77.7
+MED-200196,2025-12-11,Katherine Silva,33.0,Female,Sta. Cruz,Diabetes,37.5,202.0,65.4
+MED-200345,2025-06-08,Michelle Miller,44.0,Female,San Jose,Asthma,36.0,174.0,61.7
+MED-200545,2024-10-30,Wesley Ryan,56.0,Male,Magsaysay,Hypertension,37.2,168.0,71.6
+MED-200250,2025-08-09,Donald Wood,288.0,Female,Magsaysay,Hypertension,295.2,1508.0,492.4
+MED-200933,2025-03-16,Todd Little,54.0,Male,Mabini,Diabetes,37.3,196.0,62.2
+MED-200645,2025-04-17,Eric Johnson,40.0,Female,Poblacion,Fever,36.9,268.0,63.0
+MED-200829,2025-10-31,Donna Mullins,41.0,Male,Del Pilar,Fever,36.5,200.0,65.7
+MED-200412,2025-11-02,Randall Sampson,25.0,Male,Magsaysay,Fever,37.2,206.0,66.4
+MED-200485,2024-07-27,Stephen Wong,47.0,Female,Poblacion,Diabetes,36.6,215.0,70.8
+MED-200430,2024-10-24,Christina Jacobs,43.0,Male,Bayanihan,Asthma,35.7,143.0,51.3
+MED-200792,2025-11-06,Theresa Rice,17.0,Female,Maligaya,Checkup,36.3,190.0,79.9
+MED-200766,2025-05-31,Richard Campbell MD,53.0,Female,Maligaya,Infection,36.9,202.0,37.2
+MED-200290,2024-11-26,Janice Adams,42.0,Male,San Miguel,Asthma,36.1,141.0,35.0
+MED-200016,2025-02-16,Eric Davis,14.0,Female,Bayanihan,Diabetes,37.4,150.0,58.1
+MED-200158,2026-03-28,Karla Burke,53.0,Male,San Jose,Hypertension,36.1,150.0,55.0
+MED-200243,2024-09-24,Heather Campbell,39.0,Female,San Isidro,Infection,38.5,241.0,57.0
+MED-200066,2025-10-19,Michelle Richmond,1.0,Female,Bagong Silang,Infection,37.5,188.0,47.9
+MED-200924,2025-07-11,John Nelson,,Male,Sta. Cruz,Asthma,,,
+MED-200359,2025-02-10,Brooke Morrison,21.0,Male,Del Pilar,Infection,37.2,239.0,65.9
+MED-200952,2025-07-26,Alicia Barnett,51.0,Male,Bayanihan,Infection,36.9,198.0,61.6
+MED-200631,2024-07-19,Michael Hester,9.0,Female,San Miguel,Fever,36.5,197.0,82.3
+MED-200504,2026-01-06,Rachel Johnson,31.0,Female,Mabini,Fever,37.1,80.0,64.4
+MED-200472,2024-07-17,Melissa Turner,37.0,Male,Mabini,Diabetes,36.5,80.0,54.2
+MED-200963,2024-12-12,Samantha Sims,42.0,Female,Bayanihan,Fever,36.4,191.0,66.3
+MED-200577,2024-05-30,Justin Jones,19.0,Male,Bayanihan,Hypertension,35.7,135.0,58.3
+MED-200981,2025-06-09,Cassidy Heath,73.0,Female,San Jose,Infection,36.2,185.0,62.6
+MED-200521,2024-08-18,Susan Burns,,Male,Bayanihan,Infection,,,
+MED-200874,2024-12-27,Angelica Washington,42.0,Female,San Isidro,Fever,37.2,240.0,48.7
+MED-200530,2024-06-29,Carolyn Fernandez,17.0,Female,San Isidro,Diabetes,38.5,114.0,60.7
+MED-200408,2025-08-24,Katherine James,9.0,Female,Maligaya,Infection,37.1,191.0,43.0
+MED-200665,2024-11-03,Kevin Hayden,41.0,Male,San Miguel,Asthma,38.6,170.0,74.2
+MED-200872,2024-08-14,Kimberly Fry,19.0,Male,Mabini,Asthma,37.4,257.0,83.6
+MED-200432,2025-01-02,Cynthia Bates,29.0,Female,Bagong Silang,Fever,37.2,164.0,55.1
+MED-200431,2024-06-05,Sheena Lewis,38.0,Male,San Jose,Hypertension,38.0,204.0,65.2
+MED-200484,2025-07-26,Jennifer Baker,70.0,Male,Del Pilar,Asthma,37.5,163.0,42.3
+MED-200151,2024-12-02,Crystal Miller,30.0,Female,San Isidro,Diabetes,36.2,176.0,88.3
+MED-200327,2025-07-16,Shelby Cruz,21.0,Male,Del Pilar,Diabetes,35.7,188.0,64.9
+MED-200256,2026-04-23,Margaret Kim DVM,36.0,Male,San Miguel,Hypertension,36.3,234.0,60.7
+MED-200311,2025-01-27,Olivia Byrd,27.0,Female,San Miguel,Checkup,38.4,128.0,35.0
+MED-200804,2025-06-14,Jason Hahn,22.0,Female,Rizal,Infection,37.1,234.0,56.6
+MED-200304,2024-10-23,Catherine Wheeler,55.0,Female,Mabini,Infection,37.8,242.0,70.8
+MED-200784,2025-04-20,Linda Davis,23.0,Male,Poblacion,Diabetes,37.4,201.0,60.3
+MED-200413,2025-12-23,Erin Parker,39.0,Female,Rizal,Asthma,36.2,165.0,77.8
+MED-200133,2026-02-07,Jaime Mann,0.0,Male,Poblacion,Diabetes,37.2,212.0,87.3
+MED-200031,2025-11-03,Erica Buckley,29.0,Male,Bayanihan,Infection,37.4,80.0,67.4
+MED-200765,2025-11-12,Dwayne Wagner,41.0,Male,Maligaya,Hypertension,37.8,234.0,41.0
+MED-200782,2024-12-14,Kimberly Davis,50.0,Female,Magsaysay,Fever,38.2,174.0,52.0
+MED-200458,2025-05-26,Ricardo Duncan,17.0,Female,Mabini,Asthma,37.2,239.0,42.0
+MED-200161,2026-02-17,Peggy Landry,32.0,Female,Mabini,Diabetes,37.9,208.0,60.4
+MED-200339,2026-02-28,Jose Norris,61.0,Male,Poblacion,Checkup,37.5,179.0,53.5
+MED-200286,2025-07-24,Mrs. Nicole Fischer MD,77.0,Female,Del Pilar,Checkup,37.5,111.0,68.9
+MED-200248,2025-05-01,Destiny Livingston,22.0,Female,Poblacion,Infection,38.3,240.0,87.7
+MED-200939,2025-02-03,Natalie Holmes,36.0,Male,Bagong Silang,Fever,37.2,219.0,87.1
+MED-200579,2026-03-04,Tabitha Garcia,18.0,Male,Sta. Cruz,Hypertension,36.4,174.0,70.3
+MED-200836,2025-02-04,Jasmine Wilson,43.0,Female,San Jose,Hypertension,37.0,275.0,76.7
+MED-200936,2026-04-18,Samantha Francis,4.0,Male,San Miguel,Checkup,36.2,159.0,65.7
+MED-200001,2024-10-28,Michele Morales,31.0,Female,Sta. Cruz,Infection,36.4,130.0,62.7
+MED-200736,2024-08-08,Megan Wheeler,0.0,Male,Magsaysay,Asthma,37.2,211.0,55.0
+MED-200207,2025-11-04,Seth Kirby,35.0,Female,Poblacion,Hypertension,37.7,241.0,91.4
+MED-200629,2025-04-20,Leslie Cortez,76.0,Male,Magsaysay,Checkup,38.5,199.0,52.8
+MED-200932,2026-04-28,Patricia Edwards,46.0,Female,San Isidro,Checkup,37.5,193.0,72.1
+MED-200850,2024-09-26,Jacob Gray,66.0,Male,Rizal,Checkup,36.3,82.0,45.9
+MED-200897,2024-08-01,Joy Taylor,40.0,Male,San Isidro,Fever,35.7,210.0,55.8
+MED-200264,2024-11-27,Laura Clark,11.0,Female,Magsaysay,Checkup,36.1,174.0,68.3
+MED-200274,2024-06-26,Keith Weeks,55.0,Male,Sta. Cruz,Asthma,37.1,207.0,65.0
+MED-200070,2025-09-12,Miguel Reid,37.0,Female,Sta. Cruz,Asthma,36.1,186.0,56.1
+MED-200640,2025-06-24,George Velasquez,21.0,Female,Magsaysay,Fever,36.5,223.0,74.2
+MED-200444,2025-09-05,Samantha Hogan,49.0,Male,Mabini,Hypertension,38.0,134.0,55.8
+MED-200846,2025-12-03,Sarah Walls,33.0,Female,Poblacion,Diabetes,36.8,176.0,66.8
+MED-200098,2025-09-12,Ashley Gordon,52.0,Male,Rizal,Fever,35.0,219.0,57.0
+MED-200865,2025-03-28,Kelly Oconnell,29.0,Female,San Isidro,Hypertension,37.8,171.0,51.8
+MED-200021,2025-05-03,Paul Kirby,42.0,Female,San Jose,Hypertension,37.3,197.0,73.5
+MED-200705,2024-12-18,Kelly Hernandez,0.0,Male,Maligaya,Asthma,37.8,195.0,52.5
+MED-200414,2025-08-23,John Miles,44.0,Male,San Miguel,Fever,36.9,277.0,61.7
+MED-200517,2026-05-23,Jacob Jackson,19.0,Male,Mabini,Fever,37.1,241.0,62.3
+MED-200149,2024-09-17,Tammy Wallace,51.0,Male,Bayanihan,Checkup,36.2,277.0,73.7
+MED-200647,2024-08-07,Rachel Jennings,30.0,Female,Rizal,Diabetes,37.3,264.0,42.7
+MED-200354,2025-06-04,Carly Juarez,49.0,Female,San Jose,Hypertension,36.8,284.0,65.7
+MED-200950,2025-09-05,Deborah Carter,34.0,Female,Del Pilar,Fever,36.8,245.0,66.4
+MED-200052,2024-12-22,Michael Wilson,34.0,Female,Poblacion,Asthma,37.5,182.0,74.6
+MED-200198,2026-03-13,Natalie Davis,,Male,Mabini,Fever,,,
+MED-200122,2024-09-29,Ashley Hunter,62.0,Female,San Miguel,Checkup,35.7,149.0,42.5
+MED-200203,2024-07-03,Crystal Cox,47.0,Female,Del Pilar,Diabetes,36.5,152.0,44.0
+MED-200067,2024-06-10,Daniel Ryan,37.0,Male,Bagong Silang,Fever,38.0,193.0,61.8
+MED-200223,2024-07-22,Daniel Goodman,39.0,Female,Del Pilar,Hypertension,36.9,106.0,45.2
+MED-200127,2025-02-23,Karen Gillespie,43.0,Female,Bayanihan,Hypertension,37.9,284.0,56.3
+MED-200655,2025-12-02,Brian Wade,29.0,Male,San Miguel,Checkup,36.7,279.0,78.3
+MED-200139,2026-03-01,Joseph Gonzales,,Female,San Isidro,Infection,,,
+MED-200417,2025-10-07,Paul Guerrero,43.0,Female,Poblacion,Hypertension,37.2,206.0,53.7
+MED-200218,2025-08-25,Scott Smith,58.0,Male,Maligaya,Fever,37.4,211.0,57.0
+MED-200546,2025-01-09,Morgan Vincent,6.0,Female,Bagong Silang,Hypertension,36.6,164.0,68.3
+MED-200157,2025-08-08,Jose Blevins,26.0,Male,Bagong Silang,Hypertension,35.7,180.0,68.3
+MED-200094,2025-03-22,Annette Salinas,14.0,Female,Poblacion,Checkup,36.7,178.0,50.1
+MED-200255,2025-08-10,Sarah Smith,58.0,Male,Del Pilar,Infection,37.3,183.0,50.8
+MED-200987,2025-10-16,Jeffery Ochoa,53.0,Female,Sta. Cruz,Fever,36.2,179.0,73.4
+MED-200643,2024-11-09,Kenneth Gates,45.0,Male,San Jose,Checkup,37.3,188.0,35.0
+MED-200738,2024-07-25,Norma Brown,47.0,Male,Rizal,Diabetes,37.3,207.0,90.8
+MED-200039,2025-02-04,Dr. Kelly Carpenter,61.0,Female,San Jose,Infection,36.5,188.0,35.0
+MED-200130,2025-05-08,Mary Mosley,25.0,Female,Del Pilar,Fever,37.3,185.0,64.4
+MED-200094,2025-03-22,Annette Salinas,14.0,Female,Poblacion,Checkup,36.7,178.0,50.1
+MED-200189,2025-05-15,Carl Hall,33.0,Male,Mabini,Infection,36.7,274.0,35.0
+MED-200959,2026-04-04,Brian Elliott,28.0,Male,Bayanihan,Infection,37.1,162.0,66.7
+MED-200589,2026-02-24,Crystal Atkins,38.0,Female,Maligaya,Infection,36.6,239.0,62.1
+MED-200402,2026-05-02,Melissa Franklin DVM,16.0,Female,Bayanihan,Checkup,36.0,161.0,73.3
+MED-200760,2026-05-01,Nicole Wilson,22.0,Male,Magsaysay,Infection,37.3,208.0,75.9
+MED-200038,2025-06-20,Dr. Ryan Davis,72.0,Female,Poblacion,Asthma,38.0,130.0,54.1
+MED-200242,2025-01-05,Maria Wallace,9.0,Male,Bayanihan,Hypertension,38.1,254.0,64.3
+MED-200353,2026-03-15,Joseph Jackson,49.0,Male,San Jose,Asthma,36.2,266.0,35.0
+MED-200620,2025-08-11,Diana Rogers,68.0,Male,San Jose,Checkup,37.4,202.0,74.7
+MED-200650,2025-07-03,Samantha Jones,90.0,Male,Rizal,Diabetes,36.3,149.0,61.8
+MED-200534,2025-05-23,Melanie Ramirez,57.0,Male,Sta. Cruz,Asthma,35.5,155.0,51.3
+MED-200503,2024-09-27,Linda Williams,42.0,Female,Del Pilar,Diabetes,37.2,189.0,46.3
+MED-200159,2025-12-28,Jorge Marshall,41.0,Male,Maligaya,Diabetes,38.1,177.0,67.7
+MED-200394,2025-11-13,Austin Mcintyre,30.0,Female,Magsaysay,Fever,35.7,242.0,61.5
+MED-200537,2025-01-27,Christina Benton,31.0,Male,Rizal,Diabetes,37.3,232.0,67.5
+MED-200695,2025-04-14,Casey Copeland,33.0,Female,Sta. Cruz,Hypertension,37.8,235.0,62.2
+MED-200240,2025-09-23,Sarah Rosales,55.0,Male,Bayanihan,Asthma,36.7,227.0,65.6
+MED-200013,2024-10-08,Robert Miller,48.0,Female,Bagong Silang,Infection,37.2,209.0,67.3
+MED-200657,2026-03-06,Amanda Carrillo,57.0,Male,Del Pilar,Diabetes,36.6,142.0,61.6
+MED-200475,2025-04-13,Miss Margaret Roy,42.0,Male,San Miguel,Infection,37.3,219.0,35.0
+MED-200912,2025-08-10,Robert Webb,8.0,Female,San Jose,Asthma,37.4,147.0,48.4
+MED-200883,2024-11-26,Stacy Giles,,Female,Maligaya,Diabetes,,,
+MED-200314,2026-02-12,Jennifer Reed,31.0,Female,Bagong Silang,Infection,36.5,229.0,67.5
+MED-200361,2025-11-30,Stephanie Wolfe,44.0,Male,San Miguel,Diabetes,36.8,225.0,46.8
+MED-200590,2026-03-20,Jeremy Brown,32.0,Female,San Jose,Checkup,36.5,206.0,65.4
+MED-200320,2025-05-26,Jeremy Cannon,68.0,Male,Bayanihan,Checkup,37.2,165.0,70.5
+MED-200921,2025-11-21,James Rollins,38.0,Female,San Isidro,Infection,36.0,253.0,36.1
+MED-200886,2025-12-21,Neil Byrd,20.0,Female,Sta. Cruz,Asthma,36.7,242.0,56.5
+MED-200672,2025-09-07,Courtney Bryan MD,43.0,Female,San Isidro,Diabetes,37.0,178.0,60.5
+MED-200564,2025-02-08,Marisa Pennington,7.0,Female,Bayanihan,Hypertension,36.2,183.0,61.7
+MED-200355,2026-04-14,Rickey Ross,0.0,Female,San Miguel,Fever,36.4,195.0,45.0
+MED-200034,2025-08-25,Jillian Hodges,36.0,Female,Del Pilar,Asthma,37.6,243.0,46.7
+MED-200334,2025-02-08,Caleb Coleman,17.0,Female,San Miguel,Infection,37.2,179.0,71.0
+MED-200688,2024-12-14,Edward Smith,19.0,Male,Rizal,Fever,38.3,235.0,69.9
+MED-200376,2024-09-06,Nathan Haynes,31.0,Male,Maligaya,Fever,37.2,181.0,59.1
+MED-200184,2024-08-11,Robert Vaughn,20.0,Male,Mabini,Infection,36.8,238.0,44.3
+MED-200823,2025-12-22,Jose Phillips,24.0,Male,San Miguel,Asthma,37.9,124.0,35.0
+MED-200423,2026-01-10,Nathan Bruce,47.0,Female,Bagong Silang,Diabetes,37.7,231.0,67.8
+MED-200325,2025-08-14,William Wilson,53.0,Female,Maligaya,Asthma,37.7,195.0,70.2
+MED-200187,2025-05-14,Jacqueline Oliver,33.0,Male,Poblacion,Diabetes,36.6,181.0,43.3
+MED-200284,2026-03-09,Andrew Lee,30.0,Male,Poblacion,Infection,35.6,127.0,93.5
+MED-200391,2026-01-25,Anthony Ford,27.0,Male,Rizal,Fever,37.4,165.0,58.3
+MED-200974,2025-01-14,Christina Garcia,,Female,San Jose,Checkup,,,
+MED-200165,2024-10-14,Scott Harrington,32.0,Female,San Isidro,Asthma,36.0,218.0,56.0
+MED-200347,2024-08-13,Timothy Jones,24.0,Female,San Jose,Hypertension,37.5,145.0,53.3
+MED-200298,2024-07-19,Brian Ortiz,53.0,Female,Del Pilar,Fever,36.4,148.0,79.8
+MED-200535,2024-07-02,David Gardner,288.0,Female,San Jose,Checkup,295.2,1508.0,492.4
+MED-200229,2025-12-06,Joshua Taylor,34.0,Male,San Jose,Checkup,35.9,205.0,74.6
+MED-200859,2025-01-17,Jacqueline Salinas,,Male,Del Pilar,Infection,,,
+MED-200827,2024-09-18,Kristin Thompson,53.0,Male,Del Pilar,Fever,36.6,227.0,70.9
+MED-200694,2025-02-02,April Allen,36.0,Female,San Miguel,Checkup,37.0,227.0,58.8
+MED-200855,2025-12-08,Betty Roberts,15.0,Male,Bagong Silang,Diabetes,37.4,218.0,82.4
+MED-200041,2024-07-27,Michelle Tran,37.0,Female,San Jose,Checkup,36.7,141.0,94.7
+MED-200868,2026-01-27,Lindsey Dean,30.0,Female,Sta. Cruz,Fever,36.8,277.0,90.3
+MED-200748,2025-12-14,Jordan Johnson,0.0,Male,Magsaysay,Fever,35.9,215.0,55.9
+MED-200938,2025-04-25,Nicole Waters,,Male,Del Pilar,Fever,,,
+MED-200862,2024-06-30,Edward Mccarty,29.0,Male,Rizal,Checkup,37.5,131.0,47.1
+MED-200587,2025-02-21,Joshua Collins,13.0,Female,Sta. Cruz,Fever,37.3,217.0,36.2
+MED-200543,2026-04-02,Roy Hardin,28.0,Female,Sta. Cruz,Asthma,36.4,141.0,46.7
+MED-200446,2025-04-12,Joseph Turner,40.0,Female,San Jose,Diabetes,36.3,188.0,50.2
+MED-200447,2024-07-23,Michelle Norton,35.0,Female,Bayanihan,Fever,36.3,233.0,63.0
+MED-200349,2025-10-26,Brenda Roman,39.0,Male,Sta. Cruz,Asthma,37.3,156.0,50.2
+MED-200045,2025-06-18,Erik Smith Jr.,22.0,Female,San Miguel,Diabetes,37.8,228.0,61.8
+MED-200980,2025-08-14,Antonio Beck,37.0,Male,San Jose,Hypertension,36.7,228.0,61.4
+MED-200108,2026-01-10,David Spencer,13.0,Male,San Miguel,Infection,37.9,288.0,48.1
+MED-200617,2025-04-22,Nathan Bond,37.0,Male,Sta. Cruz,Checkup,35.4,254.0,42.5
+MED-200661,2025-06-05,Mr. Vincent Garcia,42.0,Male,Sta. Cruz,Hypertension,38.2,234.0,49.0
+MED-200029,2024-09-18,Robert Davis,79.0,Female,Poblacion,Asthma,36.9,170.0,59.3
+MED-200181,2026-01-10,Alicia Morales DDS,52.0,Male,Bayanihan,Diabetes,37.2,291.0,61.0
+MED-200621,2025-10-24,Matthew Howe,,Female,San Miguel,Fever,,,
+MED-200419,2024-06-25,Tammy Roberts,38.0,Female,Rizal,Diabetes,36.5,242.0,78.0
+MED-200634,2025-07-21,Ashley Carpenter,0.0,Male,Sta. Cruz,Infection,36.6,193.0,35.6
+MED-200984,2024-08-15,Andrew Evans,33.0,Male,Maligaya,Checkup,37.3,118.0,63.6
+MED-200104,2024-07-21,Andrew Bell,38.0,Female,Bagong Silang,Infection,37.0,148.0,77.2
+MED-200060,2025-05-11,Andre Ellis,48.0,Male,Rizal,Checkup,36.8,232.0,45.5
+MED-200658,2024-12-27,Lisa Larson,51.0,Female,Bayanihan,Hypertension,37.4,233.0,66.8
+MED-200083,2026-04-24,Ronald Campbell,12.0,Female,Bayanihan,Infection,36.7,244.0,59.2
+MED-200490,2025-03-21,Cindy Wilson,62.0,Female,Sta. Cruz,Diabetes,37.2,172.0,50.9
+MED-200315,2025-06-14,Corey Montoya,43.0,Male,Poblacion,Checkup,36.7,273.0,48.3
+MED-200450,2025-06-19,Samantha Mckinney,59.0,Male,Rizal,Asthma,36.2,219.0,80.0
+MED-200381,2025-12-19,Madison Crosby,36.0,Female,Magsaysay,Asthma,37.9,102.0,57.3
+MED-200422,2025-01-30,Briana Greene,44.0,Male,San Isidro,Fever,37.5,199.0,76.8
+MED-200496,2024-09-01,Cindy Lang,36.0,Male,Magsaysay,Fever,37.3,157.0,69.3
+MED-200965,2025-06-17,Daniel Carter,55.0,Female,San Miguel,Fever,36.5,118.0,83.9
+MED-200739,2025-05-18,Jennifer Brewer,0.0,Female,San Isidro,Diabetes,36.2,221.0,76.9
+MED-200523,2024-09-12,Juan Garcia,65.0,Male,Del Pilar,Checkup,36.5,146.0,76.8
+MED-200445,2026-03-04,Linda Yu,88.0,Female,San Miguel,Fever,36.7,208.0,59.0
+MED-200663,2025-09-30,Rebecca Rocha,42.0,Male,Bagong Silang,Hypertension,36.1,186.0,84.2
+MED-200000,2024-11-14,Jasmine Johnson,34.0,Male,Poblacion,Checkup,37.0,271.0,71.1
+MED-200779,2025-01-29,Mr. Scott Owens,35.0,Female,Magsaysay,Hypertension,37.7,158.0,35.0
+MED-200990,2024-10-31,Carrie Lewis,36.0,Female,San Miguel,Diabetes,36.7,127.0,62.0
+MED-200626,2025-08-20,Jonathan Patel,,Male,San Jose,Asthma,,,
+MED-200457,2025-06-17,Michelle Bender,20.0,Female,Bagong Silang,Asthma,36.2,205.0,60.5
+MED-200488,2025-01-02,Catherine Underwood,26.0,Male,Maligaya,Fever,37.0,161.0,55.6
+MED-200088,2024-07-10,Jessica Contreras,13.0,Female,Maligaya,Checkup,36.0,192.0,58.4
+MED-200483,2024-06-04,Zachary Houston,32.0,Male,Mabini,Fever,37.2,152.0,47.4
+MED-200460,2024-07-30,Molly Wade,25.0,Female,San Isidro,Infection,36.3,251.0,73.5
+MED-200077,2025-03-09,Lauren Perez,68.0,Male,San Isidro,Asthma,37.4,122.0,41.7
+MED-200268,2025-08-31,Jennifer Ingram,25.0,Female,San Jose,Diabetes,37.8,151.0,46.0
+MED-200929,2024-09-27,Robert Harrison,56.0,Female,Magsaysay,Checkup,36.5,223.0,48.7
+MED-200123,2025-12-22,Colton Sanchez,55.0,Female,Mabini,Asthma,36.6,157.0,61.9
+MED-200297,2024-05-28,Katelyn Sanders,33.0,Male,Bagong Silang,Checkup,36.7,203.0,63.4
+MED-200881,2026-02-10,Michael Murphy,49.0,Female,San Jose,Infection,36.7,203.0,54.8
+MED-200095,2025-04-27,Kimberly Arias,40.0,Female,Bagong Silang,Fever,37.0,150.0,59.7
+MED-200733,2026-05-21,Michael Barker,44.0,Female,Maligaya,Hypertension,37.4,166.0,51.4
+MED-200011,2025-09-30,Darrell Flowers,27.0,Female,Bagong Silang,Checkup,37.2,198.0,76.7
+MED-200114,2026-03-18,Heather Brown,56.0,Female,Rizal,Checkup,37.7,149.0,52.2
+MED-200843,2025-01-10,Emily Dickerson,60.0,Male,Bayanihan,Checkup,36.1,117.0,63.9
+MED-200428,2026-01-23,Steven James,70.0,Female,Bagong Silang,Asthma,36.2,199.0,52.1
+MED-200257,2025-01-15,Heather Reynolds,23.0,Female,Maligaya,Diabetes,36.8,218.0,35.0
+MED-200731,2024-06-26,Scott Allen,74.0,Male,San Jose,Asthma,37.7,163.0,35.0
+MED-200949,2026-01-15,Edward Guzman,28.0,Male,Magsaysay,Diabetes,37.5,120.0,72.0
+MED-200764,2026-05-20,Paul Ray,18.0,Male,Bayanihan,Checkup,36.0,269.0,43.6
+MED-200352,2025-01-06,Sabrina Wolf,39.0,Male,Poblacion,Fever,36.7,241.0,65.8
+MED-200994,2025-10-04,Kenneth King,47.0,Female,Del Pilar,Fever,38.3,237.0,58.2
+MED-200773,2025-06-02,Ricardo Miller,9.0,Female,Rizal,Fever,37.2,176.0,42.2
+MED-200955,2025-07-13,Misty Saunders,43.0,Female,San Jose,Hypertension,36.9,185.0,56.6
+MED-200690,2024-09-06,Mr. Randall Olson,68.0,Male,San Miguel,Asthma,35.8,236.0,36.2
+MED-200922,2024-06-23,Rose Grimes,55.0,Female,Rizal,Asthma,37.7,159.0,52.1
+MED-200790,2024-07-30,David Ramirez,45.0,Female,Maligaya,Checkup,36.9,215.0,59.9
+MED-200531,2024-08-07,Jessica Ruiz,46.0,Male,Magsaysay,Diabetes,36.5,176.0,46.3
+MED-200867,2026-02-06,Debra Davis,58.0,Female,Mabini,Asthma,37.3,213.0,37.9
+MED-200169,2025-09-20,Philip Sparks,23.0,Male,San Isidro,Infection,35.9,234.0,77.9
+MED-200239,2025-06-07,Andrew Patton,12.0,Female,San Isidro,Asthma,36.9,218.0,72.2
+MED-200277,2024-12-26,Erika Payne,,Male,Bagong Silang,Infection,,,
+MED-200160,2025-10-17,Kathryn James,15.0,Male,Rizal,Hypertension,37.2,226.0,53.1
+MED-200073,2025-06-12,Donna White,60.0,Female,Del Pilar,Hypertension,37.9,248.0,64.5
+MED-200529,2025-07-22,Shelly Watson,39.0,Female,Magsaysay,Asthma,38.6,160.0,51.8
+MED-200062,2024-12-15,Joel Padilla,33.0,Male,Bayanihan,Diabetes,36.6,234.0,59.6
+MED-200761,2025-09-26,Justin Spencer,,Female,San Isidro,Asthma,,,
+MED-200492,2025-05-20,Lauren Browning,33.0,Male,San Miguel,Checkup,36.4,170.0,46.8
+MED-200740,2024-05-28,Brian Wilson MD,,Male,Bayanihan,Hypertension,,,
+MED-200750,2025-06-25,Sean Hill,18.0,Male,Del Pilar,Asthma,36.1,205.0,65.8
+MED-200741,2026-04-13,Timothy Cross,47.0,Female,Rizal,Infection,37.0,222.0,64.6
+MED-200830,2024-10-06,Scott Carter,37.0,Female,Sta. Cruz,Diabetes,35.9,173.0,74.4
+MED-200795,2025-09-03,Mark Jones,52.0,Male,Rizal,Fever,37.8,117.0,60.0
+MED-200047,2025-09-10,Lacey Mcdonald,46.0,Female,San Isidro,Fever,36.8,204.0,71.3
+MED-200762,2025-07-13,Joe Anderson Jr.,17.0,Female,Bagong Silang,Hypertension,35.7,207.0,40.4
+MED-200591,2024-08-10,Katelyn Mills,58.0,Female,Magsaysay,Asthma,37.8,80.0,57.9
+MED-200807,2025-11-22,Tiffany Nelson,48.0,Female,San Jose,Asthma,35.4,180.0,60.6
+MED-200334,2025-02-08,Caleb Coleman,17.0,Female,San Miguel,Infection,37.2,179.0,71.0
+MED-200505,2025-05-06,Sarah Finley,28.0,Female,Del Pilar,Fever,36.6,195.0,44.3
+MED-200020,2025-12-01,Leah Robinson,15.0,Female,Magsaysay,Diabetes,37.4,221.0,57.4
+MED-200968,2024-11-16,Anthony Rhodes,54.0,Male,Rizal,Hypertension,36.7,211.0,55.5
+MED-200424,2026-04-15,Laura Fritz,44.0,Male,Sta. Cruz,Infection,37.3,234.0,66.7
+MED-200652,2024-12-24,Sharon Cochran,29.0,Female,Magsaysay,Hypertension,35.8,199.0,69.7
+MED-200192,2024-10-13,Shawn Chambers,58.0,Female,San Jose,Fever,36.9,196.0,35.0
+MED-200642,2025-05-05,Brandon Edwards,43.0,Male,Mabini,Checkup,36.8,195.0,70.7
+MED-200215,2024-09-27,Christopher Mcdaniel,44.0,Male,Bayanihan,Fever,36.3,193.0,60.3
+MED-200244,2025-10-22,Jason Klein,27.0,Male,Bayanihan,Diabetes,37.4,228.0,67.9
+MED-200363,2025-02-04,Dr. Cody Blanchard DDS,29.0,Female,San Miguel,Checkup,37.6,125.0,42.0
+MED-200998,2026-02-27,Edgar Washington,47.0,Female,Sta. Cruz,Checkup,36.2,236.0,76.6
+MED-200059,2024-08-29,Daniel Reynolds,,Female,Del Pilar,Fever,,,
+MED-200221,2024-06-24,Lisa Pope,43.0,Male,Mabini,Fever,35.8,232.0,80.8
+MED-200176,2024-10-05,Alexander James,35.0,Male,San Isidro,Fever,36.7,174.0,62.2
+MED-200449,2024-07-02,Eric Cooper,288.0,Female,Maligaya,Diabetes,295.2,1508.0,492.4
+MED-200055,2025-01-08,Scott Cain,50.0,Male,Bayanihan,Hypertension,36.3,209.0,60.6
+MED-200803,2025-07-06,Anna Wilcox,14.0,Female,Magsaysay,Fever,36.2,189.0,83.2
+MED-200254,2025-08-04,Geoffrey Bryant,53.0,Male,Maligaya,Infection,37.5,218.0,60.1
+MED-200919,2026-01-01,Austin Rhodes,42.0,Female,Del Pilar,Checkup,37.5,208.0,70.8
+MED-200385,2024-12-18,Mary Taylor,46.0,Male,San Miguel,Hypertension,36.8,227.0,76.9
+MED-200948,2024-11-27,Phillip Morales,7.0,Male,Magsaysay,Infection,37.1,203.0,50.9
+MED-200197,2026-04-25,Christopher Miller,34.0,Male,Poblacion,Fever,36.9,147.0,66.0
+MED-200068,2024-07-23,David Moore,41.0,Female,San Miguel,Infection,39.0,156.0,66.6
+MED-200722,2025-08-22,Michael Smith,42.0,Male,Maligaya,Checkup,35.2,215.0,71.6
+MED-200744,2025-02-24,Andrew Barker,37.0,Male,Bagong Silang,Checkup,38.0,193.0,61.9
+MED-200713,2026-04-24,Adam Cook,10.0,Male,Rizal,Diabetes,37.3,102.0,70.9
+MED-200168,2025-06-09,Kimberly Adams,28.0,Female,Rizal,Checkup,36.7,199.0,59.3
+MED-200185,2024-06-01,Jennifer Esparza,33.0,Male,San Miguel,Hypertension,36.6,231.0,63.6
+MED-200035,2024-10-20,Terry Hall,49.0,Female,Rizal,Diabetes,36.2,248.0,69.5
+MED-200641,2025-07-14,Stephanie Williams,29.0,Male,Rizal,Hypertension,36.3,244.0,36.7
