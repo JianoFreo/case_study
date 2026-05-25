@@ -1,9 +1,8 @@
+.venv/
 __pycache__/
 .ipynb_checkpoints/
+*.pyc
 data/generated/
 data/processed/
-venv/
-env/
-*.pyc
-executed/
-dashboards/dashboard.html
+dashboards/*.html
+reports/*.pdf

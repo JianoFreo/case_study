@@ -1,14 +1,21 @@
 # Executive Summary
 
-This project demonstrates an end-to-end BI workflow for Module 3: Data Visualization & Dashboarding. Key outcomes:
+## Key KPIs
+- Total Revenue: 2,042,497.04
+- Orders Count: 1,020
+- Average Order Value: 2,002.45
 
-- Generated four realistic datasets (barangay census, sales orders, medical records, school enrollment).
-- Cleaned and prepared data for analysis.
-- Built interactive visualizations and a KPI dashboard exported to HTML.
-- Produced recommendations for stakeholders.
+## Stakeholder Insights
+- Revenue is concentrated in a small number of barangays and products.
+- The dataset contains cleanable issues such as duplicates, missing values, and outliers for practical BI exercises.
+- Dashboard trends help identify product and time-based performance patterns.
 
-Key insights (example)
+## Recommendations
+- Prioritize top-performing barangays in marketing and inventory planning.
+- Track outliers and missing values as part of data quality monitoring.
+- Use monthly trend views to anticipate demand changes.
 
-- Identify barangays with low utility access for targeted infrastructure programs.
-- Highlight products with strong revenue growth for promotional campaigns.
-- Detect departments with high average length of stay in hospitals for process improvements.
+## Business Actions
+- Build a monthly KPI review process.
+- Expand category-level reporting for deeper store performance analysis.
+- Share dashboard exports with stakeholders for consistent reporting.

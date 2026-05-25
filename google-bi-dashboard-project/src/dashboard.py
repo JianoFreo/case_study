@@ -1,26 +1,48 @@
-"""
-dashboard.py
-Functions to assemble a Plotly dashboard and export to HTML
-"""
-from plotly.subplots import make_subplots
-import plotly.graph_objects as go
+from __future__ import annotations
 
-def build_sample_dashboard(kpis, bar_df, line_df, donut_series, heat_df, scatter_df, out_html='dashboards/dashboard.html'):
-    # kpis: dict of {name: value}
-    fig = make_subplots(rows=3, cols=2, specs=[[{"type":"indicator","colspan":2}, None],[{"type":"xy"},{"type":"domain"}],[{"type":"xy"},{"type":"xy"}]], subplot_titles=("KPIs","","Bar Chart","Donut","Line Chart","Scatter"))
-    # KPIs row
-    i = 1
-    for name, val in kpis.items():
-        fig.add_trace(go.Indicator(mode='number', title={'text':name}, value=val), row=1, col=1)
-        i += 1
-    # Bar
-    fig.add_trace(go.Bar(x=bar_df.iloc[:,0], y=bar_df.iloc[:,1], name='Bar'), row=2, col=1)
-    # Donut
-    fig.add_trace(go.Pie(labels=donut_series.index, values=donut_series.values, hole=0.4), row=2, col=2)
-    # Line
-    fig.add_trace(go.Scatter(x=line_df.iloc[:,0], y=line_df.iloc[:,1], mode='lines+markers'), row=3, col=1)
-    # Scatter
-    fig.add_trace(go.Scatter(x=scatter_df.iloc[:,0], y=scatter_df.iloc[:,1], mode='markers'), row=3, col=2)
-    fig.update_layout(height=900, template='plotly_white', showlegend=False)
-    fig.write_html(out_html)
-    return out_html
+from pathlib import Path
+
+import pandas as pd
+import plotly.graph_objects as go
+from plotly.subplots import make_subplots
+
+
+def build_sample_dashboard(paths: dict[str, str], out_html: str | Path) -> str:
+    sales = pd.read_csv(paths['sales'])
+    barangay = pd.read_csv(paths['barangay'])
+    medical = pd.read_csv(paths['medical'])
+    enrollment = pd.read_csv(paths['enrollment'])
+
+    for frame, date_col in [(sales, 'order_date'), (medical, 'visit_date')]:
+        if date_col in frame.columns:
+            frame[date_col] = pd.to_datetime(frame[date_col], errors='coerce')
+
+    revenue = float(sales['total_amount'].fillna(0).sum()) if 'total_amount' in sales.columns else 0.0
+    orders = int(len(sales))
+    avg_order = float(sales['total_amount'].fillna(0).mean()) if 'total_amount' in sales.columns else 0.0
+    avg_attendance = float(enrollment['attendance_rate'].fillna(0).mean()) if 'attendance_rate' in enrollment.columns else 0.0
+
+    monthly = sales.dropna(subset=['order_date']).copy()
+    monthly = monthly.set_index('order_date').resample('M')['total_amount'].sum().reset_index() if not monthly.empty else pd.DataFrame({'order_date': [], 'total_amount': []})
+    diagnosis = medical['diagnosis'].value_counts().reset_index()
+    diagnosis.columns = ['diagnosis', 'count']
+
+    fig = make_subplots(
+        rows=2,
+        cols=2,
+        specs=[[{'type': 'indicator'}, {'type': 'indicator'}], [{'type': 'xy'}, {'type': 'xy'}]],
+        subplot_titles=('Revenue', 'Orders', 'Monthly Revenue', 'Diagnoses')
+    )
+
+    fig.add_trace(go.Indicator(mode='number', value=revenue, title={'text': 'Total Revenue'}), row=1, col=1)
+    fig.add_trace(go.Indicator(mode='number', value=orders, title={'text': 'Orders'}), row=1, col=2)
+    if not monthly.empty:
+        fig.add_trace(go.Scatter(x=monthly['order_date'], y=monthly['total_amount'], name='Monthly Revenue'), row=2, col=1)
+    if not diagnosis.empty:
+        fig.add_trace(go.Bar(x=diagnosis['diagnosis'], y=diagnosis['count'], name='Diagnoses'), row=2, col=2)
+
+    fig.update_layout(height=900, title='Google BI Dashboard', showlegend=False)
+    out_path = Path(out_html)
+    out_path.parent.mkdir(parents=True, exist_ok=True)
+    fig.write_html(out_path)
+    return str(out_path)
